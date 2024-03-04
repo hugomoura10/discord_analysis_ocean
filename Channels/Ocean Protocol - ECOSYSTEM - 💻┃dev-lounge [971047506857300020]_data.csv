@@ -1,0 +1,1261 @@
+Channel,AuthorID,Author,Date,Content,Attachments,Reactions,sentiment
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:08:00,Here goes some context - and kick-off content. Happy connecting:,,,0.5719
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:09:00,"General intro into what I believe makes NFTs so powerful (also towards the non core NFT geek members in here):
+https://twitter.com/CryptoWally2/status/1516593112247848967",,♥️ (1),0.4246
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:17:00,"Here is the basic idea of turning the new and rising idea of using NFTs as log-in into a Web3 data supply and demand hook, and how we could leverage for V4 data NFT also. It remains a fragment, as it was publicly on twitter. 
+
+It ends with a question: How to connect A) and B), accomplishing I)-IV)?
+
+The answer I didn't give in the thread, but is is clear imo, is: use data NFTs (and datatoken) to bridge the gap.
+
+As in: turn current NFTs into data NFTs (easiest V1 hack by Trent: just mint and ADD a data NFT on Ocean Market into the same wallet as the OG NFT, perform ""validation"" of legitimacy by checking if both NFTs are in the same address, also re: @realdatawhale our talk). 
+
+Apply all possible web3 newdataeconomy functionality from data nft per user AND/OR Union (datatoken, APIs, data streams, etc., your magic):
+https://twitter.com/CryptoWally2/status/1520057298361671682?s=20&t=74RsqHrytR6Y2YJ_c8WmhA",,,0.5439
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:19:00,"Last part is longer down the road and really experimental, but it basically inverts the process outlined in concept 1. and 2. and allows members of PFPclubs to start THEIR own data selling business, be it around their data pool, or completely different data points (like QR codes, tickets, physical collectibles verified e.g. via wiseart, etc). This is NOT relevant first step, but eventually relevant for your conceptual thoughts down the road:
+
+https://twitter.com/CryptoWally2/status/1520057929558376450",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:20:00,"And finally, my thoughts as I summarized them in the ocean dao channel initially: 
+
+Well said, Whale, also, well asked, Robin. 🙂 I think this might be the most intriguing time for Ocean buidl hands down: Close to major feature release, mainstream adoption still pending, dots coming together, great builders assembled. 
+
+Like: 
+Remember what I discussed with both of you by now? Also what I shared as experimentals in micro-blog threads? Roughly: Ocean Market as hub for dataPFPs / NFT -> dataNFT + datatoken?
+
+I personally cannot commit too much time to this till Q3/Q4 (core prios/responsibilities), but my gut tells me, with your brain power combined, and a few new players like The Data Shift or WeDataNation in Ocean town, ""retail adoption/mobile apps/dapps/good stuff for regular #web3 humans"" magic might be right around the corner. We only need to lift the treasure. With the current NFT traction and dataNFT coming, you could turn this into smth truly beautiful, when combining forces.",,♥️ (1),0.97
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:20:00,"As in: 
+What IF, in Alga (or else), I NOT ONLY:
+-  view, manage, trade, and evtl. stake (on) datatoken,
+
+but I ALSO:
+- manage ""my"" dataPFP, 
+- browse #Web3 in it (built-in browser like Metamask today), 
+- log into services with my Ocean dataNFT (compare: Twitter Blue, but also Opensea, rarity trackers, etc.) and, 
+
+- - that's where we would start to differ/go further: 
+- also manage my own data and licenses in it, like: 
+- datatoken per dApp-class (social, trading, mobility, etc., ), 
+- manage which data I want to share with which platform OR platform-class
+- manage your sub-licenses (no further explanation for now, talk to RDW/Mo), 
+- basically all ""my"" personal data-sets/datatoken, just like 
+- my ""participation"" in Data Unions / ""full-bundle data sets of, say, 2 million social media users""?
+
+I think none of you could build all of this alone, but I think you could do it together, where different entities could contribute different perspectives / skill-sets / superpowers. 
+
+This would all be up to YOU from here :), but rough thinking would be:
+
+- RealDataWhale = dApp/mobile App skills, community
+- DataUnion = dApp skills PLUS Data Union skills, as in: what makes the most valuable data SETS, on micro (individual) and on macro (aggregated , compare above: 2 million social media users) level
+- The Data Shift = ""GenZ"" NewDataEconomy Narrative / storytelling skills (compare: data decoder, e.a.), NFT/Mint/Whitelist-Skills, Twitter/Discord strong
+- WeDataNation = Also around Millenial/GenZ narrative, with stronger Data Union focus and background, complementary, yet also slightly different from The Data Shift, European focus (both just fuzzy allocation, contintents, but important)
+- DataLatte = experienced in the field of creating self-service tools for data supply from retail platforms, Netflix
+- FELTtoken = deep machine learning <-> compute to data skills, as in: what would be the most valuable/efficient data-APIs for eg social media platforms in this example?",,♥️ (1),0.9793
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:21:00,".
+.
+This is ALL out in the open, #Web3 style, as we DO play a positive sum game here - FOR A CHANGE -, so I would rely on you beautiful folks to sync on this concept if you feel it is valuable enough, and, ideally, include everyone who is interested. That's the only way we can succeed. Everyone contributes what he knows and does best, all opinions are respected equally, as we are all great builders imo, even for being here and granted. 😉
+
+For example: without the right APIs for platforms, this won't work (e.g. Felt, also Lynx/Algovera imo). Then: to get retail traction, a multi-""channel"" approach works best, hence: I'd love you to include all 3 retail facing supply GUI players like TDS, WDN and Latte in this. Also: without the experience of what makes the most valuable data sets (/Data Unions), this won't work. And so forth. Happy building and keep me in the loop! 😘",,,0.9947
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:25:00,"Final words:
+1.) I am sorry for just throwing this in front of your feed while this could be a complete concept of its own, potentially powerful. Yet, since Ocean Protocol is as big and universal as it is, this is STILL one vertical, one way of bridging where we are at with our Tech as Ocean Protocol and where the crypto space is at.
+
+2.) This is still the best I could do, given the big roadmap OPF has in front of it. So by making it a combined, but still an ""integration layer"" effort in the ecosystem, I hope that this concept can prosper and create great data supply and demand for Ocean Protocol, while I can still focus on my core tasks at hand and not disappoint either the brilliant visionaries in the team (way greater than me) or the community (both Ocean and DAO)
+
+3.) This is a first in OceanDAO land, afaik. So please treat it as such: it is NOT a core OPF project or effort. It's experimental by me, Wally. I applied my old ecosystem hat thinking from my work in GSMA with Google, Telekom AT&T, etc.
+
+In a different world and time, I would have made this the core strategy flagship, a ""speedboat"" as they call it. But those times, enterprise, are luckily over! 
+
+In Ocean,  our roadmap is so packed (you know it), I would only have had greenlight to look at this full focus in Q3, but I was so afraid it would be too lated by then. 
+
+SO we do a compromise, Web3 style. I am kickstarting a positive sum game by handing over all my thoughts and the hat over to you instead. The brilliant builders in OceanDAO land. So as always: be open, be supportive, don't own or hide ideas, rather share them openly (10x better) and build components legostyle that work together, towards a first lean, then continously improved UX, also define limits where your bandwidth is exceeded, in general: make us proud, web3 style, hand in hand. 🌊☯️🙌
+
+I will try to come in here, consult, and help develop ideas, but I cannot promise anything. Hope that's ok w/ you.",,,0.9978
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:39:00,"And as promised: 
+When you guys get there, you will be looking around for NFT PFPclubs (like BAYC) that have similar mechanics than the OG BAYC to partner with for a pilot, as in: 
+- loyal community, 
+- adored art, 
+- the desire and drive to grow the club and add utility to the NFTs 
+- great trait-structure (smiles, hats, etc.) 
+
+That's why I, as a former journalist, spent weeks (at night times mostly) in different NFT PPFclubs, initially to understand the dynamics. 
+
+The best candidate I could find is @LilBabyApeClub. They were one of the most anticipated NFT launches last year, with staking already live (Lilbanana), and a strong community, with some initial growing pains. The club is legit, I spent, as said, weeks in there, and the growing pains will very soon be resolved. I'm in contact with the community lead and will make the contact as soon as our POTENTIAL collab-pilot/proto would be ready for it.",,♥️ (1),0.9752
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],194817764236460034,robinlehmann,2022-05-03 22:48:00,Hey @Wally thank you for the invite - I think multiple projects in here are working in this direction. At least we have a working group with similar goals in the DU ecosystem. But we take it a bunch of steps further as from my point of view it is not legal to issue a ERC20 access token and create a pool for it eg in Europe - but that’s just my interpretation.,,,0.4845
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 22:55:00,"Open to discuss for everyone. IMO, if we do it right, this should become a general enabler for many projects in OceanDAO. And as stated as well: MY goal here is for YOU to discuss this in the group, without me fully involved, as a compromise balancing core tasks and potential value of the concept. 
+
+It is all documented above, but the main trigger would be enriching current NFTs towards a dataNFT, pulling your personal data that result from you using a platform after you logged into it with your dataPFP (defining APIs here as well, hence adding FELT), just like offering the platforms you log into with your NFT the ability to pull data from your former/past e.g. social media actions / usage of platforms to enrich their on-site experience for you. 
+
+But please, everyone in here, you go discuss this. Cheers!",,,0.96
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 23:17:00,"Welcome everyone, all details above 👆
+
+@realdatawhale  @Sam  @Raphael|WeDataNation  @Dave - TDS  @dudeAmir | datalatte  @Bret @Robin | DataUnion @richardblythman  @xandramcc",,"🚀 (5),🍻 (1)",0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-05-03 23:39:00,👋,,❤️ (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],194817764236460034,robinlehmann,2022-05-03 23:41:00,I added @Shamburgularara and @Hithesh as well as @Mark  - any more people missing?,,🙏 (1),-0.0972
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 23:42:00,"Sam, you go:",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-03 23:42:00,"(I see it is starting, ENJOY the sync and buidl)",,,0.6037
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2022-05-03 23:43:00,I think this is a great idea!,,💜 (1),0.6588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-04 00:05:00,"btw: thx for taking the initiative here @Robin | DataUnion! I think combining the forces in here, with their different merits and skill sets, will be awesome. Thank you ol mate, I remember discussing this with you briefly even before I joined OPF. Have great fun, everyone!",,,0.9627
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-05-04 00:15:00,"I will jump into the conversation tomorrow morning as it's night here already, but in short I think it's a great idea worth exploring. 
+
+As I was saying to Malte, fact shows that we are VERY late for the NFT hype right now, and BAYC dropping in FP is creating instability in the space. However, a new recent trend (healthier for us too) could be ENS.
+
+I was in a Spaces with ENS founder @avsa and he was saying how overwhelmed the team was about this recent community-driven effort (referring to the 10k club) and so to further drive adoption of ENS (and revenue) they are considering creating the tools to allow the creation of different ""NFT collections"" within the ENS ecosystem. (10k club, 100kclub, 3letters club, 24h club)
+
+The ENS ecosystem will probably kick off the growth of different collections the same way we saw with OpenSea - in which each collection has their stewards + utlity sort to speak. This is not directly related to Data, but a trend to hook on perhaps.
+
+Lots to discuss and not a clear direction yet, but I agree that PFPs will have stronger utility and could help OP/DataNFTs gain more exposure.",,,0.9876
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],947540195996209223,raphael_wedatanation,2022-05-04 00:32:00,"Thanks for your effort @Wally, I can feel your excitement ❤️‍🔥",,❤️ (3),0.7269
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],947540195996209223,raphael_wedatanation,2022-05-04 00:32:00,"ENS indeed sounds very promising
+https://ens.domains/de/",,,0.4576
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-05-04 00:35:00,"More info for those of you not aware of the ENS recent developments: 
+
+1) https://twitter.com/avsa/status/1521528409356222465?s=21&t=xuNoDh2o1v1jiq7VhSaw2A
+
+2) https://discuss.ens.domains/t/ens-affiliate-marketing-affiliate-program/11819
+
+If we find a way to merge the concept of DataNFT with Identiy/PFP via ENS we could be onto something interesting.",,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-05 00:19:00,"Hey everyone, in the interest of full, 100% transparency, also since I was the only one, afaik, sharing a not yet published concept, and it is in line with @trentmc0 to be out in the open for everyone to build or experiment around it, I will **turn this into an open channel now**. 
+
+Clarifying:
+- This is not a working group
+- This is not related to the core Ocean roadmap
+- The purpose is rather to ""play"" or experiment with the concept of data NFTs 
+- This is NOT scope of V4, but it can be built ON TOP of V4 (if you like to)
+- This is an early experimental concept of mine that Trent kindly greenlighted 🙏 to be put out there early, when it started trending (PFP NFT as ID) 
+- This is for everyone to see and to potentially collaborate on it (Web3 style, positive sum game, no secrets)
+- We would love for everything that could result from this to lead to data supply and demand on Ocean Market (and we think Ocean is the best toolset for this)
+- I will not steward or lead this channel
+- I will come in and say Hi when core tasks allow for it
+- This is an open ""meet, chat, exchange ideas, collaborate on them"" kinda room
+- And a ""reader"" for the experimental concept for everyone
+- Nothing more
+
+Enjoy this early experiment, and take it from here. If things progress and we see interest in this topic, we reserved a potential roadmap item for this in Q4, so we could swag it up for and with you and build infra around it, if we all feel it is worth the invest of energy and time. 
+
+Thank you 🌊☯️😘",,"❤️ (3),ocean (2)",0.9919
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],194817764236460034,robinlehmann,2022-05-05 05:43:00,"A serum in the form of a GAN application to PFPs?
+
+Here is what a Twitter user created from my PFP with a GAN network:","https://cdn.discordapp.com/attachments/971047506857300020/971527399638466560/functionland_nft2.png?ex=65dfa8e6&is=65cd33e6&hm=c91cea84c1b2e01b266b9b868fd836e73469d64c6dc4ac3ae9c42e6eb1e313e3&,https://cdn.discordapp.com/attachments/971047506857300020/971527399885910136/pfp_gan.jpeg?ex=65dfa8e6&is=65cd33e6&hm=0d9e00e33398be246c5c7a5b271a4ad073249471023dfebb49171bcc43c9176b&,https://cdn.discordapp.com/attachments/971047506857300020/971527400137580554/pfp_gan2.jpeg?ex=65dfa8e6&is=65cd33e6&hm=bba7e6fc3d1ca6a2a9f3e2cb8bc733fd6ba9f2ae74c443d662174a323ac08719&,https://cdn.discordapp.com/attachments/971047506857300020/971527400372457512/pfp_gan3.jpeg?ex=65dfa8e6&is=65cd33e6&hm=31c3c99f451c4dca4bdf6811db22e53ed2c4f264c024e5f3408bc6895e4b666a&,https://cdn.discordapp.com/attachments/971047506857300020/971527400611520622/pfp_gan4.jpeg?ex=65dfa8e6&is=65cd33e6&hm=b2b2e97e8afad80a3955483d5cf5455b36477aca20585a6ff69dea35af04aa52&","🔥 (1),🥳 (1)",0.25
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],194817764236460034,robinlehmann,2022-05-05 05:43:00,And these images could then be connected to the data NFT or added to a decentralised data wallet connected to the airdropped data NFT - that would be a cool marketing stunt,,"eyesShaking (2),🙌 (1)",0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],305723947658379274,drprk.eth,2022-05-05 08:40:00,Good insights 👍  Were you able to get insights on any anticipatory 'hype/trends' that the ENS team might be focusing on,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],305723947658379274,drprk.eth,2022-05-05 08:44:00,A bunch of Ocean serums could be cool.,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],369700858742571008,mantisclone,2022-05-05 17:51:00,"I think it might be cool to make a dynamic PFP NFT that evolves periodically as the data connected to ones DataNFT changes.
+
+Or maybe it could be more like a digital pet that you feed datatokens and it evolves differently depending on the types of data attached to those datatokens.",,👍 (3),0.7713
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],209963946432528384,zippy1979,2022-05-06 01:53:00,Gotta catch em all 😉,,pikaOMG (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],857435508518682645,christian_casazza,2022-05-06 09:11:00,https://www.charged.fi,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],857435508518682645,christian_casazza,2022-05-06 09:16:00,"It seems like Ocean V4 provides a similar function, if not slightly different. With the ability to create multiple sublicenses against a base IP. The messaging is different though,  I wonder how everyone would compare the two",,,0.7096
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],782929693446897695,realdatawhale,2022-05-06 14:49:00,https://twitter.com/ljxie/status/1522383627090337792?s=21&t=qmbTCMltU-HJmJJ3-_6nzQ,,"🚀 (4),❤️ (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],782929693446897695,realdatawhale,2022-05-06 14:49:00,Cool idea!,,,0.3802
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],369700858742571008,mantisclone,2022-05-06 22:26:00,"I wonder if it would ever make sense to rent a DataNFT with protocols like reNFT.  My gut feeling on this is no - it wouldn't make sense, because access rights to a DataNFT can be expressed as Datatokens, thus, there's no point in renting the underlying NFT.
+
+I also wonder if it would ever make sense to borrow against a DataNFT with protocols like NFTfi. My gut feeling is maybe?, but there's a lot of details to think through.",,,0.2023
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2022-05-09 23:28:00,Tricky to say.. My gut feel is also a no.,,👍 (1),-0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],218870066832343040,neurosyft#1798,2022-05-10 01:28:00,There is a value imo. I could see a A machine learning dao to rent a set of datanfts to have unlimited use of training data for a period of time? Or to try monetize the data on your behalf?,,,0.4137
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2022-05-10 01:36:00,True - did not think of this..,,,0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],215394853566021632,trishul#4714,2022-05-10 13:40:00,the amount of GAN training it takes to generate this high level output is insane actually!!! kudos to whoever trained the model or even generated these!!! GAN training is tough,,👍 (1),0.3111
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],194817764236460034,robinlehmann,2022-05-11 02:52:00,"This is done using Midjourney - https://twitter.com/midjourney
+Still in Beta but a Twitter user made it for me.",,😮 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],369700858742571008,mantisclone,2022-05-11 04:17:00,"> unlimited use of training data for a period of time
+This is possible using datatokens and wouldn't require the data nft owner to relinquish control of the data nft. When creating the datatoken, specify the `timeout` to be the number of seconds that a given order is valid for. The dataset or algorithm can then be consumed or used for compute-to-data as many times as the consumer wants until the timeout is reached.
+
+> Or to try monetize the data on your behalf?
+I could imagine a professional service that runs ocean infrastructure on behalf of a data publisher. This would certainly require some off-chain coordination and trust, but could still be accomplished using datatokens. The datatoken's `service_endpoint` could point to a provider instance run by the ocean infrastructure provider.  The infrastructure provider would collect provider fees while the data nft owner collects order fees.",,,0.8248
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],490494464331087912,TimDaub#7709,2022-05-13 00:17:00,Too little EIP-4973 hype in this thread 😄 https://github.com/ethereum/EIPs/pull/4973,,👀 (2),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-14 05:11:00,"Displaying parameters (or functionality, like Ocean dataNFT) with traits (or by adding them) is a powerful thing. Could be an Ocean watermark, or certain clothes, or items.",,,0.7506
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-14 05:21:00,"Btw, congrats @TimDaub | Kiwi News 
+
+https://deliverypdf.ssrn.com/delivery.php?ID=500081090119071067069117000112109005101045049046016042072027067122094089124087002005023096127020057022043124098090113015018081114061008054038084008085091066070082069014023083118094006031093096117085012022103000096080079012121127118089029120090102005096&EXT=pdf&INDEX=TRUE",,🙂 (1),0.5267
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-14 05:24:00,"In a decentralized society, bringing your data to the services you use, and taking it with you when you leave, ensures you control and own your data. You would pick/use those dApps that incentivize you best for sharing your data. 
+
+Companies could/should receive royalties for the data they provide/“write”, when used by other dApps you log into, or they share/monetize their aggregated data sets with/against each other, like e.g. Google and Facebook could (similar settings/relevant data points), which would be their incentives. 
+
+https://github.com/oceanprotocol/ocean.py/blob/v4main/READMEs/profile-nfts-flow.md",,,0.891
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],857435508518682645,christian_casazza,2022-05-15 08:17:00,https://bigdataprotocol.com,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],857435508518682645,christian_casazza,2022-05-15 08:19:00,"Would anyone be able to explain Big Data Protocols tokenomics if possible? I am a little confused on the purpose of the bALPHA and bBETA tokens purpose, was wondering if anyone could explain more clearly, thanks",,,0.6327
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],490494464331087912,TimDaub#7709,2022-05-16 16:12:00,Sadly the standards attempt from me wasn't mentioned in that paper - but yeah we reached similar conclusions independently I guess 😄,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-16 17:28:00,"🤣 I'd say it cannot be ruled out that you inspired them - and adding: great, so let's build the next iteration of this idea. 😉
+
+Happy Monday everyone! 🌊🏗",,,0.906
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],972046847663308810,Emily🥨#7608,2022-05-17 16:33:00,I really wants to sell out my nft anybody interested kindly dm me,,,0.7096
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],209963946432528384,zippy1979,2022-05-20 19:12:00,"This isn't the right place for this buddy. If you want to sell an NFT, I would recommend a marketplace like OpenSea or LooksRare 🙂",,🙌 (2),0.6486
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776621646235959359,dogerton,2022-05-21 08:37:00,does ocean have NFTs?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-21 20:51:00,"Hi @doger, soon it will. They're called data NFT. With its main ""traits"" being that you can mint/release datatoken (ERC20) with it, selling your data (or any data, URL, QR, items, login, etc) with it. Else, they are usable just like ""regular"" NFT, transferrable, usable on Opensea, etc. In addition, you can ""program"" them, as in adding key-value pairs to it, at your own discretion. If you scroll up to the top of the channel, you see some initial example use cases. If you are interested further, we can post some technical readmes here. 
+
+Have a nice we!",,♥️ (1),0.8439
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-21 20:51:00,"*They will come with Ocean Onda (V4), this Q.",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-21 20:52:00,"**seeing your Bio, you will also like Data Farming, coming with V4, too.",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776621646235959359,dogerton,2022-05-22 00:10:00,pretty based. Who is oceans biggest competitor?,,,0.4939
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-22 20:13:00,"Amazon, Facebook, Google 😉",,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776621646235959359,dogerton,2022-05-22 23:30:00,not link?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-23 11:22:00,"They're our partners:
+ https://blog.oceanprotocol.com/ocean-protocol-chainlink-integration-e7335f880ea3",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],148686391725916160,0x069,2022-05-30 11:48:00,hi @Wally how does ocean protocol relate to the Data shift project? https://twitter.com/thedatashift,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],218870066832343040,neurosyft#1798,2022-05-30 13:00:00,Data shift is dao grantee and uses ocean under the hood,,💙 (2),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2022-05-30 15:26:00,@neurosyft said it best 👾,,,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-05-30 18:31:00,Exactly,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],148686391725916160,0x069,2022-05-30 22:52:00,ty,,,0.3818
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-06-01 18:21:00,@Gary ],,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],450493901531250699,flowscience,2022-06-04 00:57:00,"I've been getting into some interesting conversations about data ownership and IP-NFTs lately. Can data be owned? 
+
+As a DAO launching a fork of Ocean Market we're running into some community concerns about  a potential ""staking rush"" of people making claims of data ownership & profiting off them when there will definitely be contested claims down the road. Some potential solutions included using verifiable credentials or decentralized identity solutions but there is still a missing link between the IP-NFT and the real world assets (not data) associated with them. 
+
+Here are a couple threads started by Encrypgen that I chimed in on (directly referencing the Ocean Whitepaper in the 2nd thread):
+https://twitter.com/Encrypgen/status/1532094137096364033?t=TCduNDzJ0KObHUwTnSrBLA&s=19
+
+https://twitter.com/Encrypgen/status/1532709366423429120?t=pFLds7YZaZ2l0o8cclRNXw&s=19",,👍 (1),0.6111
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],450493901531250699,flowscience,2022-06-04 01:04:00,I'm super curious to learn more about this. Seems like what genomes.io might be doing with Geneticats,,,0.8271
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],377943817736683520,bu.ba,2022-07-10 22:09:00,I'm very interested in this topic. Curious to see what you find.,,,0.6478
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-07-17 18:52:00,"A different twist I noticed lately, with interesting potential for Ocean.
+
+More and more profile picture clubs run into the issue of 
+
+""*How to balance PFPclub/project control over copyright*s 
+vs
+*PFP NFT holders monetizing on their art via copyright/licensing deals,* 
+like lending out for music videos, openings, movies, etc.""
+
+Here's a manual example. This could be much more elegant, automated (and auto generating token incentives). Via:
+
+data NFT -> datatoken -> data sets with:
+""art-sources""
++license agreement
++sign
++""enforcement""/pay per usage",https://cdn.discordapp.com/attachments/971047506857300020/998180367611723888/Bildschirmfoto_2022-07-16_um_15.34.37.png?ex=65e45668&is=65d1e168&hm=feaa871febefb87b4d6cce8fe6e6f5c29e0ce894974aa67acd51820fdbbef381&,,0.8955
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-07-17 18:55:00,"Same club raised another idea in addition:
+
+Enrich each ""Character"" with a backstory, stories, preferences, basically needed details to use the whole ""Character"", potentially allowing partners to add on these (what Ape experienced in TV Show Episode X), getting royalties. 
+
+These could all be single text-data-points in different datatoken, attached to a data NFT. 
+
+No need to anonymize really. For you to reach out to them, and to understand the potential. PLUR is tailored for 3D high res, and will be part of a Metaverse Game, coming out Q1 2023. 
+
+I'm sure they're not the only one running into this ""issue"", for us: potential.
+
+[Screenshot on convo added below 👇(""Convo on..."")]",,,0.0516
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-07-17 19:01:00,"Adding UWT (use what's there):
+
+While the final goal here would be to actually mint profile pic NFTs as data NFTs, have full Ocean funct (data sets, datatoken, agreements, sublicenses, payments) on-board from day one, 
+
+there's a second line of thinking (from Trent) 
+- Carry second NFT (data NFT) as license card,
+- Named after Art/PFP NFT (eg PLUR #1477 License NFT), 
+- Held in wallet with PFP NFT
+- Proof-of -authenticity, beyond single CNM (Central NFT Marketplace) Auth API 
+- Attach sub-licensing to License data NFT via data sets -> data token
+- Partners buy data token to access license X,Y,Z of ""Character"" #1477 for A weeks.
+
+Collaborators I see going after that (not limited to those ofc;
+@realdatawhale (strong biz outreacher / great connections)
+@Sam  (TDS working on data NFT as PFP long term vision)
+@Dave - TDS (TDS working on data NFT as PFP long term vision)
+@dudeAmir | datalatte (NFT x data monetization x data science Ocean OG)
+@Phil (walt.id) (Enterprise-grade backend for data NFT as DID for e.g. login)
+
+
+Closing:
+- Potential low hanging fruit.
+- data consume is the name of the game
+- None of this requires enhanced AI/ML-work
+- ""first step automate"" current manual dilemma (paper license agreements are cringe in PFP land)
+- first cut would include: 
+- data NFT as license card 
+- purchase datatoken with URLs for license T&C, agreements
+- add more complex (levels) of license management over time
+- make consume as seamless as possible
+- with strong/fun/minimal dapp for this
+- incl. mint license data NFT and simp licenses to be purchased, I guess
+- (latter ofc up to builders)
+
+CC:
+@trentmc0 @Idiom | Ocean Protocol @Andrea | Ocean Protocol @Sheridan | Ocean Protocol",,👾 (1),0.5574
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-07-17 19:14:00,"PS:
+Once again, disecting the usual hype/buzz and what sm still think is ""CryptoKitties 2.0"" or a jpg-casino from what's really going on, I would recommend the read below. As in:
+- in my example, we talk PFP NFTs, for marketing, gaming, movie-industry
+- could be just as well publishers/youtubers/tiktokers, monetizing different sets of content
+
+https://cointelegraph.com/news/the-creator-economy-how-we-arrived-there-and-why-we-need-its-web3-upgrade",,,0.5574
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-07-17 19:56:00,"(Convo on adding backstories, etc. to PFP NFTs)",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-08-27 14:46:00,"An article I recently read reminded me of what this channel was created for back in May.
+
+To open up discussions about the great use case of Ocean’s Data NFTs, one of which as identity NFTs - or Data NFTs as PFP to reference @Wally
+
+Quick guide on how to use DataNFTs as Identity NFTs here 👇🏼 
+
+https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/profile-nfts-flow.md",,💗 (1),0.7269
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-08-27 15:05:00,"Also, thinking about this: https://www.forbes.com/sites/daveywinder/2022/08/25/lastpass-hacked-password-manager-with-25-million-users-confirms-breach/
+
+This article is a great example on how useful it could be to build a Web3 version of LastPass on Ocean. An initial, easy go-to-market approach could be to use Ocean’s DT for password access control and DataNFTs for passwords management",,🙌 (6),0.872
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],646837640980856862,hebbianloop,2022-09-27 19:57:00,never knew that the us fed gov has their own cloud services marketplace https://marketplace.fedramp.gov/#!/products,,👀 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],401223631050506240,.scottm3,2022-10-01 21:46:00,"There could be quite an interesting opportunity for Ocean Markets to target this niche https://www.eaglealpha.com/2022/04/19/the-rise-in-alternative-data-for-crypto-investors/#:~:text=There%20are%20three%20primary%20alternative,with%20relevant%20use%20cases%20alongside.",,"🔥 (3),👀 (2)",0.722
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-10-04 20:16:00,Great read. True indeed. Super valuable data. 👌,,🔥 (1),0.9313
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],837766297651511306,.kluless,2022-10-05 20:38:00,"Hi @Andrea | Ocean Protocol , glad to be here 🙂",,,0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-10-05 20:44:00,Welcome aboard Oceaner! Keep an eye on the #📊︱data-science-hub channel for more info 😎,,🔥 (2),0.5255
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-10-05 22:39:00,Welcome! 🖖,,,0.5093
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-11-23 01:36:00,"@🤝 Contributor @🕸️Web3 OG @💻Developer 
+
+Let the BUIDL continue!
+
+Spinning out of OceanDAO Town Halls, this is where ecosystem builder projects will meet to update, sync on, and showcase their latest product updates from here on.
+
+Ocean Ecosystem Lounge, happening every second Wednesday, is a place to form synergies, learn the latest Ocean updates, and build new and existing products on top of Ocean, for true Web3 data sovereignty across all verticals, together! 🌊🙌
+
+https://discord.com/events/612953348487905282/1044245807274135592",,,0.6351
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2022-11-23 02:46:00,gm 👀,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2022-11-23 16:28:00,Morning to all builders ☀️,,👋 (3),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-11-23 23:29:00,A very BEAUTIFUL Bonjour to all Ocean builders ❤️,,🔥 (2),0.7119
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2022-11-24 00:15:00,gm 🌐,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2022-11-25 23:14:00,GM,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],934935088381169674,Equanikus#1962,2022-11-28 00:21:00,@Sephyr here it goes,https://cdn.discordapp.com/attachments/971047506857300020/1046460824052572220/image.png?ex=65e4a396&is=65d22e96&hm=997b79a5ec4866b458cc7a9383d69d7497785552d34536757fb959fb5505e81f&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843787928622989322,cassette38,2022-12-08 00:10:00,https://blog.oceanprotocol.com/introducing-the-latest-ocean-data-challenge-storage-network-energy-consumption-6316b1045cac,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],994272939476267018,graceful.coder,2022-12-08 00:11:00,"Can you use #datascience to predict #ETH?
+
+Compete in our Predict ETH Data Challenge and... Get up to $2,500 in #crypto for being a boss #DataScientist 💪
+
+Submit your proposal here:  
+https://questbook.app/explore_grants/about_grant/?grantId=0x9f248741962aaf27bd10f2c50aeec2d13f343611&chainId=137&utm_source=Questbook",,,0.168
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],994272939476267018,graceful.coder,2022-12-08 00:11:00,N/A,https://cdn.discordapp.com/attachments/971047506857300020/1050082164982694030/ethpredict.png?ex=65df5b39&is=65cce639&hm=08c9cfeda95b76e5a45abded6a4abfb0d37d574e749dcdb802d898bb55971e76&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],940893602719100958,jpdiel_symbioniq,2022-12-21 15:40:00,"Keen to network in this ecosystem - I will introduce ourselves briefly here too:
+
+🖖 I am JP - founder of SymbionIQ Labs ltd - we are a pre-seed startup in New Zealand. We are dealing with Health and fitness data and wearables (our own hardware ultimately) recording and trading biomechanic data. 
+Keen to explore Ocean Protocol to understand how it could fit into our plans - maybe to build upon or fork from. Cheers",,🙌 (3),0.9222
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-05 00:15:00,https://twitter.com/DatateraTech,,♥️ (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-05 00:15:00,@Datatera | Tugce - CEO @Mats Brodén Metaverse Nordic Pow,,👋 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-05 00:48:00,"@JeeZ MoveID, DeltaDAO, GEN-X, @kaimeinke 
+
+-> Interesting concept from Jeez regarding ESG x Banks x Institutions. Interesting for you to sync imo",,,0.6597
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-05 00:50:00,euProGigant -> GEN-X,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-06 22:57:00,"Also tagging @Christian_Casazza here. As discussed today, @JeeZ is the builder who joined us lately (Ambassadors), looking into building a data exchange solution for risk assessment / ESG data. 
+
+No CTA, just if you are interested in chatting/exchanging data, Chris is a colleague of mine from our product/concept team, specializing also in ESG data.",,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],214438723469705226,jeez7829,2023-01-07 01:49:00,Thanks a lot for your help @Wally  I already sent a dm to kai 🙂 I will do the same for Christian so that we can have a call and discuss the idea further !,,,0.7088
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-07 02:09:00,"Cool, that's great to hear! Hope Kai gets that I recommended you (he's super busy). If he doesn't respond soon, maybe re-touch with info I recommended you to sync. Chris is also an amazing sparings partner. Have a great evening!",,,0.9758
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],214438723469705226,jeez7829,2023-01-07 02:21:00,Thanks !! Lets give him a bit of time and then we will see I will maybe send him an email if no answers in a couple of days,,,0.3147
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],214438723469705226,jeez7829,2023-01-07 02:21:00,You too :)! Enjoying the weekend before I restart work,,,0.5707
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],781134177406943272,liquidsurfer,2023-01-09 02:48:00,gm 💙,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],398595893437136898,dennis6722782,2023-01-12 02:14:00,"i like your approach, we did this in our earlier years, mostly weighing scale data. storing and sending in a decentralized manner so no privacy could be breached.",,💖 (1),-0.0941
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],398595893437136898,dennis6722782,2023-01-12 02:26:00,https://drive.google.com/file/d/1d8A7tymsuUTc11eUazGiE1zZWioiCsCe/view?usp=share_link   @JP DIEL - SYMBIONIQ LABS check out here the product in cooperation with Tanita. Always open to chat and/or give pointers.,,🔥 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-12 23:41:00,"Currently discussing this realm. For this also adding @Idiom | Ocean Protocol, who has been talking to interesting entities from the counterparty, companies to share their data towards e.g. banks. 
+
+@Christian_Casazza currently in charge of biz dev/concept for this, while @Idiom | Ocean Protocol is one of our product leads.",,,0.5994
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-19 00:15:00,"For the purpose of syncing about this:
+https://www.healthlinkprotocol.com/
+
+I am tagging @Datatera | Tugce - CEO from DataTera for a dedicated live Ocean Health Data Marketplace
+
+I am tagging @kaimeinke, with regards to potential GEN-X collaboration, also for regulatory requirements regarding health data",,🙌 (1),0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843787928622989322,cassette38,2023-01-19 00:27:00,https://blog.oceanprotocol.com/introducing-desightsai-the-web3-data-competition-platform-built-on-ocean-protocol-5a9e099fd3e2,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843787928622989322,cassette38,2023-01-19 00:29:00,https://discord.com/invite/uBhKRmQ5H6,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-19 00:40:00,https://blog.oceanprotocol.com/from-ai-to-blockchain-to-data-meet-ocean-f210ff460465,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843787928622989322,cassette38,2023-01-19 00:40:00,https://blog.oceanprotocol.com/from-ai-to-blockchain-to-data-meet-ocean-f210ff460465,,🚀 (2),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843787928622989322,cassette38,2023-01-19 00:40:00,"Yeah, this is the one :))",,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-19 00:40:00,https://www.ted.com/talks/trent_mcconaghy_a_new_data_economy_with_power_to_the_people,,🙌 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],590210726933823499,tugceozdeger,2023-01-19 02:05:00,Hi guys👋  Thanks for tagging. Not sure what you discussed earlier. Would be nice if someone brief me about how I can be of help.😊,,,0.5773
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],704093436952969246,Timothy.AthenaProtocol.Eth#2384,2023-01-24 22:04:00,"I thought I'd come by and share something pretty exciting that we have been working on over the past few months. 
+
+Athena Protocol is a member organization and founder of dMeter, a dao for the creation of open standards in MRV ( monitoring reporting and verification ) for ESG. This organization has begun to develop its system of governance of these open standards, and Athena Protocol is leading the Engineering Circle, helping to bring adoption of Ocean Protocol Tools and softwares. Our work creating signed claims and comments for the ocean stack has prepared us to compose our middleware's into a data transaction and verification layer capable of conducting audits and certifying ecosystem services. We have a list of organizations planing to integrate with our middleware. 
+
+One organization Im very excited to announce in particular participating in the integrations is the Regen Network ! They will be modifying their attestations to accept IPFS hashes, as well as working with us to develop a shared meta-data schema for v2 of our contracts.  v2 will include geospatial indicators for data assets for easy spatial searches and more!",,❤️ (2),0.9827
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-25 19:00:00,Also interesting for @JeeZ,,❤️ (1),0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-01-25 19:01:00,"Hi @Datatera | Tugce - CEO, sure! I tagged you in the Ecosystem lounge, during a conversation. The builder asking for connections / collabo in the health realm was @docwagmi. If he reaches out to you, it was about this. They have a pilot set up with about 100 doctors willing to securely share medical/patient data. Enjoy, and thanks for getting back on this!",,🙌 (2),0.915
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],738223935111430184,_misteranderson,2023-01-28 18:29:00,"Hi all, I wonder whether Ocean protocol plans to set up its own chain rather than ethereum? ETH mainnet is really expensive",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],590210726933823499,tugceozdeger,2023-02-01 02:51:00,Sounds great🥳 @docwagmi reach out to me asap then since we are also building a pilot test with medical images.,,👍 (1),0.0258
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],902775529462173696,docwagmi,2023-02-01 08:23:00,Awesome! Cheers will send a DM,,,0.8172
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],836200499723239424,wally0221,2023-02-11 23:26:00,"Hey everyone, quick heads up. Thx for everything. You are awesome.
+https://twitter.com/CryptoWally2/status/1624428184535007233",,❤️ (2),0.765
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-02-15 18:14:00,@Wally Is the Ecosystem Lounge happening today?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-02-15 18:14:00,N/A,,"👍 (3),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1073592679906156615,juniper_juice,2023-02-21 22:29:00,"Hey everyone! Not sure if this is the right channel, but - I've got an exchange suggestion for the ""Get Token"" website page. Who can I talk to about this?",,,-0.1957
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],768163222095134732,lukas85#6738,2023-03-16 01:05:00,"Hi if anyone here has access to the reddit or reddit mods, the top of the page is getting muddied up by spam/shill posters
+tried to downvote em but they stay on top, maybe someone can just get them outright deleted as they have nothing to do with Ocean?",,🙌 (1),0.3818
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-03-16 01:43:00,"Hi Lukas, thanks for reporting this. I’m tagging @Nick | Ocean Protocol to bring more visibility to this issue
+
+CC: @graceful-coder @Casiana ~ Ocean Protocol",,👍 (5),0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843787928622989322,cassette38,2023-03-16 04:57:00,sorted,,🔥 (2),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-03-24 19:08:00,"Ahoy there, Oceaners 🌊 
+
+We want to give a big shout-out to all the dedicated **builders** 👨‍💻  who are forging new paths in the Ocean ecosystem. You, brave sailors, are the ones riding the waves of opportunity and contributing to the Ocean’s endless possibilities. So, we’re creating a special role just for you! If you’re one of these fearless builders, make sure to fill out this form: https://forms.gle/MQFXSDrKumMwjJgj6 to claim your rightful place. Not only will this showcase your hard work, but it’ll also get you closer to the core team and connect you with other like-minded captains navigating the same waters.
+
+Thank you for your unwavering support and commitment to the Ocean community. We eagerly look forward to working together to chart new courses and discover new treasures.
+
+Anchors aweigh! :Oceancopy:",,"🔥 (4),🌊 (1)",0.9804
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-02 23:00:00,"@💻Developer @PolkadotNow 🇮🇳  
+
+What a pleasure connecting with the developer community in Bengaluru, India today! 🇮🇳 🌊 
+And great to finally meet in person some of the Ocean community members!
+
+If you're entering this channel for the DevChallenge announced during today's presentation, you're in the right place 😎 
+
+We are distributing $1,000 in OCEAN  to the Best Marketplace for AI built as a fork of the Ocean Market. 
+
+To participate:
+
+1) 👋 Introduce yourself and just say ""Hi"" so we can assign you a role. 
+
+2) ⚒️Fork the Ocean Market and create the Best Decentralised Marketplace for AI. This can be either a marketplace for selling AI agents, AI prompts or you name it! 
+
+3) 🫂 Use this channel for support, brainstorming ideas or simply to team up with other members in the community
+
+4) 🚀 Launch your final product and announce it on Twitter tagging Ocean Protocol & using hashtag #oceandevchallenge
+___________
+
+🏆Prize: $1000 in $OCEAN 
+
+🗓️ Challenge Start: April 2nd 
+
+🗓️ Challenge End: April 30th at 23:59:59 UTC
+
+Read Docs: https://docs.oceanprotocol.com/building-with-ocean/build-a-marketplace/customising-your-market
+
+Fork Repo: https://github.com/oceanprotocol/market
+________________________________________________
+
+👩‍🎓 Entries will be judged according to: 
+
+- Originality of the branding/naming
+- Quantity of assets published
+- Quality of assets published
+- Feasibility of the idea
+- Integrations with other Web3 projects
+- ChatGPT-friendly
+________________________________________________
+
+**Note**: After the challenge, all projects who wish to continue building can apply for further funding via Ocean Shipyard, our 2M $OCEAN grants program.",https://cdn.discordapp.com/attachments/971047506857300020/1092101283357413456/Screenshot_2023-04-02_at_17.53.43.png?ex=65e49094&is=65d21b94&hm=6bbd0613c3e4df371299cc96568aab4b0f4746ae83c425ea6d36078ded50574f&,,0.9831
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-04-05 19:11:00,"@everyoneHave you seen the latest feature on our docs? We've introduced Gitbook Lens, which enables you to obtain answers to semantic searches. 🎊 🌊 
+Simply tell Lens what you want, or ask it a question. It’ll use AI to scan the documentation and give you a simple, semantic answer — with clickable references if you want to dive deeper.
+
+To activate it, click on the search bar, and select Lens to access the feature. 
+
+Keep in mind that this new functionality is still in alpha mode, so if you encounter any krakens or hiccups along the way, hold fast and be patient. #AIPower 🤖",,"👏 (7),Oceancopy (1)",0.1531
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-04-05 19:14:00,N/A,https://cdn.discordapp.com/attachments/971047506857300020/1093131461655265291/Screenshot_2023-04-05_at_14.13.31.png?ex=65df1581&is=65cca081&hm=fa3ba81086ebddb5ec6c7829857a82f3f75f87f25aa781baa0300cbb44f03e19&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],355688449300234260,privmccloud,2023-04-07 16:39:00,"Hello, I have a question about Ocean Protocol’s architecture. I noticed that AWS’ elasticsearch is being used along with docker containers and kubernetes clusters. Are other cloud service providers also being used? I am curious in regards to Ocean Protocol’s security and resiliency design. Thank you!",,👍 (1),0.7574
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],355688449300234260,privmccloud,2023-04-07 21:27:00,Amazing! Thank you!! Precisely what I was looking to know as an architect and investor. Love what you all are doing. @kaimeinke,,,0.9077
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-04-07 21:28:00,**@Z.M. just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1093889958340739092/Maki-levelup.png?ex=65e1d7e9&is=65cf62e9&hm=8b286f65144a87b90707994098698d04357d8de528fdc3a7248295dee2c52486&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],949624125272514562,laurentony15#2825,2023-04-08 11:36:00,"I got an issue
+Any help team or advocate here",,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1093689692840534136,bg_maui,2023-04-10 02:14:00,"I've hit a roadblock with the remote setup of the ocean.py. I continue to get an error message during step 6 of connecting to the network. I've tried modifying the network-config.yaml file that replaces Infura with the URLs provided in step 1.5, but the ValueError persists. Can anyone offer suggestions or direct me to resource(s) to help me resolve this issue? 
+
+from ocean_lib.web3_internal.utils import connect_to_network connect_to_network(""polygon-test"") >>> connect_to_network(""polygon-test"") Traceback (most recent call last): File ""<stdin>"", line 1, in <module> File ""/Users/bgizzle/demo_project/venv/lib/python3.10/site-packages/enforce_typing/decorator.py"", line 29, in wrapper return func(*args, **kwargs) File ""/Users/bgizzle/demo_project/venv/lib/python3.10/site-packages/ocean_lib/web3_internal/utils.py"", line 71, in connect_to_network network.connect(network_name) File ""/Users/bgizzle/demo_project/venv/lib/python3.10/site-packages/brownie/network/main.py"", line 40, in connect web3.connect(host, active.get(""timeout"", 30)) File ""/Users/bgizzle/demo_project/venv/lib/python3.10/site-packages/brownie/network/web3.py"", line 54, in connect uri = _expand_environment_vars(uri) File ""/Users/bgizzle/demo_project/venv/lib/python3.10/site-packages/brownie/network/web3.py"", line 185, in _expand_environment_vars raise ValueError(f""Unable to expand environment variable in host setting: '{uri}'"") ValueError: Unable to expand environment variable in host setting: 'https://polygon-mumbai.infura.io/v3/$WEB3_INFURA_PROJECT_ID'",,,0.9001
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-04-10 15:50:00,"In your network-config.yaml file, how the entry for the mumbai(polygon test network) looks like?",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-04-10 15:54:00,"if you don't have an infura account and the WEB3_INFURA_PROJECT_ID is not set, you need to set the host to: https://rpc-mumbai.maticvigil.com",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1019228813223268432,buckd2,2023-04-11 00:15:00,"@Andrea | Ocean Protocol @White Rider I’m a full-stack blockchain engineer and I want to contribute to this team.
+Can we discuss more about dev vacancies in dm?
+Regards,",,,0.0772
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1093689692840534136,bg_maui,2023-04-11 00:51:00,"Here is the entry currently in my network-config.yaml file:
+
+ name: Polygon
+    networks:
+      - name: Mainnet (Infura)
+        chainid: 137
+        id: polygon-main
+        host: https://polygon-rpc.com
+        explorer: https://api.polygonscan.com/api
+        multicall2: ""0xc8E51042792d7405184DfCa245F2d27B94D013b6""
+      - name: Mumbai Testnet (Infura)
+        chainid: 80001
+        id: polygon-test
+        host: https://rpc-mumbai.maticvigil.com
+        explorer: https://api-testnet.polygonscan.com/api
+        multicall2: ""0x6842E0412AC1c00464dc48961330156a07268d14""",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-04-11 15:57:00,Everything looks fine. Hm...@Călina @Maria | Ocean Protocol Can you please debug the issue @bgMaui faces?,,,0.4767
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-04-11 16:08:00,"Hello @bgMaui, so with that public URL, you still receive the error that you need to provide Infura key in your host? It should not appear if you modified `network-config.yaml`.",,,-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-11 17:27:00,"Hello frens @PolkadotNow 🇮🇳 
+
+It was great connecting with you in India 🎉 
+Quick reminder that the challenge is now ongoing, the total prize pool remains set at $1,000 for the best fork of the ocean market, and the submission deadline is 🗓️ April 30th.
+
+Let me know if you have any questions and feel free to use this channel for support, brainstorming ideas or simply to team up with other members in the community 🫂",,🫂 (1),0.9578
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],473516369170792479,kokoz423,2023-04-11 19:11:00,"Hey @Andrea | Ocean Protocol do u know if it’s possible for me to get in touch with the engineering team at ocean protocol? I’m from ConsenSys and I understand Ocean uses Infura (our product) quite abit, would like to discuss better support and volume discounts and collab opprtunities",,,0.8107
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],473516369170792479,kokoz423,2023-04-11 19:11:00,The devs and engineering team are from BigChainDB if I’m not mistaken!,,👍 (1),0.3404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],473516369170792479,kokoz423,2023-04-11 19:12:00,Pls let me know what’s the best way to reach to them! Could do it over email to make things more legit,,,0.7088
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1093689692840534136,bg_maui,2023-04-11 23:28:00,"Hi @Maria | Ocean Protocol, I may have modified the incorrect network-config.yaml. @graceful-coder mentioned editing the file in the ~/.brownie/ dir. I'll see if that resolves the issue.",,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-04-11 23:50:00,"Great, for more details, please check this section https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-remote.md#if-you-do-not-have-an-infura-account",,👍 (1),0.7703
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-12 01:05:00,"Hi Kokoz, that’s correct. Alex Coseru, VP of Engineering, will get in touch with you",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],473516369170792479,kokoz423,2023-04-12 01:12:00,"Thanks a lot! @Andrea | Ocean Protocol Discord or email aaron.ko@consensys.net works, look forward to it 🙌🏻",,🙌 (1),0.126
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],934935088381169674,Equanikus#1962,2023-04-18 10:23:00,"Hi @Andrea | Ocean Protocol , it is me again, I went to Akord, I signed up and I  got a small dataset in there.
+ now, could you please let me know what do I need to do to take it over to Ocean protocol? your help will be greatly appreciated, thank you in advance..",,,0.8852
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-18 11:09:00,Do you have the link of the dataset?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-18 11:11:00,"If so, you can go ahead and publish a dataset from here: https://market.oceanprotocol.com/publish/1
+
+Make sure to select the chain you prefer",,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],934935088381169674,Equanikus#1962,2023-04-18 11:14:00,"@Andrea | Ocean Protocol , where do I find that link? There are like four links under the three dots on the right side of the dataset's name",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],237123215003090944,xmarkitus,2023-04-18 16:23:00,"Hi! Does anyone know if any API provider for the Ocean Components support private blockchains? If not, what alternatives are there to deploy Aquarius, provider and subgraph?",,,0.5191
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],892371769258819634,.mihaibadea,2023-04-18 17:50:00,"Hi, @xMarkitus ! Here are the supported blockchains: https://docs.oceanprotocol.com/core-concepts/networks",,,0.3802
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],473516369170792479,kokoz423,2023-04-18 23:13:00,Hi @Andrea | Ocean Protocol would like to check if this is still gonna happen..thank you!,,,0.4199
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-04-18 23:13:00,**@kokoz423 just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1097902690329178243/Maki-levelup.png?ex=65ddfc0f&is=65cb870f&hm=7562247dd5174efcee7f43687dd33714965b146f909593da8cfc502781f8b949&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1030219846018932738,0xayushsh,2023-04-20 16:17:00,"Hi , I am trying to use custom provider url by setting NEXT_PUBLIC_PROVIDER_URL but it is taking default provider url http://172.15.0.4:8030/ . Any idea ?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],797064374660890645,bogdanoceanprotocol,2023-04-20 16:55:00,"Hello @0xAyush , are you trying to use a local version of the ocean market with this custom provider or just want to publish a dataset with a custom provider? Have you checked out the market branch  `fix/issue-fix-barge-connection` or you are using the `main` ocean market branch ?",,,0.168
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1030219846018932738,0xayushsh,2023-04-20 17:42:00,fix/issue-fix-barg3-connection,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],797064374660890645,bogdanoceanprotocol,2023-04-20 20:28:00,"Good, then make sure the env variable NEXT_PUBLIC_PROVIDER_URL is pointing to the desired provider url in the `.env` file, if you run the script thats sets the environment variables for running with with barge (`npm run set-barge-env`) after setting this in env var directly in the .env file may be  overwritten by the script mentioned. If the env var from the .env file is correctly set then you can try to delete the generated `.next` folder in your local market repo, and then run `npm run start` again.",,,0.743
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],946424674596818978,anmol_sirola,2023-04-20 23:09:00,You can find it on Helix: https://helix.im/oceanprotocol/ocean-contracts-on-different-network,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-22 02:50:00,"Hey Everyone,
+I am running barge on 8 CPU, 32GB, E2 GCP Instance x86_64 Ubuntu 20.04
+I am getting the following error on running barge with `--with-c2d` flag
+
+```
+ocean-kindcluster-1      | 2023-04-21 18:49:45,272 INFO exited: kubelet (exit status 1; not expected)
+ocean-kindcluster-1      | 2023-04-21 18:49:46,276 INFO spawned: 'kubelet' with pid 819
+ocean-aquarius-1         | 2023-04-21 18:49:47,128 - aquarius.events.events_monitor - INFO - Starting process_current_blocks ....
+ocean-ganache-1          | eth_blockNumber
+ocean-kindcluster-1      | 2023-04-21 18:49:47,278 INFO success: kubelet entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+ocean-kindcluster-1      | Error on line 55
+ocean-kindcluster-1      | Startup timeout, didn't become healthy after 3 mins.. details:
+ocean-kindcluster-1      | 2023-04-21 18:49:47,987 INFO exited: start (exit status 1; not expected)
+ocean-kindcluster-1      | 2023-04-21 18:49:48,353 INFO exited: kubelet (exit status 1; not expected)
+ocean-kindcluster-1      | 172.15.0.12 - - [21/Apr/2023:18:49:48 +0000] ""HEAD /kubernetes-ready HTTP/1.1"" 404 0 ""-"" ""curl/7.68.0"" ""-""
+ocean-kindcluster-1      | 2023-04-21 18:49:48,995 INFO spawned: 'kubelet' with pid 865
+```",,,-0.4512
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-22 04:57:00,kubernetes-ready file appears to be missing in kind,,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-22 14:19:00,@Alex | OceanProtocol can you please help me with this?,,,0.6124
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-04-22 16:46:00,@Călina @Maria | Ocean Protocol Can you jump in here please?,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],625415196713943051,alexcos20,2023-04-23 02:54:00,"and if you wait a little bit more?  if still does not work after 5 mins, can you attach the entire log please?",,,0.3939
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-23 05:04:00,N/A,https://cdn.discordapp.com/attachments/971047506857300020/1099440635213258762/ocean_barge_kindcluster_logs.txt?ex=65e39462&is=65d11f62&hm=ccb27c36ffde0b1cfb527aefe4ddfa7c895728e7d44b85a22c45a263c858f48c&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-23 05:06:00,I waited for more than 5 mins but it didn't work,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-23 05:06:00,Here are the logs for ocean-kindcluster-1,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],625415196713943051,alexcos20,2023-04-23 14:33:00,can you execute docker system prune before running barge?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],669098022042337282,all.calina,2023-04-24 01:58:00,"we could, but it doesn't seem like an issue from Python, so I can only base this from experience with barge, not in-depth dev knowledge. @kashish here are some things you can check:
+- are you running any other processes in the background that could interfere with kubernetes or other barge components?
+- do you have any customisations regarding access, passwords, blocked ports or anything else that could interfere?
+- last but not least, please prune as Alex and the documentation suggests here: https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-local.md#1-download-barge-and-run-services `docker system prune -a --volumes`
+
+I am available for any follow-up questions, please let me know if this helps",,,0.4906
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-24 10:13:00,"I'm using a new GCP Instance. Nothing else is installed on it. The problem is not with other components. It's only C2D that's not working as expected. Other components seem to work fine and no error is thrown in logs.
+
+I have tried pruning, that's the only way I can run it. If I don't prune, the timeout error appears much earlier.
+
+If I don't prune every time i run barge, I get the error where at `line 42`
+After pruning I'm getting the error at `line 55`",,,-0.9169
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-04-24 10:13:00,**@kashish just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1099880715102994693/Maki-levelup.png?ex=65e52e3d&is=65d2b93d&hm=b9e88bd35279e7a3ea56ff76590187d33b435216fa8e30258a6a58791ff23a19&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],669098022042337282,all.calina,2023-04-24 12:38:00,All right. I'll try to get you some help. Can you attach full docker logs as well? Maybe there is a connection to other errors in barge.,,,0.34
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],625415196713943051,alexcos20,2023-04-24 13:32:00,what resources did you allocate to gcp vm ? and what OS are you running?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-25 01:33:00,"@PolkadotNow 🇮🇳  Oceaners, 
+
+Quick reminder that the submissions deadline for the $1000 DevChallenge is 🗓️ April 30th. 
+
+**🏆 The Challenge? **
+Fork the Ocean data marketplace template and launch your own data marketplace for AI. 
+
+Let me know if you have any questions and/or need further help! 🫂
+
+________________
+
+Read Docs: https://docs.oceanprotocol.com/building-with-ocean/build-a-marketplace/customising-your-market
+
+Fork Repo: https://github.com/oceanprotocol/market",,,0.5093
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-25 15:02:00,"e2-standard-8, 32 GB RAM, Ubuntu 20.04 focal x86/64 8 CPU and 32 GB Disk",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],493848724372455424,kasheyyysh,2023-04-25 15:28:00,N/A,"https://cdn.discordapp.com/attachments/971047506857300020/1100322342602809414/ocean-kindcluster-1-logs.txt?ex=65e6c989&is=65d45489&hm=5013378d1509a025449e46cd00537331beada42cdd8a22448245af16d7138282&,https://cdn.discordapp.com/attachments/971047506857300020/1100322342950928454/ocean-computetodata-1-logs.txt?ex=65e6c989&is=65d45489&hm=a2412ff8a72b914b36d81dc66c697d7d54b79f0803b1f3112e258e001572bd77&,https://cdn.discordapp.com/attachments/971047506857300020/1100322343324237844/ocean-aquarius-1-logs.txt?ex=65e6c989&is=65d45489&hm=02b32f83329bf57c3a1faea42d5ad425466a1cc3ca99d35a31631114fa6d48e1&",,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],669098022042337282,all.calina,2023-04-25 15:49:00,Thank you! I'll see if I can figure out anything and refer to my colleagues that developed barge if my experience is insufficient 🙂,,👍🏼 (1),0.4199
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],710867298424193064,xkx_kira_xkx,2023-04-25 22:36:00,"Hi, I want to participate in the $1000 DevChallenge. How do I get the exclusive Discord Role ?",,,-0.2263
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],710867298424193064,xkx_kira_xkx,2023-04-25 23:09:00,@Andrea | Ocean Protocol,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-04-25 23:13:00,"Hi all, I want to participate in the $1000 DevChallenge. Please guide me with further process. Thanks",,,0.6705
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1078283027890847825,triplew8487,2023-04-25 23:56:00,are you there,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-04-26 00:17:00,"Hey @triplew8487, Yes",,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-26 05:38:00,"Hi Kira, I’ve just given you the role. Here are some more details of the challenge https://bit.ly/40Vfx7i",,,0.0772
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-26 05:40:00,"Hi Zaraki, I’ve just given you the role too. More details on how to participate here: https://bit.ly/40Vfx7i
+
+Details on how to submit will be announced soon!",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],625415196713943051,alexcos20,2023-04-26 13:38:00,please use oceanprotocol/c2d_barge_kind:v0.0.1  .                Kubectl certificates expired on 21th April 😦,,🚀 (1),0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],625415196713943051,alexcos20,2023-04-26 13:39:00,"if you use barge, update  compose-files/c2d.yaml",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],710867298424193064,xkx_kira_xkx,2023-04-26 19:24:00,"@Andrea | Ocean Protocol Thank you. Just one query, what are the criteria for ""ChatGPT-friendly"" ?",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-26 19:29:00,"Hi Kira, there are no specific criteria for using ChatGPT in this specific challenge. Either an integration, or a marketplace for AI agents (prompts/vectors) could work",,👍 (2),-0.2263
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-30 00:55:00,"@PolkadotNow 🇮🇳 
+
+Oceaners 🌊
+
+Quick reminders there are only 2 days left to submit your own fork of the Ocean Market🗓️
+
+🏆 1000$ in $OCEAN will be awarded to the best data marketplace for #AI
+
+To submit: 
+
+1) Share a link to your production environment
+2) tag @oceanprotocol 
+3) use hashtag #oceandevchallenge 
+
+Good luck 🍀 🚀",,,0.9325
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-04-30 21:28:00,Exciting news! Our project has been submitted for the #oceandevchallenge. Check out our decentralized video marketplace built on @oceanprotocol and using #goerli testnet. Securely publish and monetize videos with ease. Follow the link to see our submission tweet: https://twitter.com/amanb1145/status/1652672262355533825?s=20.,,"👍 (2),🔥 (1)",0.8122
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],881305463831007272,nickscavuzzo33,2023-04-30 22:53:00,very cool! looking forward to learning more about this,,,0.4376
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-04-30 23:35:00,Kudos for submitting on time Zaraki! Looking forward to seeing this video market gaining traction and more videos being published 👏🏼,,,0.75
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-05-01 00:52:00,Thank you  @Nick | Ocean Protocol and @Andrea | Ocean Protocol,,🙌 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-05-01 00:52:00,**@Zaraki just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1102276378621116466/Maki-levelup.png?ex=65e4aadf&is=65d235df&hm=99e33ff95ad08918d3bfa2e8ded4c13d5289895127f77503d5465652d6037559&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-05-04 06:43:00,**@Stigma just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1103451881344356352/Maki-levelup.png?ex=65dfb725&is=65cd4225&hm=dcb03c13461b7acd1addf2ce6696defd0dc411d6fb28f638fa8cde11feb927f9&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-05-04 13:31:00,"Hello ser, could you elaborate?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-04 18:24:00,@Stigma please open a thread in #🐛┃tech-issues,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-05-05 01:55:00,"Hello @Andrea | Ocean Protocol , we are interested in continuing to work on the project that we submitted for the #oceandevchallenge. Would it be possible to schedule a call to discuss this further? Thank you.",,🙌 (1),0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-05 01:55:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-05-05 01:55:00,"Hi Zaraki, happy to support",,,0.7506
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-05-05 02:07:00,"I have submitted the form.
+Thanks 🙂",,👍 (1),0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-05-07 00:48:00,"@PolkadotNow 🇮🇳 
+
+Submissions for the 1000$ DevChallenge have now closed and the winner is out!
+
+Congratulations @Zaraki for your first MVP. Looking forward to seeing more progress on the platform 🚀 
+
+https://twitter.com/oceanprotocol/status/1654889932152885250?s=20",,"🙌🏻 (1),🔥 (1),🎊 (1)",0.9019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-05-07 02:04:00,"Thank you @Andrea | Ocean Protocol  for the congratulations and kind words! Winning the DevChallenge and being recognized for our hard work and progress is truly an honor. We are excited to continue developing our platform and look forward to sharing our future updates with the community. Once again, thank you for the support and encouragement! 🙌🚀",,"🚀 (1),🎉 (1),ocean (2)",0.9867
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-08 16:25:00,Congrats @Zaraki 🚀,,🔥 (1),0.5267
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],252109808973512704,amanbishnoi,2023-05-08 18:59:00,@White Rider Thanks 😀:ocean:,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-08 23:18:00,https://tenor.com/view/congratulations-congrats-gif-25269017,,🙌 (2),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],237123215003090944,xmarkitus,2023-05-09 16:37:00,Hi! When you try to use hardhat with the ```hardhat.config.js``` file in the contracts repo there is an error due to the first network defined not being a network. Am I understanding this wrong? For me removing the first lines of the supposed hardhat network worked,https://cdn.discordapp.com/attachments/971047506857300020/1105413131112554506/image.png?ex=65e6d9b4&is=65d464b4&hm=d714ae9da5b09fd52247c7ed170bb9c330d56047272ceff46771501082e48e91&,,-0.7661
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-10 06:34:00,"Hello everyone!
+I am a full-stack web & blockchain developer with 8 years experience including 5+ years experience in full-stack development and 4+ years in smart contract and dApp development.
+As a innovative software engineer, I have built and deployed several smart contracts, dApps and websites from scratch in many startups using solidity, ethers.js, web3.js, modern JavaScript frameworks like React/Angular/Vue/Next.js/Nest.js/Express.js for last 9 years
+Since my last contract was ended last month, I am actively looking for new full time/contract remote position.
+Please DM me if you are interested.
+Thanks!",,,0.9617
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843705168628285490,cesar_cripto,2023-05-10 06:58:00,Hi there! im trying to complete the ocean.py install but is this the typically issue that ocean github prevent us?,https://cdn.discordapp.com/attachments/971047506857300020/1105629859855736852/Captura_de_Pantalla_2023-05-09_a_las_16.56.17.png?ex=65de690c&is=65cbf40c&hm=4186d340cae0a8dfd74496c698f75bf0a7d3dd0b3830d3e1c58ed89bfb557371&,,0.1134
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843705168628285490,cesar_cripto,2023-05-10 07:38:00,"i suppose i already fixed, right?",https://cdn.discordapp.com/attachments/971047506857300020/1105640014555119616/Captura_de_Pantalla_2023-05-09_a_las_17.37.53.png?ex=65de7281&is=65cbfd81&hm=8a77b2fb7887e8757a57002186624166926e34a9e3a1b81f0c26a2846ccfd3d3&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-10 16:34:00,"yes, coincurve is a known issue when installing ocean.py",,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-10 16:36:00,"if you still face the problem, we have a few workarounds detailed in the install README https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/install.md#install-oceanpy-library",,,-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843705168628285490,cesar_cripto,2023-05-11 13:54:00,"yeah i was able to fixed it, now my question about creating trading strategy with telegram Bot, i completed the tutorial but at the end, the results didn't appear in the chat idk 'cause i copy and paste the correct API token and the ID of the chatbot, any suggestions ?",,,0.1531
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],780306979658792960,3x#8734,2023-05-11 14:33:00,@Alex | OceanProtocol DMs please.,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],994272939476267018,graceful.coder,2023-05-11 22:00:00,"Hi @César I'm so happy to hear that you are going through my algo trading tutorial! You may not see messages in Telegram if you did not copy and paste in correctly the token and chat id when creating the config file. No worries, you can just change the config.json file inside the user_data directory to fix this information",,,0.4995
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],994272939476267018,graceful.coder,2023-05-11 22:01:00,"Also, once you fix your telegram token and chat id, then you will need to type /start to begin the chat with your bot!",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],994272939476267018,graceful.coder,2023-05-11 22:01:00,"If this still doesn't work for you, then you may be selecting the wrong chat id. I can help you through this as well if you encounter this issue",,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],750855373224804523,noelmyers,2023-05-12 08:27:00,"hey teams - new here and don't quite know where to go. new to coding world, and working to get a testnet marketplace going. 
+
+i have a terminal open - download homebrew - install node18 - install docker - pulled curl dependencies - updated docker-compose.yml file -
+
+now getting this error: no configuration file provided: not found
+
+can anyone familiar with mac help me figure out how to properly save or compose the docker-compose file? it's like the terminal doesn't see my file in the directory 😦",,,0.4723
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-12 08:27:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-12 16:37:00,hello 👋🏻 please share the error you are receiving. A screenshot is highly useful,,,0.6115
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],750855373224804523,noelmyers,2023-05-12 18:37:00,thanks @White Rider here is screen shot:,https://cdn.discordapp.com/attachments/971047506857300020/1106530660044255313/image.png?ex=65e1affb&is=65cf3afb&hm=0a7681783d8b84ac275b20951a8e84d2f378abbdb858e20dfe91dd05757539c1&,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-12 19:47:00,@Noel Myers can you please open an issue in #🐛┃tech-issues it's easier to track and we can give better support this way,,👍🏻 (2),0.8658
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],750855373224804523,noelmyers,2023-05-12 20:34:00,yes sir thanks @Mihai | Ocean !,,whale (2),0.7088
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-15 23:03:00,"Hey ocean dev community,
+I am currently trying to publish an asset in a local dev environment (I got barge working to the extend neccessary) and have followed the docs on how to use ocean.js to do so to the best of my ability. However I am currently unsure how to go from a (successfully created) dataNFT with datatokens to a DID. I looked in the documentation for an answer but have so far failed to find the link between going from “Publish with Fixed Pricing” to “Update Metadata”. I also tried running “npm test” within a cloned instance of the ocean.js repository which failed at step 6.2 create/set Metadata with a timeout (I think to know the issue is within network constraints on macOS (I am on a MacBook), yet I haven’t figured out where precisely to change the urls of the individual services) and am now at a loss as to what to try. Therefore I would be very grateful for any tips, information, help or knowledge I don’t yet possess that could aid in my attempt to have a proper asset with did and ddo. If I am completely misunderstanding the process or am taking the wrong approach please let me know. Thanks in advance.",,,0.0121
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-15 23:08:00,hi @luka please create a post in #🐛┃tech-issues it's easier for us to help you,,,0.836
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-15 23:39:00,"I will, thanks",,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],985478606283223041,bigimeyagazzz,2023-05-16 04:06:00,@luka is the issue resolved?,,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-16 04:06:00,not yet,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],985478606283223041,bigimeyagazzz,2023-05-16 06:12:00,Please be patient,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-16 06:26:00,👍,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1023356126579937291,_zaroon,2023-05-16 06:30:00,😀,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],391458422983491585,yuen1234,2023-05-19 22:42:00,"```
+One datatoken contract might grant consume rights for 1 day, another for 1 week, etc. Each different datatoken contract is for different license terms.
+```
+
+How do the datatoken contracts handle different license terms? Is there any link to the contract code I can look at?",,,0.4329
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-19 22:42:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-19 22:59:00,"@ricky the timeout is specified in the metadata, on the service",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],391458422983491585,yuen1234,2023-05-19 23:00:00,So each data token has metadata? With some expiry time stamp?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-05-19 23:00:00,**@ricky just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1109133503020404768/Maki-levelup.png?ex=65e1ed91&is=65cf7891&hm=ab79daa3c958ee3e5d4738f9ffe4527c03d342084191a0c8b0366a06d25d44bc&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-19 23:00:00,https://docs.oceanprotocol.com/core-concepts/did-ddo#services,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-19 23:01:00,"no, you have a dataNFT that can have multiple services, each service has a datatoken and you can specify a timeout",,,-0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],391458422983491585,yuen1234,2023-05-19 23:09:00,"I see, so the timeout is defined in the service?  Are services represented as ERC721 tokens?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-19 23:13:00,"no, it's in the metadata",,,-0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-19 23:15:00,"one erc721 token (dataNFT) has encrypted metadata, in this metadata you can have multiple services",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-19 23:16:00,this is just one of the features that our dataNFT has versus the clasic erc721,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:12:00,I am making a dataset for ocean protocol but I am confused about 1 thing. If I made a dataset in ocean protocol how do I prevent someone from buying my data and then redistributing it to others instead of paying for the data directly through OCEAN protocol.,,,-0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-22 18:15:00,"@Deleted User unfortunately you can't , you can try experimenting with compute to data if you want the dataset to remain private. It's the same problem as any digital distribution platform has. Can netflix prevent you from downloading their content and redistributing it? Not really, they are spending a lot of money on it but at the end of the day it's pretty impossible , they are just making it harder.",,,0.4497
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:17:00,Not sure what compute to data is. How do I make it harder?,,,-0.2411
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-05-22 18:17:00,**@Deleted User just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1110149372936736878/Maki-levelup.png?ex=65e59fac&is=65d32aac&hm=f82fa6fedcdccae814e5598b3b57fad8104fe6ad3b837bb5115e34792c595a51&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-22 18:17:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:19:00,What if a compute job is just to print all the data?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:19:00,But yeah I’ll research more,,,0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-22 18:19:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-22 18:19:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-22 18:23:00,basically C2D pairs some datasets with an algorithm so that the user never sees the raw data just what the algorithm generates. Ideally you review the algorithms that are allowed on your dataset so that it doesn't just return it. This can work with static datasets and you can team up with someone that creates the algorithm so that both of you can profit. The best use case is with dynamic data (that updates constantly) so the user need to start a c2d job each week or each month depending on how fast the data updates.,,,0.9274
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:34:00,What if there’s not really any compute job I can think of for my dataset and don’t believe it will need to automatically update dynamically. I want the buyer to have the data. Not doing this but it’s just an example: What if it’s just a list of crypto addresses that have bought something in the past for instance,,,0.2263
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:36:00,"Or like a list of email addresses, whatever (just for example)",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:38:00,"I guess the integrity of the data could be compromised by the person sharing with the other person, so they may want to buy directly from ocean protocol to maintain its integrity",,,0.8207
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:40:00,Basically use a decentralized system instead of relying on the data sharer to not mess with it,,,0.2755
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:41:00,I may not be understanding completely,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 18:50:00,Actually nvm you could just make an algorithm to search the addresses for any specific address but not give away all the addresses. I get it,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-22 19:25:00,correct,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],770417516349489153,eigghead,2023-05-22 19:36:00,"Heya all .. Is brizo still in Alpha or is it more mature inside the Operator package. Also, can Operator support TEE execution using K8 or something like AKS?",,,0.807
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 20:17:00,"Where’s the best place to store your hosted data, AWS S3 public or something else like google docs??",,,0.7941
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-22 20:17:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-05-22 20:18:00,Ok,,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-05-22 20:23:00,"For hosting the data we have two methods: decentralized and centralized. You can see more examples here on the docs https://docs.oceanprotocol.com/using-ocean-market/asset-hosting. Please do not use `Google Drive`, because it includes various virus checks and rate limiters that prevent the `Provider` to download the asset once it was purchased.",,,0.5994
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-23 03:54:00,@Eigghead please check https://docs.oceanprotocol.com/building-with-ocean/compute-to-data,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],770417516349489153,eigghead,2023-05-23 06:24:00,"Thanks, I've reviewed the docs. Since the algo must be published on the same Provider as the data for C2D, it doesn't cover my use case. 
+
+I'm looking for a scenario in which Alice publishes data, Bob publishes algo, the compute job runs in a TEE so neither asset is exposed to the counterparty.",,,0.1861
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],563434444321587202,Maki#4920,2023-05-23 06:24:00,**@Eigghead just advanced to level 1!**,https://cdn.discordapp.com/attachments/971047506857300020/1110332276702728243/Maki-levelup.png?ex=65e64a03&is=65d3d503&hm=2a768bbccbf988f34d1496623153a7d865316825e55e4c53d139c541af3860b1&,,0.3164
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],853993611926568973,rookie047,2023-05-23 10:16:00,"Hi @Mihai | Ocean  I'm new to the system. I went through the document and it says that the data never leaves the provider's enclave. When I tried to purchase a test dataset, it downloaded the file from a URL. I have 2 questions.
+1. Is it fetching the file from the source machine and creating a download URL for it? Then what happens if the source machine is not online?
+
+2. In case of another purchase, my algorithm and dataset order methods were called and OCEAN tokens were spent already. Then the Signature method failed and I could not get the data. However, the OCEAN tokens were lost. How do we handle this?
+
+Thanks a lot in advance for fulfilling the newbie questions.",,,-0.1444
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],853993611926568973,rookie047,2023-05-23 10:18:00,We're planning to launch our Data provider and analytics system on Ocean protocol. So these things are very important for us to proceed.,,,0.2716
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1110419877015072808,icelander1,2023-05-23 14:47:00,is it recommended to keep the S3 bucket public? How do I prevent someone from guessing the public repo and being able to view it? Add hashes and complexities to the S3 bucket name so it's hard to guess?,,,0.193
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-23 16:52:00,"Hi @Rookie , 1. Yes the provider acts like a proxy so that the data source is always secure. If the source machine is offline then the download will fail. Ocean acts as an access mechanism, not hosting  2. As long you have a valid order you will be able to retry the download.",,,0.3818
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],770417516349489153,eigghead,2023-05-23 20:17:00,Is Ocean compatible with Hl Besu? Any issues setting gas cost to 0 for a private network?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],935729627542978570,young624,2023-05-24 11:07:00,"Hello, I am a developer from DataUnion company which is using Ocean Protocol. I created a dataset using ocean.py and it gave me a did. but it is 404 on ocean market. https://market.oceanprotocol.com/asset/did:op:f351fe4fabb91cb29dc07189676bf20e69ba4040e6a6d533abfe36b2c1044062
+You can see the transactions here. https://mumbai.polygonscan.com/address/0xac27fc669b9feb045bddfc6ec4edc84608cf9666
+Actually i could publish the dataset using same script and same data last week. (https://market.oceanprotocol.com/asset/did:op:e0b927ebcd650979342d48e7d81f140d90f37c07445237ac5b8e45bae8b95150)
+Can anyone help me to resolve the issue here please?",,,0.886
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],285720596967325696,alex.13s,2023-05-25 22:42:00,"Hey guys, im new to ocean and a semi-experienced programmer. yesterday i setup ocean via barge, the skript to test the mainflow locally. it worked fine, so now im trying to use the barge-script to connect to a different ethereum RPC provider. Of course i did some changes in the start_ocean.sh and yml-Files to connect to the node, unfortunately it didnt work yet. One issue i have is that im not sure why aquarius is not working properly. I adjusted the host,port/url and this is the output from aquarius in portainer:2023-05-25 14:04:36,049 - aquarius.events.events_monitor - INFO - Added 100 to chains list
+Traceback (most recent call last):
+  File ""events-monitor-main.py"", line 51, in <module>
+    run_events_monitor()
+  File ""events-monitor-main.py"", line 37, in run_events_monitor
+    monitor = EventsMonitor(setup_web3(logger))
+  File ""/aquarius/aquarius/events/events_monitor.py"", line 84, in __init__
+    self._start_block = get_metadata_start_block()
+  File ""/aquarius/aquarius/events/util.py"", line 244, in get_metadata_start_block
+    if ""startBlock"" in address_json[network]
+KeyError: 'development'",,,-0.374
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],285720596967325696,alex.13s,2023-05-25 22:46:00,"Im not sure what *development* is used for, it is mentioned though in the variable ""CONTRACTS_NETWORK_NAME"". Could anyone explain to me, if I should even work with the local barge script and expand it for my purpose? And if so, i would really appreciate an info on what to do with this error",,,0.1204
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],285720596967325696,alex.13s,2023-05-25 22:57:00,"If its not recommended to use the local barge script and expand it for a productive environment, how should i start with ocean then?",,,0.1798
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-25 22:57:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-26 16:54:00,"hello, please open a ticket in the #🐛┃tech-issues channel",,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],737317613356449822,jamie123abc,2023-05-26 18:22:00,"I'm not sure I fully understand what you are trying to do here? Barge deploys the ocean contracts on ganache and then starts up the other ocean components in docker containers. When you say, ""connect to a different ethereum RPC provider"" it sounds like you are trying to use a different network? 
+
+If your intention is to use a different testnet, I would highly recommend that you use one of the testnets that we are already deployed to - such as goeli or Mumbai. Barge is not a tool for deploying the contracts to other networks. Normally all contract deployments are handled by the core team.",,,0.5706
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-05-26 18:46:00,"Hello @alex, if you use barge, the contracts are deployed locally on ganache/development network and you need to export the address file (because for ganache the addresses are not persistent) like this `export ADDRESS_FILE=~/.ocean/ocean-contracts/artifacts/address.json`. If you want to use a remote network, you do not need barge.",,,-0.2047
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 18:51:00,"Hello 👋
+So I was watching this tutorial on youtube on how to publish a data on Ocean platform and i tried doing it on Mumbai network but for some reason i am currently stuck on the page.
+I want to know what the problem is.",https://cdn.discordapp.com/attachments/971047506857300020/1112694614235807845/Screenshot_2023-05-29_112619.jpg?ex=65e5a79c&is=65d3329c&hm=38ff38e054f97033d5ce0f34d136d0de37ed2f6dc042cd0743e37ab137872d85&,,-0.6808
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1033811770164396032,feronfyre1610,2023-05-29 18:55:00,N/A,https://cdn.discordapp.com/attachments/971047506857300020/1112695669157810257/Screenshot_2023-05-29-11-50-37-15_d4b821f22c36211daa9077338f9854d0.jpg?ex=65e5a898&is=65d33398&hm=0a32da60612e10344b29fe31a5563a06e0b94b4b4a0ea9e6cd6f92abf1cfdb9a&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1033811770164396032,feronfyre1610,2023-05-29 18:55:00,I'm having an issue retrieving my dataset,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:22:00,Hello 👋🏻,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:23:00,So you published the asset via the market,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:23:00,Is it now visible? The error that you send indicates me that the asset is not yet available. It requires a few seconds(and sometimes mintes) for the asset to be fully deployed on chain,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:24:00,This time depends mostly on the network and how loaded it is,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:24:00,"Sometimes it cat take seconds, sometimes a bit more",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:24:00,"If it's still not working, please send the link for your asset",,,0.1376
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-05-29 19:28:00,"Hello @Fero D' Hunter, it is most probably due to a network problem, we'll try to modify the RPC in order to point to another node (which hopefully will not cause any issues on this end). Keep you posted.",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:45:00,"I published mine since saturday
+What is causing the delay?",,,-0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:46:00,It might be a mumbai issue. Please send us your market asset link,,,0.5859
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:46:00,"Where di I get that from?
+Github?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:48:00,"oh, the link in the market...it has this form: market.oceanprotocol.com/asset/did:op......",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:48:00,I just want to make sure everything is ok with the asset 🙂,,,0.743
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:49:00,alright,,,0.25
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:52:00,"Just for reference
+This is the issue i am having.
+I'm a little confused as to where I will find what you requested for 🥲 
+I'd appreciate a screenshot",https://cdn.discordapp.com/attachments/971047506857300020/1112710031696220233/Screenshot_2023-05-29_112619.jpg?ex=65e5b5f8&is=65d340f8&hm=f5edf04d0cdebddbcc2566c8dda3fac507213b357c1585d109e2030f4967c5b4&,,0.1761
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:53:00,If you scroll up,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:53:00,you will see a link,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:53:00,or just copy paste me here the string that starts with did:op,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:54:00,But i already left that page,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:54:00,🤦‍♂️,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:55:00,Found it!,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:55:00,https://market.oceanprotocol.com/asset/did:op:55e8a39474a270ce8b62b055d29ef4bf5bf6166326f208173635f9e1d5949804,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:55:00,great,,,0.6249
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:55:00,thank you,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:55:00,"now, we will debug the issue and get back 😉",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:55:00,"Great!
+Do what you do best
+I'll be waiting",,,0.8622
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:56:00,"I am able to replicate the problem, the asset doesn't retrieve on my end as well",,,0.2263
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:56:00,it might take a while...I'll ping you when I have updates,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 19:56:00,thanks for rising this issue to us 🙏🏻,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:56:00,Alright,,,0.25
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:56:00,My pleasure,,,0.5719
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:58:00,"Just so you know
+I tried publishing that data twice
+The first time was on Saturday and the second time is today",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 19:59:00,I ended up with the same response on both occasion,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1033811770164396032,feronfyre1610,2023-05-29 20:08:00,I have my link here,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1033811770164396032,feronfyre1610,2023-05-29 20:08:00,https://market.oceanprotocol.com/asset/did:op:10ee746c789f510e4e12bb31845001b2fc7065dc2773defda3aca161cf8bde62,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1033811770164396032,feronfyre1610,2023-05-29 20:08:00,I am having similar asset retrieval issues,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-05-29 20:48:00,"A new RPC for mumbai is configured on our components, can you try now @Fero D' Hunter?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1033811770164396032,feronfyre1610,2023-05-29 20:49:00,Sure thanks,,,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 20:54:00,Does this apply to me too?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-05-29 20:55:00,For everyone who tried on mumbai and could not see the asset on Ocean Market.,,,-0.2755
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 20:55:00,Okay,,,0.2263
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-29 21:02:00,The assets are still not indexed. We're investigating the issue further,,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 21:07:00,I just tried again and still the same response,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 21:07:00,Okay,,,0.2263
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-05-29 21:07:00,I'll be waiting,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-05-30 14:30:00,"Hi Team,
+
+I have been trying to install ocean market  in ubuntu VM with an barge (local) instance running in an same machine. But i'm not able to connect local instance connected metamask wallet to the ocean market local . Could somebody help me to provide any ideas for fix ?",https://cdn.discordapp.com/attachments/971047506857300020/1112991483386155098/image.png?ex=65e6bc18&is=65d44718&hm=cf8f133465f8cfbd3309c39f790623a9b94a6a05c5e0b999336d3b0a2bfb45b4&,,0.5499
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-30 14:31:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],797064374660890645,bogdanoceanprotocol,2023-05-30 15:31:00,Hi @Muthu  we will update the fix-barge-connection PR with latest changes we brought with yesterday’s release. We also recommend using that branch if you want to work with a local network on barge till it will be merged. We’ll be keeping you up to date with the progress on this,,,0.6808
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-05-30 16:19:00,thanks @Bogdan | Ocean Protocol . Do you recommend using fix-barge-connection branch ? or any other ?,,,0.6966
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],797064374660890645,bogdanoceanprotocol,2023-05-30 16:50:00,yes 😃  we recomand using `fix/issue-fix-barge-connection` branch when using market with barge until the PR gets merged. I'll soon update the branch with the latest changes we introduced yesterday,,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-05-30 17:45:00,"thanks @Bogdan | Ocean Protocol . Have used the branch and it's up and running..
+
+could you please help with the following error when i try to publish the dataset?
+
+Have used ipfs instane that barge has spinned ..",https://cdn.discordapp.com/attachments/971047506857300020/1113040579635462154/image.png?ex=65e6e9d1&is=65d474d1&hm=d86f3c6b3436fe7ac628c1e724ae2b7808f60ee6f1c6fd57234e4b4005f92d1e&,,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-30 17:46:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1110419877015072808,icelander1,2023-05-30 17:51:00,Are you guys ever going to create private blockchains using like Hyperledger or something to allow Businesses to share data with each other?,,,0.7717
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-05-30 17:51:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1110419877015072808,icelander1,2023-05-30 17:52:00,This was a major project we were working on at my last company I was working at but we never started it since we were all laid off.,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-30 18:54:00,Hello @Joshkeyz Thank you again for reporting the mumbai issue,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-30 18:54:00,Our team managed to identify the core problem,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-30 18:55:00,And fix it 🎊,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-30 18:55:00,"Go ahead and try again, your assets are now visible on the ocean market 🙂",,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-30 18:56:00,It was an issue with the RPC for mumbai....some weird stuff happen there and it took aquarius by surprise 😄,,,0.1027
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-31 00:57:00,How long should the mumbai aquarius instance take to add new assets to elasticsearch/the marketplace?,,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-31 01:03:00,on average*,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-05-31 01:09:00,"@luka hard to say, usually a few seconds, depends on the RPC and network",,,-0.1027
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],382977571446325248,lukakle,2023-05-31 01:26:00,ok thanks,,,0.6249
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-05-31 11:33:00,"Hi All,
+
+Can some one help with the following error when i try to publish the dataset?
+
+Have used local barge instance with fix/issue-barge - connection branch .... trying to use the ipfs instane that barge has spinned by uploading a file in IPFS and providing it's CID !!",https://cdn.discordapp.com/attachments/971047506857300020/1113309243135762524/image.png?ex=65dea987&is=65cc3487&hm=c9bd8651e990b82d09872268690db0398caa5862ea396686a569f4d0e0b23df0&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-31 15:37:00,@Bogdan | Ocean Protocol @Enzo Vezzaro Please take a look over this issue,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-31 15:38:00,It seems something is off with the local provider 🤔,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-05-31 15:38:00,"By the way, it would much more helpful to open an issue in the #🐛┃tech-issues channel 👍🏻",,,0.4754
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],797064374660890645,bogdanoceanprotocol,2023-05-31 16:20:00,Hello @Muthu  can you share some logs or the response from the network tab maybe some logs from barge . If i remember correctly barge is using a public ipfs gateway. can you pls check if the cid of the file be accessed from the main ocean production as well ?,,,0.5574
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-05-31 20:32:00,"thanks  @White Rider 
+
+@Bogdan | Ocean Protocol , Here's the list of some log screens . 
+Follwing readme.md from here https://github.com/oceanprotocol/market/tree/fix/issue-fix-barge-connection
+Few points : 
+1. have executed setup-barge-env to generate the .env file as in screenshot
+2. IPFS instance, i'm not able to connect with IP address of my VM. I'm able to access only by port forwarding to local host and then access from my machine with localhost:5001 / webui","https://cdn.discordapp.com/attachments/971047506857300020/1113444788088340551/image.png?ex=65df27c4&is=65ccb2c4&hm=ebc948afbd8ad7f2a4b501827f9f8b602d8d72ef3d8314fea48ab6b1d4e9a8a2&,https://cdn.discordapp.com/attachments/971047506857300020/1113444788319039560/image.png?ex=65df27c4&is=65ccb2c4&hm=73e2d13d806b3faaf7ed6aab26a8e859d949074fd83185c2f1adc15f3580d25b&,https://cdn.discordapp.com/attachments/971047506857300020/1113444788629413998/image.png?ex=65df27c4&is=65ccb2c4&hm=fcebd8e7ddb7092214d8bc678ab01ccd60c545725e2a4c058b8d84d02056b510&,https://cdn.discordapp.com/attachments/971047506857300020/1113444788960755773/image.png?ex=65df27c4&is=65ccb2c4&hm=c93fb29e381deb14b91808609af99ef4f2f009c9bb90049a198947dcffafcf00&,https://cdn.discordapp.com/attachments/971047506857300020/1113444789245980712/image.png?ex=65df27c4&is=65ccb2c4&hm=dc3b08a3122c8101603a864f0e0a73c6de485f605b0db5ab8005cd355ca35714&",,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1001828994481651774,joshkeyz.,2023-06-01 03:24:00,"My pleasure
+I am glad I could help 🙂",,,0.8555
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],982613666979545148,your_echo_copywriter,2023-06-01 18:24:00,"Hello devs
+Good morning 
+
+I've been trying this dataset publication for a while now ..
+But it's been having series of issues 
+
+Both Mumbai , Goerli, Polygon are all having issues with the publication 
+
+Most of the networks for the publishing are not working. I have tried out Goerli, Mumbai and Polygon  network and none are working as of now",,,0.2382
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],982613666979545148,your_echo_copywriter,2023-06-01 18:29:00,"@Bogdan | Ocean Protocol  @Enzo Vezzaro  
+Please take a look at this issue",,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],237123215003090944,xmarkitus,2023-06-01 18:39:00,"Hi! I am trying to deploy the subgraph by following github repo, I modified the node so it points to my RPC endpòint. However, when I run npm run create:local it gives me:
+```Error creating the subgraph: the method subgraph_create does not exist/is not available````
+Does anyone knows how to solve this issue? (The same applies when trying to deploy)",,,0.5093
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-06-01 18:59:00,"hi @Hermix - Echo Copy ✍ thank you , we are currently working on this",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],982613666979545148,your_echo_copywriter,2023-06-02 01:25:00,"I've been able to do it 
+Thank you so much",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],963501917709938758,due_writer,2023-06-02 16:21:00,"Hello!
+I have an issue, perhaps a backend prob.
+Here,  I can't go any further, the submit button not highlighted. Please, help",https://cdn.discordapp.com/attachments/971047506857300020/1114106629139472445/Screenshot_2023-06-01_225017.png?ex=65e19027&is=65cf1b27&hm=2c2d5ceb589a1bfcf157693c957651178bdb816e43184ea956911663d7c6cbe1&,,-0.5442
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],350543030069100545,enzo_vezzaro,2023-06-02 20:34:00,hi @Due | Ocean Protocol do you have any error in the first step (metadata)? I don't see the checkmark on that step,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],963501917709938758,due_writer,2023-06-03 05:22:00,Not at all everything went fine up to that point,,,0.2023
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],350543030069100545,enzo_vezzaro,2023-06-03 05:24:00,"what you mean? I can see on the image that the step 1 is not checked which means there's an issue on that step or some field is missing or not valid. That's the reason why the submit button at the end is not enabled, but the question would be ""why"".",,,-0.1531
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],963501917709938758,due_writer,2023-06-03 05:27:00,Hmm,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],963501917709938758,due_writer,2023-06-03 05:27:00,Alright I'll trace back and see what's the issue. But thanks for your response,,,0.6542
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],350543030069100545,enzo_vezzaro,2023-06-03 05:29:00,my pleasure 👍🏽 let me know how it goes,,,0.5719
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],963501917709938758,due_writer,2023-06-03 05:30:00,Sure 😊,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],963501917709938758,due_writer,2023-06-03 05:47:00,Hello @Enzo Vezzaro thanks for the help. I got it sorted out already. Published.,,,0.6808
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-05 16:09:00,Awesome 💪🏻,,,0.6249
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-07 17:52:00,Hi Team.. Could some body help me why i'm getting this error while trying to edit asset details ? Using Mumbai testnet,https://cdn.discordapp.com/attachments/971047506857300020/1115941382788493422/image.png?ex=65df0266&is=65cc8d66&hm=829d231cedccbcfbb60cb94feba36f1affee6a35ddc8e429fddcef6e25d2b132&,,0.2675
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-07 17:54:00,.just a doubt...is the data set from the URL gets completely loaded into the blockchain network or only the metadata ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-06-07 17:54:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-07 18:05:00,Hello @Muthu Let's keep the thread in the tech-issues. The dev team is investigating at the moment the error you are receiving,,👍 (1),-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-07 18:05:00,The dataset is not loaded on the blockchain,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-07 18:06:00,The URL is encrypted and stored,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-12 20:56:00,"Hi team, Is there any guide on how to configure public testnet to work with forked version of market ?
+
+Hope it's with .env file ? any sample for that ? or is there any other configs ?
+
+requesting any advice on this..",,,0.594
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-06-12 20:56:00,N/A,,"👍 (1),👎 (2)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-12 23:26:00,@Enzo Vezzaro @Jamie123 can you jump in here?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],350543030069100545,enzo_vezzaro,2023-06-13 00:02:00,"Hi @Muthu you need to follow this simple guide to fork the market: https://docs.oceanprotocol.com/building-with-ocean/build-a-marketplace/forking-ocean-market. Once you have done that, you just need to set NEXT_PUBLIC_INFURA_PROJECT_ID on the .env file and you should be able to transact on any network we have available by default. You can use Goerli or Mumbai for testing, just check those networks on the market, and make sure your wallet is connected to one of those testnet. Hope this answers your question, if you need further information, let me know.","https://cdn.discordapp.com/attachments/971047506857300020/1117846443819020298/Screenshot_2023-06-12_at_11.59.46.png?ex=65e5f0a0&is=65d37ba0&hm=015097d29a866033c7b1714b654d73f6299293f23a72e9b85b4ffc11fa2c4baa&,https://cdn.discordapp.com/attachments/971047506857300020/1117846444129386546/Screenshot_2023-06-12_at_12.01.27.png?ex=65e5f0a0&is=65d37ba0&hm=14f25232f1030d9defa8fa70dc4a62b4b9d7b1dc90dfa4fc66826bf771917e24&",,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-13 12:30:00,"thanks @Enzo Vezzaro . May i know what value i should set for ""NEXT_PUBLIC_INFURA_PROJECT_ID"" if i'm using polygon testnet ?",,,0.6486
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],350543030069100545,enzo_vezzaro,2023-06-13 20:05:00,"Hi @Muthu you need to register on infura: https://app.infura.io/, create a project for your market and grab the API key they give you. Use that API key on NEXT_PUBLIC_INFURA_PROJECT_ID",,,0.2732
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],350543030069100545,enzo_vezzaro,2023-06-13 20:06:00,he's a guide on infura documentation: https://docs.infura.io/networks/ethereum/how-to/secure-a-project/project-id,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-14 12:40:00,@Enzo Vezzaro thanks .. Why do we need Infura API key ? is that mean Infura environment is going to act as a middle ware between the ocean market and public testnet ?,,,0.504
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-14 13:01:00,"After publishing the sample test asset from forked market place to a mumbai testnet, i'm not able to see the options to purchase it !!!",https://cdn.discordapp.com/attachments/971047506857300020/1118404783544479805/image.png?ex=65debe1f&is=65cc491f&hm=21828eafd153d375436c5e742abb5469e42e3b6a843c5d40bee878796e679e11&,,0.5229
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-14 13:11:00,how can i add dedcut 55 token to a wallet ? as suggested here,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-14 16:41:00,It is for RPC calls,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-14 16:42:00,What the error? If it's your market you have access to this information,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-14 16:42:00,debug it and check why the buy option is disabled,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-06-15 05:17:00,"Hey, I have an error when trying to run Ocean lib. I have my secret key and infura key as .env but I get the following error:
+
+Exception: Brownie network is not connected. Please call network.connect(""{network_name}"")",https://cdn.discordapp.com/attachments/971047506857300020/1118650534124077096/Screenshot_2023-06-14_at_23.17.06.png?ex=65dfa2fe&is=65cd2dfe&hm=19403912544ede1854b3ebd631581412f4298f3ac1d7745a86209c4ef72d714d&,,-0.781
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-15 15:24:00,"Hello, it looks like the brownie config is not as it should",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-15 15:24:00,Cause the connect_to_network should connect it to the right one,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-15 15:24:00,Can you make sure you followed these steps? https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/setup-remote.md#1-configure-brownie-networks-one-time,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-06-15 16:26:00,I've followed them and still having issues. Will it be possible to screenshare someone from the team?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-06-15 16:43:00,"oh, never mind, I was having issues with Infura API_KEY, but I've just changed the RPC endpoint all-together and is working now 🙂",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-15 16:53:00,Sounds great 🙂,,,0.6249
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-15 17:03:00,"Hi Team, is there any guide on using compute to data based on an algorithm with ocean market place ? 
+
+will it work only with the forked market place or try it out from market.oceanprotocol.com with public test net ?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-06-15 17:04:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-19 13:49:00,"Hi Team... Getting an 400 bad request when trying to purchase an compute only data set, published from the different account , from different browser .. Using mumbai testnet . Algorithms , dataset refered from here ocean.py tutorial . Any help on this would be great, as we are exploring the capabilities !!",,,0.5972
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-19 13:50:00,N/A,https://cdn.discordapp.com/attachments/971047506857300020/1120229137282498671/image.png?ex=65e5612f&is=65d2ec2f&hm=53d6b3a24955438a6230f9fbc285bc9d4d183d5bbc2dc3ff285bd0b9835780ef&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-19 15:47:00,Hello 👋🏻 It looks like a nonce isseu. @Maria | Ocean Protocol you are the expert,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-19 15:47:00,Can you help here?,,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-19 15:59:00,Hello @Muthu can you please create a ticket on tech-issues channel please? As far as I can see the wallet address that you are using for consumer has an equal value of nonce that is stored in a database. That wallet address is from the READMEs and we use for testing. Let me try something quick and get back to you asap.,,👍 (1),0.7964
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-19 16:53:00,Can you check now if it's working on your end?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-19 17:41:00,"thanks @Maria | Ocean Protocol , Looks it's same still",https://cdn.discordapp.com/attachments/971047506857300020/1120287202270781501/image.png?ex=65e59742&is=65d32242&hm=0bad8280cf40c0d6cb3dbb2f921a593b4bef4640f9f9ab94e2ba19c90a93d807&,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-19 17:43:00,"Ok, I will investigate in ocean.py directly and keep you posted with the progress. Thanks for reporting!",,,0.8016
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-19 17:43:00,thank you,,🤞🏻 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],291700031805718530,stip11,2023-06-26 03:45:00,"Hello, when I try to set up the ""setup-remote"", an error occurs like
+
+NameError: name 'OCEAN' is not defined. Did you mean: 'Ocean'?
+AttributeError: 'NoneType' object has no attribute 'request_func'
+NameError: name 'OCEAN' is not defined. Did you mean: 'Ocean'?
+
+Where am I going wrong?",,,-0.7219
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-26 15:54:00,Hello @Stip11,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-26 15:54:00,I imagine you are referring to the ocean.py right?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-26 15:55:00,Can you give us a screenshot of the problem?,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1100676378854178818,Muthu#6339,2023-06-26 22:29:00,"Hi Team, is there a way to connect ocean protocol with data in databases ? instead of file / URL",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735502037420343319,msilucifer,2023-06-27 04:17:00,"Hi, @Alex | OceanProtocol , @graceful-coder 
+
+First of all, I believe that the **$OCEAN token** is **one of the strongest metaverse tokens** all over the world.
+I would love to contribute to Ocean dev team as a senior web3/blockchain engineer.
+**Are you expanding the dev team for now?**
+I am eagerly looking forward to discussing more.
+Warm regards,",,,0.8977
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-27 15:34:00,"What type of database? We currently support arweave, ipfs, graphql, urls and on-chain data",,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-27 15:35:00,hello 👋🏻,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-27 15:35:00,Please see: https://discord.com/channels/612953348487905282/1113792208143908965/1113792208143908965,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-27 15:36:00,"If you think you are a fit, send an email to devjobs@oceanprotocol.com",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],328763539806224384,sneakyninja0536,2023-06-27 19:40:00,"Hi Im using polygon-test network and I#m unable to publish. I get an error ``` raise InvalidURL(
+requests.exceptions.InvalidURL: Invalid Provider URL https://v4.provider.mumbai.oceanprotocol.com, no providerAddress.``` . Can anyone help me with this?",,,-0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-06-27 19:40:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],328763539806224384,sneakyninja0536,2023-06-27 19:45:00,"I following instructions from https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/main-flow.md, this does not help me",,,-0.3089
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735502037420343319,msilucifer,2023-06-27 21:33:00,Thanks for your message.,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-27 21:48:00,Thanks for raising this!,,,0.4926
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-06-27 21:48:00,One of our devs will soon get back to you,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-27 21:58:00,"Hello @sneakyninja0536, can you open a ticket on tech-issues please? In the meantime, I'll try to reproduce the issue.",,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-27 22:04:00,I ran the main-flow.md without any issues on `polygon-test` network.,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-27 22:05:00,"```
+from ocean_lib.web3_internal.utils import connect_to_network
+connect_to_network(""polygon-test"") # mumbai is ""polygon-test""
+
+config = get_config_dict(""polygon-test"")
+ocean = Ocean(config)
+```
+And it automatically connects to the right provider.",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],328763539806224384,sneakyninja0536,2023-06-28 01:44:00,"It works now, turns out my ocean,py library was not up to date. Thanks for the effort!",,♥️ (1),0.4926
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],491398040729681930,carmina19,2023-06-28 21:07:00,No worries!🦾 Happy that it worked,,,0.4199
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-07-03 11:05:00,"Hi!  I don't understand which parties are involved in the process of providing Compute to Data service. 
+I mean: if I am the Data and Algo Publisher, I need also to handle all infrastructure : Ocean Provider, Operator Service, Operator-engine and Kubernetes on cloud or on-premise ?",,,-0.3716
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-07-03 11:05:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-07-03 15:55:00,"@jeugregg no, you can use the infrastructure that we provide or a third party one",,,0.128
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-07-03 16:12:00,how can I proceed to use the infrastructure that you provide?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-03 16:18:00,"Well, the infrastructure is available via the ocean market, ocean.js and ocean.py. What are you using?",,,0.2732
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-07-03 16:53:00,you can also find all the endpoints here https://docs.oceanprotocol.com/core-concepts/networks,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-07-04 19:31:00,ocean.py,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-04 20:45:00,here is an example for C2D in ocean.py: https://github.com/oceanprotocol/ocean.py/blob/main/READMEs/c2d-flow.md,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-07-04 20:49:00,"Hi, I have an issue when trying to mint a data NFT, in which my tx is reverted, even when I have a super high gas_limit
+
+**This is my function:**
+def create_data_nft(myaccount, data):
+    data_nft = ocean.data_nft_factory.create({""from"": myaccount,  ""gas_limit"": 3000000}, 'NFT', 'TST')
+
+
+    print(f""Created data NFT with address={data_nft.address}"")
+
+    data_nft.set_data(""data"", data, {""from"": myaccount})
+
+
+**Error:**
+Transaction sent: 0x45d60095bafb34f5176e0643224ebd09d239ec0334d87cc15b4be42ac2f58d5a
+  ERC721Template.setNewData confirmed (reverted)   Block: 37548613   Gas used: 28296 (100.00%)",,,0.5423
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-05 14:48:00,Hello 🙂 @Călina please jump in here please,,,0.5574
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],669098022042337282,all.calina,2023-07-05 15:16:00,"Hi @samtin0x. It seems like those are different transactions. Your gas limit is set on the create call, but not the set data call. Could that be the issue?",,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-07-05 15:17:00,"Hi, I changed the limit to both later and still have that issue from time to time",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],669098022042337282,all.calina,2023-07-05 15:17:00,"For more options on handling gas-related issues, you can also try setting maxFee and maxPriorityFee as seen here https://github.com/oceanprotocol/ocean.py/blob/main/ocean_lib/web3_internal/utils.py#L112",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-07-05 15:18:00,I’ll looo into that,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],669098022042337282,all.calina,2023-07-05 15:18:00,Could you run some tests and see if there is an improvement? I should also ask what network this is on,,,0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],755040159749111941,samtin0x,2023-07-05 15:51:00,"Mumbai, I will make some changes later",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],710522284196102196,adonnini,2023-07-14 05:30:00,@Maria | Ocean Protocol I noticed some commits adding sepolia support. When do you think sepolia support will be included in an official release? Thanks,,,0.8126
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-17 17:25:00,"Hello 👋🏻 Maria is enjoying a well deserved vacation these days. We will announce it on the #🚀┃tech-announcements channel, so keep an eye out for the official announcement. (PS: It will probably take us a few days)",,,0.6705
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-17 19:36:00,Dark mode for docs of op will be nice,,,0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-17 20:01:00,"Hm, good idea",,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-17 20:01:00,Let's see what we can do,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-17 20:09:00,Done...go ahead and give it a try 🙂 Let me know if you find something off,https://cdn.discordapp.com/attachments/971047506857300020/1130471288687841340/Screenshot_2023-07-17_at_15.08.42.png?ex=65e5b9ee&is=65d344ee&hm=df2cefe5d12bd79148add62563b176e9f2fb3af29527ba73bceb55e1e61269a9&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-17 21:11:00,Sure 😃,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-17 21:26:00,For mobile responsive als0 & (dark mode)?,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],381089092399792129,tmeta13,2023-07-19 00:32:00,Started a thread.,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 16:15:00,"Hm, I imagined that it works on mobile as well by default. I'll need to get in touch with the gitbook team 😄",,,0.2732
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 16:18:00,"Okay, good to know 🙂
+I will also do some search 🔍 it might helpful",,,0.765
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 21:56:00,The gibook team just enlightened me 🤯  The theme can be changed on mobile from all the pages except the welcome page. Here is how you can do it:,https://cdn.discordapp.com/attachments/971047506857300020/1131223152765194301/IMG_B364AA1B84D6-1.jpeg?ex=65df3ba8&is=65ccc6a8&hm=168d7d8627a1b0e8c3bccd70edb76e177e0c46a464c4a97adb42cc7a58520f25&,,0.7351
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 21:57:00,Nice,,,0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 21:57:00,Let me check that too,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 21:57:00,"yeah, right",,👌 (1),0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 21:59:00,By the time I am getting dark mode for the welcome page also,,,0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 21:59:00,Once check on Android mobile,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:00:00,"Yeah, it works on my end as well",,👍 (1),0.5106
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:00:00,I think this is just something design related...because of the layout of the welcome page,,,0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:00:00,Can that be fixed ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:00:00,they put the button under the burger menu to be easy to accessible and not disturbing the experience,,,0.681
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:00:00,"Why, things are working",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:01:00,I like the experience now 😄,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:01:00,"I have doubt
+You guys used templates for docs or from scratch?",,,-0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:01:00,Yeah,,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:01:00,we use gitbook,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:01:00,In git book there will also be templates,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:02:00,"yeah, there are a few options to select from",,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:02:00,N/A,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:04:00,I said this because most of the users spent in docs the dake mode could reduce strain ..,,,-0.0516
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:07:00,One solution is to run them by default in dark mode,,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:08:00,and then have the option to switch to light if you want to,,,0.0772
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:08:00,Done...the default is now dark mode 😄,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-19 22:08:00,thanks for your feedback,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-19 22:20:00,Np,,,0.34
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],904989471869640704,hack.aiqc,2023-07-20 08:32:00,Is there a mode like system default for themes,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-07-20 15:56:00,"yep, there is",,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],492755398474989578,0xleopard.btc,2023-08-01 09:30:00,"Hi, I'm a Highly skilled Full Stack Blockchain and Web Developer with 5+ years of experience designing and building decentralized applications and web solutions. Proficient in blockchain technologies, smart contracts, and front-end and back-end development. Passionate about leveraging emerging technologies to create innovative and secure applications.
+
+Skillsets:
+- Solidity, Rust, Golang, Cosmwasm, Cosmos-SDK, Tendermint, CometBFT, Truffle Framework, Ganache, Remix IDE, HardHat, Foundry
+- HTML5, CSS3, JavaScript (ES6+), React, Angular, Vue.js, Web3.js integration, Responsive Web Design, Cross-Browser Compatibility
+- Node.js, Express.js, Python, Django, FastAPI, RESTful APIs, JSON, AJAX, MongoDB, MySQL, PostgreSQL
+...
+
+If you are seeking a proficient developer to join your team, feel free to direct message me.",,,0.9709
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],943208021767630988,gabrielemyname,2023-08-02 17:24:00,"Hey guys, we are building real yield strategies on Ocean and would be interested in the development support and grants program. Who would be a right person to speak to?",,,0.743
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-08-02 17:24:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],943208021767630988,gabrielemyname,2023-08-02 17:25:00,"Awesome, would like to get to know core team and understand the support better 🙂",,,0.9042
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],943208021767630988,gabrielemyname,2023-08-02 17:25:00,@Bogdan | Ocean Protocol @Alex | OceanProtocol not sure who would be a person to talk to 🙂,,,-0.2411
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],797064374660890645,bogdanoceanprotocol,2023-08-02 19:23:00,Hello @Gabriele  I believe @MihaiBadea would be the best fit from the core team so tagging him here 😃,,,0.7717
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],892371769258819634,.mihaibadea,2023-08-02 20:28:00,"Hi, @Gabriele . The best would be for you to apply to the Ocean Shipyard program by using this form: https://docs.google.com/forms/d/e/1FAIpQLSf6G1CppsjEAVtCX8ZboNTURjx7L8N7ef2_uEk-7cxBOpYEuw/viewform. Once you fill it out we will review it and take it from there.",,,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],943208021767630988,gabrielemyname,2023-08-03 16:00:00,Hey @MihaiBadea thanks! Will fill it asap!,,,0.5399
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1087677312339812414,furcoder,2023-08-09 04:08:00,"Hello.
+I'm a web and blockchain developer experienced in building websites from the mockups to a well-functioning product.
+-chatGPT API Integration and AI modelling
+-React, Vue and Next.js
+-PHP, Node.js
+-Smart Contract, Solidity and Web3 integration  
+I would love to connect with people who are in need of my skills.
+Please feel free to connect with me anytime.",,👋 (1),0.91
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-08-22 15:27:00,Hello 👋🏻 and welcome,,,0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1087677312339812414,furcoder,2023-08-23 04:34:00,Hello. Nice to meet you.,,,0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],657169909251440640,pastoffice,2023-08-29 16:00:00,hello,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],657169909251440640,pastoffice,2023-08-29 16:04:00,where i can check my xp ?,,,0.3818
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-08-29 16:05:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],657169909251440640,pastoffice,2023-08-29 16:05:00,i cant write there,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2023-08-31 04:24:00,"In this channel https://discord.com/channels/612953348487905282/1113013155514290228
+Check pinned post
+And use this command/check-xp",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1054821918097809429,donaldtho,2023-09-03 01:17:00,Hello devs,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1054821918097809429,donaldtho,2023-09-03 01:17:00,"I made a dumb mistake by sending ocean token to the contract address, is there anyway to recover?",,,-0.6908
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],456226577798135808,Deleted User,2023-09-11 04:15:00,@donaldtho have you been able to resolve your issue,,,0.3818
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-09-21 19:05:00,"Hi, unfortunatelly there is no way to recover those tokens",,,-0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-09-21 19:41:00,"hi, it would help to write a small post on the #🫂︱find-a-team channel, this way people will find you easier, you can also take a quick look over there maybe someone peaks your interest",,,0.8176
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1087677312339812414,furcoder,2023-09-23 10:49:00,Thank you.,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1087677312339812414,furcoder,2023-09-23 10:49:00,Can I beccome your developer?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],905745114620645406,itadori9047,2023-09-23 17:24:00,"Hi, here:  https://test.predictoor.ai/ when i'm trying to buy subscriptions using Rose my transactions fails.
+
+https://testnet.explorer.sapphire.oasis.dev/address/0xBfAd531EfA277a2eE5fb0C8E6D0322792045482A",,,-0.4215
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804604311015129089,doteth,2023-09-23 20:12:00,You might wanna ask for support in #🤖︱predictoor,,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],780159213049479179,idiom_bytes,2023-10-04 23:28:00,Responded in #🤖︱predictoor,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-10-05 03:30:00,"Sorry, missed your message. We  currently aren't hiring.",,,-0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],334238081668349952,0xcem,2023-10-05 22:54:00,"hi @Mihai | Ocean, I opened a pr regarding a small bug inside the pybundlr, appreciate it if you have a look",,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-10-06 18:24:00,Thanks for opening the PR 🙏🏻 The team will soon review it,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-10-06 18:35:00,"Aaand, it's merged 🎊",,👌 (2),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],334238081668349952,0xcem,2023-10-06 20:18:00,"glad to hear, thank you 😀",,💪 (2),0.6705
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],334238081668349952,0xcem,2023-10-07 03:25:00,I have an urgent question 😄 is it also updated in pypi? so I can use that lib in my projects without compatibility problem,,,0.4692
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-10-09 18:07:00,"Sorry for any inconveniences, the release is up and ready on PyPi: https://pypi.org/project/pybundlr/",,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],334238081668349952,0xcem,2023-10-09 18:46:00,"that's great, thank you",,🙌🏻 (1),0.765
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-10-12 03:55:00,@Cem are you using only pybundlr?  any other components of our stack? 😁,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],334238081668349952,0xcem,2023-10-12 04:11:00,"For now, I just used pybundlr   😀",,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],776809690734395433,swish24_08,2023-10-12 04:11:00,"cool, thanks",,,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],371895464846557187,zephlino_1,2023-10-23 10:45:00,"Hi everyone I don't see the shipyard channel anymore, but I am planning to write an application for WASM  integration for NEAR since a project I want to join Ocean and become part of the ecosystem has a high chance of joining NEAR.
+
+Irrespective of it does join NEAR or not I want to help get Ocean Protocol get WASM integration as well conversing with my integrations contact at NEAR. 
+
+So I wanted to apply for shipyard. Who is the key contact to message for it. I was told it was Mihai or Sheridan. 
+
+But I would like to know what would be needed or just some guidance about what would be key points to add in a application that would help it be successful
+
+*I assume the first one will be reviewed and touched up but I'd rather ask first doing it two times*",,,0.9363
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1023969691548528700,wanderclyffex,2023-10-23 18:21:00,"Hey @Mihai | Ocean @Sheridan | Ocean Protocol 
+
+
+Can you please look into this 🙏",,,0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],371895464846557187,zephlino_1,2023-10-23 18:26:00,Thanks Wanderclyffe much appreciated,,,0.7351
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1023969691548528700,wanderclyffex,2023-10-23 18:47:00,🫡,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],451343325018980353,sheridan_oceanprotocol,2023-10-26 17:39:00,Hi there @Zephyr 👋 The best way to get the process started is by submitting a Shipyard application form. https://docs.google.com/forms/d/e/1FAIpQLSf6G1CppsjEAVtCX8ZboNTURjx7L8N7ef2_uEk-7cxBOpYEuw/viewform If you still have questions drop a mail to shipyard@oceanprotocol.com,,,0.4767
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],371895464846557187,zephlino_1,2023-10-26 17:41:00,Thanks Sheridan,,,0.4404
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],451343325018980353,sheridan_oceanprotocol,2023-10-26 18:00:00,👍,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 04:22:00,"Hello! I am trying to run Predictoor bot, after this command "" # Install modules in the environment
+pip install -r requirements.txt"", i have some error in during installation.",,,-0.4574
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 04:23:00,"oh, ok thank you",,,0.5719
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-10-31 17:50:00,"hello 👋🏻 @Norbert | Ocean, @Idiom | Ocean Protocol can you help out here pleasE?",,✅ (1),0.6124
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804400713123102741,Norbert | Ocean#7805,2023-10-31 18:03:00,Hello! What is the error? What operation system are you using?,,,-0.5191
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 19:34:00,"Sorry, I didn't finish writing yesterday. Some damn scammer slipped me a link to open a support ticket, he almost got me😆",,,-0.0772
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 19:36:00,"I had this error during installing pdr-backend repo, that why i wanna ask. But looks like i can just ignore it.",https://cdn.discordapp.com/attachments/971047506857300020/1168876100600991754/4a0e70c1e842029c.jpg?ex=65ddc933&is=65cb5433&hm=26ac88f4ebfcdd172f6dfc23f176ad3ba6783c730c7a4d9047f94a0749a5aecb&,😓 (1),-0.2144
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 19:36:00,Operation system is Ubuntu,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804400713123102741,Norbert | Ocean#7805,2023-10-31 20:13:00,Looks like you might need to install the wheel package which helps with other package installation and stability,,,0.6249
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 20:29:00,"I just ignore it, looks like everything is fine, bot is running on testnet",,,0.2023
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804400713123102741,Norbert | Ocean#7805,2023-10-31 20:37:00,Great!,,,0.6588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 20:39:00,"Please tell me how can I make my prediction? The bot is running, continuously updated, but I don’t see in the instructions how to make a predictions?",,,0.2523
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804400713123102741,Norbert | Ocean#7805,2023-10-31 21:03:00,"You don't have to do anything. If the prediction window it's getting close to be closed, it's going to submit the prediction for you. For example, if you predict 5m timeframe, ~20s before current timeframe is ended it's going to submit.",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 21:14:00,"Ah, I understand. You mean that while the bot is running, I participate in predictions automatically. Ok, how can I choose the direction of the predict? I mean whether the price will rise or fall, the amount of money I want to bet on the prediction. I don't quite understand this part",,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],804400713123102741,Norbert | Ocean#7805,2023-10-31 21:30:00,"For setting the stake amount check the envvars.md file from pdr-backend readmes folder. You have to set the environment variable and then the way that is going to be used depends on the chosen approach.
+Right now the predicted value is automatically determined by the approach you are choosing. Approach 1 uses random values while Approach 3 uses a dynamic modal which is trained on past price data and predicts the value for you.
+If you want to customize the predicted value you can change on of the approaches.",,,0.9217
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],329222408672247808,feno1486,2023-10-31 21:36:00,"Got it, thank you",,👍 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-11-01 15:33:00,nobody use safeTransferFrom ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-11-01 15:34:00,"how to get  the transfer ""to"" address",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-11-01 15:34:00,it is not working with  tx.events['Transfer']['to'],,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-11-01 15:34:00,I try to find same info in tx.logs,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],523535807588466694,jeugregg,2023-11-01 16:59:00,how to get transaction info like before ?,,,0.3612
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],585812741202116608,denkcryptoo12,2023-11-01 17:56:00,"Hey, Jeugregg. Might this repo on GitHub help you with your issue)",https://cdn.discordapp.com/attachments/971047506857300020/1169213340657123358/image.png?ex=65df0347&is=65cc8e47&hm=c74eeb8f02f06ec65f05549d4461ed55cda934260770d107e928e3e86297da2a&,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],830853839082094663,tushar3694,2023-11-07 19:05:00,"Hi Team, 
+
+Myself Tushar and I am looking for opportunity to work for Ocean Protocol. Could someone please guide me what is required to be part of Team ? I am eager to learn, contribute as team member and upskill in required direction.
+
+I have worked as MERN stack developer. Upskilling in Golang. Done research work on many ERC/EIPs.",,,0.765
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-11-07 19:06:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],843831770062913568,white_rider_,2023-11-13 17:28:00,Hello 👋🏻 Thanks for reaching out. At this current moment we are not searching for new members to join our team,,,0.7096
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],423496941712834580,mrgreyisyellingfromneverdietacos,2023-11-13 21:11:00,"General basic question:
+
+So when a data nft is created, there is a cap on the number of erc20 data tokens that are generated. Once that number of erc20 tokens are distributed, no more data tokens are possible for that datanft? Or is it possible to mint more, at a later point?",,,0.1926
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-11-13 21:12:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],423496941712834580,mrgreyisyellingfromneverdietacos,2023-11-14 01:17:00,Can you point me to the contract template for the erc20 data token?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-11-14 01:18:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],531778411975147535,himas.,2023-11-15 02:40:00,"Hello, today I launched a bot using this guide - a problem arose for Windows. The command that installs the virtual environment only works on unix-based systems, on windows the command ""source venv/bin/activate.bat"" results in an error: ""source"" is not an internal or external
+command, executable program, or batch file. Instead of ""source venv/bin/activate.bat"" on windows, use the command ""venv\Scripts\activate"" to activate a virtual environment",,,-0.5994
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],531778411975147535,himas.,2023-11-15 02:40:00,https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/predictoor.md,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],531778411975147535,himas.,2023-11-15 02:40:00,"this is not a problem, but a suggestion. maybe it's worth adding this line to the guide",,,0.455
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],881305463831007272,nickscavuzzo33,2023-11-15 20:53:00,"@Christian_Casazza have yoou encountered this on windows? @himas🌲 when you create a virtual environment, try to remove .bat in the command and just write 'source venv/bin/activate'",,👍 (1),0.2732
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],800024001006141451,ndehouche,2023-11-30 22:36:00,Hi @Nick | Ocean Protocol I've opened a pull request for https://waves.oceanprotocol.com/ which currently doesn't display new submissions. It's at https://github.com/oceanprotocol/waves/pull/23 I used to also have access to the Builders channel but it has apparently disappeared when I changed my username (ndehouche/HaAI Labs).,"https://cdn.discordapp.com/attachments/971047506857300020/1179792974423543849/286824055-adb1bf66-a597-47ae-9236-12c5447b0504.png?ex=65e09654&is=65ce2154&hm=5c694226d3096ac304e218bf59e0c97049f19fdb3c06400c0097e0841ff267ae&,https://cdn.discordapp.com/attachments/971047506857300020/1179792974813610074/286824104-f8521d39-0903-418c-8c9d-663824ac5271.png?ex=65e09654&is=65ce2154&hm=7d20dd2c9992348a3674b50c4360e5c22fbeb259aca9999acaf4b692f9136858&",,-0.3291
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],881305463831007272,nickscavuzzo33,2023-11-30 22:49:00,Hey thanks for reaching out and sharing your PR. @White Rider @Mihai | Ocean What do you think can be done here to support?,,,0.8481
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],676529121106591777,rafaelestermann2000,2023-12-13 23:11:00,"quick question: I'm trying to find out, what the process for change requests on the open source of Ocean Protocol looks like? I know it's publicly availalbe, but who gets to decide, wether a change request gets implemented or not?",,,0.2755
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-12-13 23:12:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],794908523719950357,hakerbaya,2023-12-15 01:26:00,"@Andrea | Ocean Protocol check your dm, related to important security vulnerability",,❌ (3),0.3182
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],691915888688889877,macrodrigues,2023-12-20 02:58:00,"Hi I'm following the **Remote Setup ** steps on  https://docs.oceanprotocol.com/data-scientists/ocean.py/remote-setup
+
+When I send OCEAN through the https://faucet.mumbai.oceanprotocol.com/ I receive the tokens, but when I do:
+
+`OCEAN.balanceOf(alice)`
+
+I see zero... Can someone help me?",,,0.5499
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],881305463831007272,nickscavuzzo33,2023-12-21 00:13:00,Hey! Did this work in the last day? sometimes you just have to try to dispense the faucet a second time and it will deposit automatically,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],691915888688889877,macrodrigues,2023-12-21 00:19:00,"I had to use infura, the provided RPC didn't work: ""https://polygon.llamarpc.com""",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],189542100331659265,kush83,2023-12-26 02:09:00,"Hi guys,  I need help and guidance as my OCEAN tokens have been orphaned on metamask on BSC chain after Binance shut down in my country. Is there a liquidity pair on Ocean/ (another token on BSC). Metamask's Bridge an Swap are failing.",,,-0.1531
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1121970594079060039,domizhong33,2023-12-26 14:42:00,OCEAN/BNB seems to be fine and working. Just acquired some more OCEAN tokens with the pair.,,,0.2023
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2023-12-27 17:29:00,"Not an easy task! ... but if I manage to do it, good things come!",https://cdn.discordapp.com/attachments/971047506857300020/1189500232367620247/image.png?ex=65defceb&is=65cc87eb&hm=b8c39ecfda8ad0591071985c297ee82ff84cc8bf754d27b4a43bc12d5ff77ca5&,,0.5763
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],189542100331659265,kush83,2023-12-28 21:19:00,Did you use MetaMask swap? Or another DAPP? I cannot use Binance.,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],189542100331659265,kush83,2023-12-29 07:20:00,This is what I see when I try to swap my Ocean on BSC chain on MetaMask. I cannot transfer these ocean back to Binance as Binance shut down in my country.,https://cdn.discordapp.com/attachments/971047506857300020/1190071860965146694/IMG_6270.png?ex=65e1114a&is=65ce9c4a&hm=af5af05a3ebde9f384c89473f263c5c9e656a7da6b924f6821ed061bc1c9d08c&,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1183879955889803346,thestallion3,2023-12-29 07:34:00,Hello kindly message with the issues you have @AlphaQAllUp#1322,,,0.4939
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],624941896472723467,mrrayce,2023-12-29 07:36:00,"Ive never done multicalls before but from what I understand it usually means there is a underlying function I am calling.  I am looking for function swapExactTokensForTokens
+
+
+
+// Import the Multicall contract
+
+import {Multicall} from ""./Multicall.sol"";
+
+
+
+// Set the address of the Multicall contract on the Arbitrum network
+
+address constant MULTICALL_ADDRESS = 0x...; // insert the address here
+
+
+
+// Create a new instance of the Multicall contract
+
+Multicall multicall = Multicall(MULTICALL_ADDRESS);
+
+
+
+// Set the input and output token addresses and the amount to swap
+
+address constant INPUT_TOKEN_ADDRESS = 0x...; // address of the input token
+
+address constant OUTPUT_TOKEN_ADDRESS = 0x...; // address of the output token
+
+uint amountIn = ...; // in smallest denomination of the input token
+
+uint amountOutMin = ...; // in smallest denomination of the output token
+
+
+
+// Set the swap path and the recipient address
+
+address[] memory path = new address[](2);
+
+path[0] = INPUT_TOKEN_ADDRESS;
+
+path[1] = OUTPUT_TOKEN_ADDRESS;
+
+address recipient = msg.sender;
+
+
+
+// Set the deadline for the transaction
+
+uint deadline = block.timestamp + 600; // 10 minute deadline
+
+
+
+// Create an array of function calls to batch
+
+bytes[] memory calls = new bytes[](1);
+
+calls[0] = abi.encodeWithSelector(
+
+    router.swapExactTokensForTokens.selector,",,,0.6486
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1121970594079060039,domizhong33,2023-12-29 13:27:00,Best way is then perhaps swap with others on P2P market~ You send your ocean to someone willing to send you something else to your MetaMask wallet address.,,,0.6369
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],189542100331659265,kush83,2023-12-30 01:03:00,Can't trust that. Is there a reason that the Devs do not have any liquidity pair for OCEAN on BSC? Isn't that something fairly easy to set up with an auto arbitrage bot?,,,0.1426
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2023-12-30 01:03:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1138390763823169628,xiscor,2024-01-05 18:34:00,Hi guys.,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1138390763823169628,xiscor,2024-01-05 18:34:00,How are you doing?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-06 04:29:00,"Hello! Does anyone know the structure of the 'invokeFunction' method in WalletConnect?
+
+web3App.request(
+      topic: sessionData.topic,
+      chainId: config.chainId.toString(),
+      request: SessionRequestParams(
+        method: 'invokefunction',
+        params: params,
+      ),
+    );
+
+
+what are the params?
+i came up with this code:
+this.$post('invokefunction', [scriptHash, operation, params])",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],930060932573433857,zhealous109,2024-01-06 09:52:00,Did you get this solved ? @Crypto Geek,,,0.1469
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-06 21:48:00,i was at work utill now! starting to search r/n,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-08 01:01:00,"i solved the mentioned problem, but found an other",,,-0.0772
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-08 01:05:00,"As long as I can see, MetaMask does not natively support Flutter, and I have to implement the channel and other things within Flutter. Due to this issue, I cannot use the ‘eth_sendTransaction’ method, which prevents me from sending transactions directly to the wallet. Now, I am working on this problem…",,🔥 (1),-0.2401
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],961181510357123092,abdulmazid_,2024-01-08 12:04:00,@awesomeQA what are ocean template?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2024-01-08 12:04:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1179363673337241604,hertz_btc,2024-01-09 06:54:00,hey mate you can actually use the node dapps to swap,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],189542100331659265,kush83,2024-01-09 08:38:00,There is no liquidity or a pair on the BSC chain for a swap,,,-0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1179363673337241604,hertz_btc,2024-01-09 12:57:00,yeah on the node dapps there is an easy way for all tx,,,0.765
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],189542100331659265,kush83,2024-01-10 11:02:00,What is a node DAPP? Any repuable links or elp documents?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-15 04:15:00,"Hello!
+I have translated the JavaScript ocean waves into Flutter and Dart languages, and I have published it in this repository: https://github.com/MohammadJamali/oceanprotocol_waves.
+
+From now on, if you want to build any app in Flutter and Dart, just include the oceanprotocol_waves: ^0.0.1 library (https://pub.dev/packages/oceanprotocol_waves) in your project, and display the beautiful ocean waves right after.",https://cdn.discordapp.com/attachments/971047506857300020/1196185950687084644/record.gif?ex=65e4da7a&is=65d2657a&hm=08ce4b413142b8b430240768ac358045d3a4c84274b7d748e2f7735b3a9a6f75&,"🙌🏻 (5),👍 (3),💯 (2)",0.6696
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],700794972856778792,pacha912,2024-01-16 17:24:00,@KreigDk 🔥,,❤️ (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],712932448652230657,okpo_e,2024-01-18 15:09:00,"Nice one, except that the Ocean waves belong to the Ocean, and I'm not so sure if one can use it  in a fork.  I may be wrong though. Better to check with the team.  Great thinking!
+https://docs.oceanprotocol.com/developers/build-a-marketplace/customising-your-market#background",,,0.6724
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-20 00:53:00,@Ocean Managers,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],735968305742872626,mohammad.jamali,2024-01-20 00:58:00,"I didnt see the exact sentence that puts the wave usage restrictions on forked market places. Even though we might not be able to use it in a new app, perhaps we could use it on the Ocean ""About"" page within the app.
+
+But i would like to hear ocean protocol manager's opinion.",,♥️ (1),0.5267
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2024-01-20 05:16:00,"Hi! Sorry for the delay in replying.😅 
+First of all, thank you for coming up with such a cool wave idea! I like it!:ocean: 
+As for your question, I will check with the team and get back to you soon.",,👍 (1),0.6784
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1123942022902984736,XP Bot#1778,2024-01-20 05:18:00,Congratulations @Crypto Geek! You just received 3 XP points for the first time.,,,0.7734
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2024-01-20 05:24:00,I don't think there will be any problem with that. But I'd better check),,,0.4588
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2024-01-23 01:54:00,@Alex | OceanProtocol Hello! Can you please help?  Oceaner has translated Ocean Waves into other code languages. And could you clarify if there are copyrights on them? if they can be used in the forked marketplaces?,,,0.7033
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],625415196713943051,alexcos20,2024-01-24 23:55:00,"if it's using Ocean technology, why not..",,🚀 (1),0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],267396358237978624,azevedoluis,2024-01-28 04:13:00,"Hi everyone! 
+I'm a frontend engineer looking for web3 open-source projects to contribute to. I saw ocean protocol, is there any channel or process I should follow?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2024-01-28 04:14:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2024-01-28 04:15:00,Hi! We're happy to see you here in the Ocean Protocol community👀,,,0.6114
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2024-01-28 04:15:00,"The bot has already given you an answer and I hope it helps you 🙂
+If you have any further questions, feel free to ask.👀",,,0.8316
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],200289288741584906,karubinu,2024-01-29 18:38:00,Have anyone tried consuming and/or publishing assets with wallet connect?,,,0.1779
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1124931177619402802,cryptomaster333,2024-02-01 00:13:00,yes,,,0.4019
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1124479007782608976,crypto_tec,2024-02-01 13:46:00,Yeah,,,0.296
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],200289288741584906,karubinu,2024-02-01 14:56:00,is it successful?,,,0.5859
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1124931177619402802,cryptomaster333,2024-02-01 17:37:00,"yes
+If you don't mind, I want to do with the friend.",,,0.6886
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1149313695927779448,sasuke_0128,2024-02-02 20:52:00,"hello, team. is there any opportunity to work with you?
+I am a frontend and blockchain developer, just looking for an ongoing project now.
+I have developed many dapps like dex and defi project and also supported nft marketplace.",,,0.765
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2024-02-02 20:53:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],1176968285359718463,smile.10162,2024-02-05 21:18:00,Is there anyone looking for a developer?,,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],955744627481255976,awesomeQA#0813,2024-02-05 21:19:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],517757788043214859,mertkkl,2024-02-13 03:18:00,"Hey, does shipyard program only funds retroactive projects or at least in MVP stage? Can i apply the program with detailed proposal with my idea about a dev tooling project?",,,0.0
+Ocean Protocol - ECOSYSTEM - 💻┃dev-lounge [971047506857300020],739132787499597824,kreigdk,2024-02-13 17:49:00,"Hello @Mert ! Sorry for delay
+
+The Ocean Shipyard program is an early-stage grant program established to fund the next generation of Web3 dApps built on Ocean Protocol. It is designed for entrepreneurs looking to build Web3 solutions on Ocean, make valuable data available, build innovations, and create value for the Ocean ecosystem. Therefore, you should be able to apply to the program with a detailed proposal for your idea about a dev tooling project.",,👍 (1),0.8172

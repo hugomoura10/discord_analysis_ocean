@@ -1,0 +1,886 @@
+Channel,AuthorID,Author,Date,Content,Attachments,Reactions,sentiment
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],694909516285739038,trentmc0,2022-07-06 14:34:00,Hello all!,,👋 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-07-06 15:09:00,"Please be careful with this dataset - the creator is waiting for liquidity to sell their prepared datatokens into:
+https://market.oceanprotocol.com/asset/did:op:0d042b987f9961a426cf88a74b772d4baf60938017df33636a04f9e2ee680431
+
+They have a position of 84 datatokens (bought for much cheaper than the current price) waiting for liquidity to come in:
+https://polygonscan.com/token/0xf6e22bb0aD0A9d22175c67a88aD666A5D48dcE76?a=0x9cee6de6d601edb9284c8538b5a041cbeffc463f",,👍 (2),0.5859
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],694909516285739038,trentmc0,2022-07-08 14:22:00,https://twitter.com/trentmc0/status/1545153163627577344?s=21&t=RL5pKDjhNOkczNE9z34GIw,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],716251155931332628,friso703,2022-07-08 15:12:00,I lost 5k ocean in datalatte set… I just want to understand how it dropped so drastically,,,-0.25
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],716251155931332628,friso703,2022-07-08 15:12:00,I was the first one to add liquidity and the datatoken likely wasnt traded yer,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],716251155931332628,friso703,2022-07-08 15:13:00,Really upset about this,,,-0.4391
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],716251155931332628,friso703,2022-07-08 15:33:00,Please have a look at this in context of the recent “exploit”… thank you,,,0.5859
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-07-09 05:28:00,👀 I would not buy the candy that james Andy is trying to sell 🍭,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],694909516285739038,trentmc0,2022-07-09 18:09:00,https://twitter.com/oceanprotocol/status/1545708401094713344?s=21&t=AZwyRAqYeJWg4XVah-d6lA,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],694909516285739038,trentmc0,2022-07-09 18:33:00,https://twitter.com/trentmc0/status/1545717671873986560?s=21&t=AZwyRAqYeJWg4XVah-d6lA,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],305723947658379274,drprk.eth,2022-07-11 15:01:00,underrated humour from Roberto,,🍭 (2),0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],694909516285739038,trentmc0,2022-07-12 04:01:00,https://twitter.com/oceanprotocol/status/1546581812864073731,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],489061151628460032,_ilhan,2022-07-12 05:33:00,"with attack you mean pool shares are being sold, to get the underlying ocean ?",,,-0.2263
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],489061151628460032,_ilhan,2022-07-12 05:34:00,"We have added liquidity to the bigger pools 3 weeks ago, should be able to see some rewards on the claims website ? I can't see anything yet.",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],489061151628460032,_ilhan,2022-07-12 07:25:00,I just removed all liquidity from the pools.,,✅ (2),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],929126245130702848,0xaaronn,2022-07-12 13:14:00,"hey, i want to use ocean protocol with data providing, how does it work ?",,,0.0772
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],456226577798135808,Deleted User,2022-07-12 14:42:00,Mate,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2022-07-12 20:15:00,🥲,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],929126245130702848,0xaaronn,2022-07-13 06:09:00,thx,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-09-29 21:27:00,"I allocated 100.000 veOCEAN but it does not show - is this list supposed to show all veOCEAN allocated or is there a formula behind it like last time?
+
+Because if I sum this up then not much of the ~8 million OCEAN are allocated to data assets.",https://cdn.discordapp.com/attachments/993954438790258879/1025036222315376660/Screenshot_2022-09-29_at_15.26.28.png?ex=65e0865f&is=65ce115f&hm=3f423daf6a0a7bb429049a167e217cc95dee4829dff05e0e266daa3556d354b3&,,0.6486
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-09-30 15:09:00,Fixed now - thanks @Idiom | Ocean Protocol and @trizin,,👍 (2),0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-10-03 06:53:00,"The veOCEAN allocated + consume  updates every 5 mins.
+We have a bunch if tickets written up to improve things and deployed a handful of improvements late Fri/early Sat.
+Looking forward to resuming things on Mon.",,🚀 (3),0.6369
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-10-21 10:16:00,"@Idiom | Ocean Protocol @Norbert | Ocean @trizin love the updates to the data farming page, thank you for that!",,"👏 (4),🙌 (2)",0.7901
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-10-22 00:32:00,"you're welcome sir, thank you for taking notice 🙌",,,0.6705
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-10-22 12:26:00,"More updates went out the door.
+
+If anyone notices rewards going away, please let us know.",,,0.6597
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],716251155931332628,friso703,2022-10-28 15:16:00,Is datafarming without risk? Feels to good to be true,,,0.7589
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],643358345675145216,telisgr,2022-11-04 01:24:00,hello i allocated my vocean in two different datasets but in this week rewards i v got 0 rewards both in active and passiven rewards,,,0.9517
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],837901335470538772,bhavingala,2022-11-04 13:30:00,"Hey, can you share your address?
+Will check with the concerned team and get back to you!",,,0.3595
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],643358345675145216,telisgr,2022-11-05 03:33:00,share here in public?,,,0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],837901335470538772,bhavingala,2022-11-05 15:30:00,Please DM me on Telegram @BhavInGala or you can DM me here.,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],990328329175466074,web3nodeguy,2022-11-24 23:45:00,How does one run an ocean validator node and start farming?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-11-27 00:56:00,"You dont need to run any nodes.
+
+https://docs.oceanprotocol.com/veocean-data-farming-tutorial",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-09 01:33:00,"**[Data Farming discussions and intuitions]**
+Hey everyone, me and Autobot have been chatting, and I'm just going to move some discussions out here because I want to be talking in public about anything related to data farming, and everything relating to it. He's building some pretty cool stuff and I look forward to see him talk more about it.
+
+I think this is a funny comment to help move the conversations here.
+
+// let's move this into public
+data farming is trent's baby, it's a good baby to nurture i believe 🐤 
+it ties a lot of core systems together 📈",,🙌 (1),0.9403
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-09 01:40:00,"**[Blog Post - Data Farming & Wash Consume]**
+Until then, I shared with him this blog post that went out the door.
+https://blog.oceanprotocol.com/ocean-protocol-data-farming-and-wash-trading-8f47dffd327b
+
+The goal is to **facilitate everyone to learn how to build value flows around the ocean stack, especially Data Farming as it's the key, protocol-incentive mechanism**. 
+
+I believe there is a lot of good stuff coming that way, so I just wanted to be talking more about it in the public domain.
+
+In summary, I believe it really benefits everyone to learn the intuitions of Data Farming.
+We're trying to turn much of this work into just a few lines of code.
+I hope to share more about it here.
+Cheers! 🌊",,,0.9523
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-09 05:52:00,"Thank you @Idiom | Ocean Protocol.
+Hello everyone I have been building a website for Data Farming analytics to show information to help farmers and to get a true picture of what’s going on. I will upload a short screen recording of the website. At the moment I am still building locally.
+
+It contains:
+
+Current Consume Volumes
+Overall Consume Volumes
+Last Active Rewards
+Overall Active Rewards
+
+I want to add much much more.
+
+I have had a lot of discussions with @ekz10 and more recently Idiom as-well.
+
+I would like to know what all the Ocean loving farmers 🧑‍🌾 think of this?",,"🔥 (5),❤️ (2)",0.9758
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-09 05:52:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1050530368719179796/Screen_Recording_2022-12-08_at_17.01.19.mov?ex=65e0fca5&is=65ce87a5&hm=99e17de11c6af25bbe53189ece932ad03773de4a53a5be7dcb7f7b83833a3079&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-12-09 18:00:00,I think this is really awesome - I already bought your dataset on the marketplace but having it presented in such a beautiful way makes it even better.,,"🔥 (1),🤘 (1)",0.9169
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-09 19:52:00,"Glad to hear that thank you. I am going to continue to build on it, I am open to any requests/ideas 👍",,,0.6705
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-10 00:04:00,"I already have a few. Great work.
+I'm going to scribble on a piece of paper and pitch you a setup.
+
+Do you want to keep building pages, or are you interested in constraining yourself to a dashboard?",,,0.7964
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-10 00:26:00,"That will be great.
+They both have there good and bad points a dashboard is much more user friendly but with tables we can check up on individual addresses.
+Unless via the dashboard I can pull up further details.
+I do think dashboard might be better. I still like what I have created and up until reading the suggestion I am not sure now",,,0.8921
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-10 00:28:00,I actually just finished this today to add some fun to it. Each week for active rewards the users get scored at who had the best ratio of rewards (leader board),,🔥 (1),0.9468
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-10 00:28:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1050811290777550948/IMG_5899.jpg?ex=65e20246&is=65cf8d46&hm=ccf0ceb6f7865a0dd8e16d56f8bb7efef49f28ec0438e7e290e7973c7ba85605&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-10 00:37:00,@Idiom | Ocean Protocol I meant to “reply” to your message,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-10 01:41:00,"By the way, I showed the video to a bunch of people internally and everyone was very happy to see it
+
+I want to again reiterate how big of a program data-farming is.
+I'm personally very excited to see builders starting to create datasets and intelligence around data farming.",,,0.9039
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-10 02:51:00,"**[Ocean Protocol dApp - Intelligence Store]**
+@AutoBot, I have now taken my scribbles and dApp outline and moved it to these slides.
+The slides cover the whole app end-to-end, and propose a complete way for you to monetize & token gate the intelligence.
+https://docs.google.com/presentation/d/1X0pJDpCyLIzRFZXk-bNVlvZ8zx6zOmopMlnzeEGCFJs/edit?usp=sharing
+
+I can guarantee you I have skipped details.
+Let's iterate.
+
+*Anyone is free/welcomed to view/ideate/fork/ask questions about the framework.*",,,0.802
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],782929693446897695,realdatawhale,2022-12-10 16:11:00,Very cool.,,,0.3804
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],782929693446897695,realdatawhale,2022-12-10 16:12:00,"Suppor the idea of (Data)token-gating the web-app. Check out tufext.com , but instead of accessing the Ethereum contracts analysis with an ERC token, you can access the data farming analysis with a Datatoken. Way to go Auto Bot!",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-10 21:37:00,Thank you I am taking the advice 😊,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-10 21:38:00,"Thank you for the support, I will take a look 🧑‍🌾",,,0.6369
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-11 01:58:00,"How did your session go?
+Did my scribbles make sense?
+
+I could provide better wireframes, designs around ocean.js, and look into other insights.
+I'm happy to propose some tables/dashboards and how to monetize things.
+LMK what you're thinking in terms of data you want to gather.
+I haven't spent enough time there.
+
+We have some things we're planning for internally, but the metrics/dashboards are different.
+
+I'm also happy to talk about where we might identify some opportunities to monetize.
+Example. What's normally easy to make premium, are features like alerts.
+Whenever you can help users obtain an edge, and close an action that generates yield, you are creating good value that can be monetized.
+If you think this way, you might identify a few opportunities.",,,0.9891
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-12 06:19:00,"Good, thank you for doing that and putting the effort in, i hope to have something to show soon",,🔥 (1),0.8074
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],857435508518682645,christian_casazza,2022-12-13 04:44:00,"Hi @AutoBot https://www.keboola.com/ I also just wanted to show this one tool that may be helpful, and maybe for others. They make it possible to organize data pipeline in one interface between ingesting raw data and scheduling and running code to aggregate and normalize the data, and provide data destination to store it. It could be helpful for setting up these pipelines to run more regularly",,,0.6808
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-14 05:48:00,"**[Data Farming Update - New Feature - Passive, Active, and Global APYs] **
+The latest version of the Data Farming portal is out!
+I have shared an update and details inside of #🎉︱announcements
+
+Happy Farming! 🧑‍🌾 👩‍🌾🚜",,,0.8802
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-14 07:06:00,"**[DF UX/UI - What's planned for]**
+To avoid conflicts w/ the work that @AutoBot is doing and keep it public (to not give any edge), I'm providing some visibility into the work/plans.
+All of this can be found inside of: https://github.com/oceanprotocol/df-web
+
+**Data Farming Page => Per-DataNFT APY**
+    - APY, DCV & Current Allocation
+    - Mainly comparing last week (what happened - fixed numbers) to this week (what's happening - variable numbers)
+**Rewards Page => Round History => Passive + Active APY**
+     - Passive Rewards has some cruxes to sort out (details being sorted out)
+     - Active Rewards is more straight forward
+
+No current plans for Leaderboards.
+Some of the effort focuses on facilitating core intuition and your personal performance.
+Some of the effort focuses on more macro intelligence.
+
+*If you're an engineer, you can follow updates for what data is getting crunched @: https://github.com/oceanprotocol/df-sql
+There are also subgraphs, and other places to get data. GLHF!*",,,0.8657
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-15 22:07:00,I already have got Passive rewards sorted out I have for over a month 👍,,🤘 (1),0.5994
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-16 16:51:00,"**[Data Farming - APY Updates - 2/4]**
+Latest version is out.
+https://df.oceandao.org
+
+Details can be viewed here:
+https://discord.com/channels/612953348487905282/720631710785732638/1053231962522927124
+
+We've added APYs at the DataNFT level, and have added more context so people can understand how Datasets are performing.
+
+More to come!
+Thank you!",,🥳 (1),0.5184
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],782929693446897695,realdatawhale,2022-12-17 01:11:00,"Ready to farm, our NFT Data Analyzer:
+
+https://twitter.com/realdatawhale/status/1603796547535355906?s=20&t=KY3UGAOHwa2PsAVA_dNPuQ",,"🙌 (1),🚜 (1)",0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-12-22 15:43:00,"Interesting round of data farming - there were two data assets that were pushed really hard in the last few minutes of the round:
+https://market.oceanprotocol.com/asset/did:op:ef5ce98f6cfbf7b431a28519d5b8f72b76d6993db6058c44c17372e6bc7697f3
+https://market.oceanprotocol.com/asset/did:op:afdb54887a09ee80308716124c61ef440a0d297e7d6ad0287fb436f43f380ebf
+
+They have both low prices prices of 11 OCEAN and 12 OCEAN and if you buy them you get access for one day - this limits the buys on the Ocean marketplace to once per day. But somehow someone mysteriously was able to consume them for >20.000 OCEAN repeatedly. Here is the wallet:
+https://polygonscan.com/address/0x874ab7244ba5fab8d54aa74b2b985b9bffaf899c#tokentxns
+
+There is no change of the metadata visible on the Ocean marketplace metadata history. So I am wondering how something like this is possible?
+Where could I track the price change of a data asset? That must be a transaction somewhere, right?",,🤔 (1),0.675
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-22 17:22:00,They managed to stack up the volume. 16 and 17 buys in the last minute,https://cdn.discordapp.com/attachments/993954438790258879/1055415069401415720/Screenshot_2022-12-22_at_09.21.45.png?ex=65e04ce1&is=65cdd7e1&hm=59a4b351a06348d9f98d4495a146bcfd9d8698a9a40453f96b14450bc0342cb7&,🤔 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-23 03:38:00,"Thanks for raising this Robin & Autobot.
+
+WRT Sniping:
+1. It's great that people are trying to game it. Game on!
+2. We've been working to clean up our code base to make iterations faster/easier/reliable.
+3. We have some good solutions available to address this, sniping will be eliminated.
+
+```There is no change of the metadata visible on the Ocean marketplace metadata history. So I am wondering how something like this is possible? Where could I track the price change of a data asset? That must be a transaction somewhere, right?```
+Although I'm familiar with the contracts, I can't point you to this event/log.
+I agree, there should be a trail, but I don't know where it lives.
+
+```if you buy them you get access for one day - this limits the buys on the Ocean marketplace to once per day```
+We're reviewing this a bit... but we all agree that this is perfectly fine. Consume/access should be handled at the app/gating level. If you want to consume multiple tokens, then go right ahead.",,,0.9714
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-23 04:01:00,Here some more details of the buys,https://cdn.discordapp.com/attachments/993954438790258879/1055575894888038442/photo_2022-12-22_19.59.22.jpeg?ex=65e0e2a8&is=65ce6da8&hm=1cff83f42b2119e2d8a8922cc7b8acf6790a516a58451acec8a9c506197eef6e&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-23 04:59:00,@Idiom | Ocean Protocol Does the Ocean team take part in datafarming,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-23 09:24:00,"I dont believe anyone internally is involved in wash consuming.
+
+I do believe many people have locked. Some may be farming.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-23 09:34:00,"Event name is FixedRateExchangeUpdate
+
+https://github.com/oceanprotocol/ocean-subgraph/blob/1293e6ebd76969ea59fa0bd76541fc1d02869c72/schema.graphql#L233",https://cdn.discordapp.com/attachments/993954438790258879/1055659571030540368/Screenshot_20221222-173310_Brave.jpg?ex=65e13096&is=65cebb96&hm=fe07905f85645fd6b9aa151165d17f8c6ef4b5bc3a01a88689041bfbfc1feb13&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-12-23 10:17:00,"All right, so this farmer seems to be very dedicated. Interesting.",,,0.7408
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2022-12-23 15:24:00,"https://polygonscan.com/address/0x2321756B2eDE8Ee6467Cc85e15B6bd1fBD6c2FE4
+https://polygonscan.com/address/0xd70B21E388E15De10eF75c4b2030A70159e390D8
+
+ a lot of exchange setRates",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2022-12-23 15:24:00,look at asset's owner tx history,,🙏 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2022-12-23 16:44:00,Thank you! This is really a dedicated individual.,,,0.7257
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2022-12-23 16:56:00,But this is not the first round.  I have been tracking him/her/them for quite a while,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2022-12-23 16:56:00,as I was tracking you 🙂,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-24 00:18:00,"@AutoBot how's the app coming along?
+
+I think more and more people would like to have access to some of the intelligence you are aggregating.",,,0.7063
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-27 01:07:00,"Still working on it but have been busy with Christmas and spending time with family.
+Merry Christmas 🎅",,🎅 (1),0.6956
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-27 01:13:00,"Great to hear! 💪 
+Just curious about progress and staying in touch! 👋 
+
+Happy Holidays @AutoBot! 🎄🎁",,,0.9466
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-27 09:06:00,"**[Intelligence Framework - UI Updates]**
+Hi Autobot and others, I have updated the dApp slides w/ some AI-UI layouts, so I can more easily visualize/communicate the UX.
+
+I'm sure you have gone in your own way, however I thought I would share an update.
+Am trying to make the ui components, and ux flow more obvious w/ some cleaner images.
+https://docs.google.com/presentation/d/1X0pJDpCyLIzRFZXk-bNVlvZ8zx6zOmopMlnzeEGCFJs/edit#slide=id.g1b057905e77_0_91
+
+Hope it helps, cheers!","https://cdn.discordapp.com/attachments/993954438790258879/1057102232941772809/free_dashboard.jpg?ex=65e6702c&is=65d3fb2c&hm=841573d487d9e5529b2bacb4e259ed4064be2a9b0f223a5fb6ae862f2513bcdf&,https://cdn.discordapp.com/attachments/993954438790258879/1057102233176637460/token_gated.jpg?ex=65e6702c&is=65d3fb2c&hm=93e0f11439b352452072b605ea4240124d713b342d55d209261d771f0263f4b1&,https://cdn.discordapp.com/attachments/993954438790258879/1057102233373777950/sale_component.jpg?ex=65e6702c&is=65d3fb2c&hm=afd401a1120c2e0119e6f38c0fb4f3e69330c9362fcfd4061f7f50d930e503b0&",,0.9437
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-30 06:36:00,"`so I can more easily visualize/communicate the UX.`
+It sounds like your building this? I came to you with an idea and showed what i am building for datafarming. The layout idea was good but i am a little confused",,,0.2584
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2022-12-30 09:35:00,"I am not actively building this sir.
+I believe our own internal goals are orthogonal to the intelligence and value you can support 
+
+What I hope to do is continue to identify the scaffolding and reusable work we can leverage moving forward.
+I think there is a lot of great stuff you're working towards and my only goal is to continue to support that.",,,0.9427
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2022-12-31 05:50:00,"Maybe I am just taking your input the wrong way, but it’s all good. Site is coming along well. I intend to get something out. Then continue to work on it as a long term project to move along side with data farming. As there’s so much that can be done",,"👍 (1),🙌 (1)",0.6652
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-04 00:55:00,"Hello everyone site is live:
+https://twitter.com/AutoBot_s_/status/1610318311836815363?s=20&t=eIipCwNoERf43ZlUE__G6g",,"🔥 (5),🙌 (3),❤️ (1),🤘 (1),📊 (1),🎉 (1),👩‍🌾 (1),💯 (1),👨‍💻 (1),🖖 (1),🚜 (1),🚀 (1),🌊 (1),📜 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-05 02:14:00,https://twitter.com/autobot_s_/status/1610701016038621185?s=46&t=aVbPe09hJDjKAkhCVFl_CA,,"👍 (2),❤️ (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-05 05:19:00,"Incredible work @AutoBot!!!! 🚜 
+
+It's extremely exciting to see you build so close to the core value flows of Ocean. 🐙 
+I also look forward to us continue to collaborate so we don't overlap each other too much, so you can continue to deliver even more value.
+
+I also need to applaud your efficiency and effectiveness. 👨‍💻 🥷 
+This is highly impactful work, delivered on a dime, and helps us to achieve even stronger network effects. ♻️ 
+
+I look forward to when your premium datasets and features are integrated, enabling you to obtain even more yield.
+
+Fantastic way to kick off 2023 ser!
+🎉 🔥 🤘",,👍 (1),0.9721
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-05 17:34:00,Thank you,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-05 17:35:00,Another small update - Can switch between last week consume and current,https://cdn.discordapp.com/attachments/993954438790258879/1060491627069714452/Screenshot_2023-01-05_at_09.34.32.png?ex=65e04fca&is=65cddaca&hm=c7c49a9f812184ab4c68260bb20d136608cc47c9c99b4f5149fefe4af6fd6de1&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],651861864149680128,butterflyq,2023-01-05 21:00:00,"Hey guys, 
+Do we need to claim the Rewards weekly, or can I claim once A month?",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-05 21:08:00,"You can claim monthly or even longer. You don't need to collect weekly, your rewards will add up",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],651861864149680128,butterflyq,2023-01-05 21:09:00,Well to know. Thank you,,,0.5574
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-05 23:13:00,"Hi @AutoBot, I noticed your TG alerts a couple of times now.
+Am just wondering if you're planning to open that up sometime soon?
+Cheers!",,,0.5255
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-06 03:33:00,"We were discussing it today, I plan to yes. Both @Robin | DataUnion and datawhale suggested it to be token gated",,👍 (4),0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-06 14:35:00,"Yeah, I generally agree. As I mentioned previously alerts and actionable intelligence can be fairly premium.
+
+What I would argue is that not all alerts and not all intelligence is premium.
+
+Example: a stream of stakes, buys, etc... is not very actionable.
+
+Imbalances between DCV and staked amounts are because this is where users can harvest most yield.
+
+In the presentation I provided you, I have alluded to how to build a freemium model that converts users from free, into paying, by slowly increasing the friction and guiding them towards monetization.
+
+Example of a previous arbitrage TG app...
+--------
+I made most buys/sells alert free. You could access many bot commands that helped users stay engaged and discover the app.
+
+This facilitated the onboarding of thousands of users (no initial friction, more Daily Active Users), and keep them engaged (more user sessions).
+
+However, alerts on arbitrage spreads (I.e. buy on dex1 and sell on dex2 for 5%) and other features were premium because this is where users make money.
+
+This enabled me to obtain many more users (larger funnel due to no friction), while providing them towards a clear path of monetization (obvious value offering/conversion).
+
+Many freemium products offer multiple SKUs (I.e. multiple token gates within a single freemium app). Each token gate (SKU) can be linked to a different feature/super power.
+
+This is where understanding your users segments (different users, different goals) and how to build premium features (solving the customer problem for each segment) within a single freemium product, can lead to much larger revenue.
+
+Hope this helps.",,,0.9839
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-01-06 15:06:00,"With the current slow allocation to other assets and the reset of the DCV each Thursday, the opportunity to harvest yield opportunities is very limited. You might allocate somewhere else but before your allocation arrives the week has ended.",,,0.3514
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-06 15:16:00,"You are right, the fact that sniping is possible at the moment does not lead towards the value offering that I'm referring to.
+
+I believe the ""slow allocation"" will become more intuitive and the value proposition will become clearer when sniping is addressed.",,,0.5859
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-01-06 16:38:00,"Btw. is token gating solved now with DataNFTs? I saw two proposals getting funded by the OceanDAO a while ago:
+https://port.oceanprotocol.com/t/walt-id-nft-based-access-management-walt-id-round-16/1674
+https://port.oceanprotocol.com/t/walt-id-siwe-nft-based-access-management-for-web2-round-19/1975
+
+Or did this not result in anything that the Ocean community can use?",,,0.3527
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-01-06 16:41:00,"With https://guild.xyz it is easily possible to make token gates for holding any datatoken out of the box with no code needed. But not yet possible to check for buying and spending a datatoken is not possible - that might be a great addition/pull request for https://guild.xyz as they can token gate basically everything like GitHub or Google documents, Discord, Telegram etc.",,💯 (1),0.7543
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-07 01:03:00,I don't know if this resulted in anything in terms of a product/launch that can be used here.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-07 01:04:00,"Just as a detail, the basis of token gating in Ocean should not done via DataNFTs.
+
+It's solved via datatokens with using the ocean.js/ocean.py libraries to check consume, metadata, and other required info to resolve if the user has access to an active subscription or not.",,,0.7506
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-07 01:05:00,"You could do it in other ways ssuch as:
+1. Fractionalizing the DataNFT
+2. Launching many DataNFTs and skipping the Datatoken aspect.
+
+However, when it comes to metadata and applying it as a subscription/dataaccess, it should be resolved via datatokens.",,,0.1779
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-07 01:06:00,"There we go... you addressed my points... 🤣 
+
+I totally agree with your assessment.",,,0.4201
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-07 02:39:00,"P.S. I'm also a big believer that TG & Discord native apps are the future of web-based platform distribution.
+Web3 native user acquisition will also be extremely disruptive (https://blockchain-ads.com/)
+I have been hammering on this drum for the past 3 years.
+Glad to see you pointing towards this Robin.",,,-0.3167
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1059879621589487736,ra1d88#3780,2023-01-13 17:50:00,"Hi all, I'm fairly new on Ocean farming, I've got an issue with a transaction while locking some Ocean to veOcean (spending approved, but no lock generated, now lock page is stuck on ""update""). Is there any support I can speak to? Thanks",,,0.6124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-13 23:26:00,"hi ra1, can you share your wallet address?",,,0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-13 23:27:00,"""update"" means you should have a lock in place, and you're now ""updating your lock""",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1059879621589487736,ra1d88#3780,2023-01-14 01:09:00,I have tried a previous lock and that went fine (same amount of tokens),,,0.2023
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],782929693446897695,realdatawhale,2023-01-14 02:27:00,"Hey guys, we launched a BUNCH of NFT datasets today. Should you be active in any of these communities, please spread the word to encourage real consume volume 🤓
+
+https://twitter.com/realdatawhale/status/1613961445057912832?s=46&t=hUkeM8MZ9Z15lx64MA88qA",,"❤️ (2),🙌 (1),🚜 (1),🥳 (1),🧑‍🌾 (1),🥷 (1),🧙‍♂️ (1)",0.8316
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-14 05:20:00,"So here is your TX where you created the lock with your OCEAN.
+
+https://etherscan.io/tx/0x51e5d72b8efb1aa6a03662fefe095e33ba7f44dc07e5b898d2233a761428259a
+
+You have a lock, now what you need to do is allocate the veOCEAN balance you have onto datasets you want to farm.
+
+If you look on the left panel in the veOCEAN page, you should see information about your lock, when it will expire, and your veOCEAN amount.
+
+If you go to the page with all the assets, and on the top left you will see an exclamation mark.
+
+Red Exclamation => You don't have any veOCEAN
+Yellow Exclamation => You have veOCEAN but haven't allocated your voting power to any assets
+White Exclamation => You have allocated your veOCEAN (as a percentage 0/100%) to different assets and are now actively farming rewards.",,,0.9289
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1059879621589487736,ra1d88#3780,2023-01-14 06:54:00,"Thanks @Idiom | Ocean Protocol I've sent a DM with some details, just in case you have any suggestion or contacts.",,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-18 01:23:00,"Hello everyone 👋 , I think I get something wrong in the locking process. Looks like I managed to approve 15001 OCEAN but I am stuck on the ""update"" step... Here is the link for the approval: https://etherscan.io/tx/0xafc4a2be9b9d31cec456217438a32f6529e384af6f0a22735586dff0787de63b Can anyone help me with that? Thanks 🙏",,,0.8674
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2023-01-18 04:06:00,looks like something went really wrong during publish process.  I just PMed you,,,-0.2247
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 04:24:00,"Hey @AutoBot, would you help me interpreting this data?",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 04:25:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1065004023889002546/93A56321-7C47-474D-80F7-0DF8F6F5A487_1_201_a.jpeg?ex=65de454a&is=65cbd04a&hm=e7aa0a067aff6b57a2371978ed89b7f7b2dffcbef1c6f5d82ef01f495d57fad7&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 04:28:00,"As I understand it, according to this chart weekly volume this week is down >90%. And the only data asset that generated revenue is the MyFarm 1 week token",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 04:28:00,Am I reading this right?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 04:29:00,If so it seems kinda unlikely to me that the data is correct (may certainly be though),,,0.34
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 04:30:00,"Amazing tool btw, congrats!  👍🏻 Just stumbled over this and couldn't make sense of it",,,0.8172
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-01-18 04:58:00,The current week currently has very low volume,,,-0.3384
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-01-18 04:58:00,that is why there is this huge down slope,,,0.3869
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 05:03:00,Crazy,,,-0.34
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-01-18 05:03:00,Thanks,,👍 (2),0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-19 18:08:00,"Morning! Can anyone help me with my previous message please? https://discord.com/channels/612953348487905282/993954438790258879/1064958161393557525
+Please let me know if I need to post this somewhere else 😉 
+Thx 🙏",,,0.8439
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-20 14:22:00,No :/,,,-0.5574
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],434003274740400159,rahulsahoo17,2023-01-21 16:13:00,"Before the introduction of veocean I previously stake my ocean on eth to earn farming rewards but I forgot to remove my liquidity, please help me 🙏",,,0.8201
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],434003274740400159,rahulsahoo17,2023-01-22 00:32:00,No,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],434003274740400159,rahulsahoo17,2023-01-22 00:32:00,Please help me🥺,,,0.6124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1052251877665931274,✅ Hieu | OpenSea#9836,2023-01-22 00:53:00,kudos to the support team great job.,,,0.8779
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1052251877665931274,✅ Hieu | OpenSea#9836,2023-01-22 00:54:00,active support system is all we need as a commnuity to grow,,✅ (1),0.6597
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],456226577798135808,Deleted User,2023-01-22 00:59:00,how it should be 👍,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-22 08:47:00,"Hi Damien, it looks like you created your lock about 3-4 months ago and can now just keep it updated.
+
+I saw you updated the lock recently, and that your last transaction was just an approval.",,,0.765
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-22 18:21:00,"I confirm I created a lock a few months ago. 
+A few days ago, I tried to lock more veOcean in my account but looks like I only managed to extend the lock ends date and not increasing the amount of veOcean locked... You can PM me if easier 😉 Thx!",,,0.9192
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],434003274740400159,rahulsahoo17,2023-01-22 18:41:00,"My ocean was stuck on v3 liquidity, please help me to recover my fund",,,0.4588
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-01-23 00:02:00,"Hey @AutoBot first thank u for the fantastic work with autobotocean.com, is it possible to add a time series graph of veWallets creation, maybe is a good indicator of the traction and commitment of new users to the project",,,0.9136
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-23 02:04:00,"Hi Nico, that's a great suggestion. 
+
+Just wanted to share that we're planning to do more product performance analytics and make  that available for all users.
+
+Whereas with Autobots, there might be more user-end analytics like leaderboards or individual farm performance that can help everyone and may not align as much with some of our work.
+
+We still have a ways to go and I dont want to promise anything, but just wanted to share some intuition so we can all work together and not do much work that overlaps or is throw-away.
+
+Please keep the suggestions coming!! 🖖🙌",,,0.8916
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-23 02:05:00,"Your last action was to approve more tokens to be locked up.
+You should now be able to use the UI to add more tokens into your lock, getting more veOCEAN, while resetting your timer.
+
+If you originally locked for 4 years, and are now trying to lock for 1, that will not work.
+You will need to choose a length of time at least as long as your expiry date.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-23 03:11:00,"Thank you for the suggestion, and I am glad you like it. Yes this will be added along with other useful tools and further analytics for datafarming and marketplace",,,0.9118
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-23 03:53:00,So is there a bug or is it me who have made/got something wrong?,,,-0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-23 03:54:00,"It can always be us (a bug we didn't encounter) but I have played around a LOT with that interface, and it's pretty tight.
+I recommend re-reading my message above and trying it out again.",,,0.8922
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-01-23 03:56:00,"We have also created documentation => https://docs.oceanprotocol.com/veocean-data-farming-tutorial
+And videos => https://www.youtube.com/watch?v=zAQlPHkK3og
+
+If you still can't do it, I might be able to hop on a call and help you out.
+But, I would prefer if you tried those before that.
+
+This would help us to understand if the above resources can help you figure things out on your own",,,0.8573
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-23 03:57:00,Sure - will check these first!,,"🖖 (1),❤️ (1)",0.3802
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916979355429777428,damien_q,2023-01-23 06:14:00,Started a thread.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843831770062913568,white_rider_,2023-01-23 19:12:00,"Hi @rahul 🙂 There was an airdrop when we launched v4 for v3 liquidity.  More information is available here: https://blog.oceanprotocol.com/ocean-v3-airdrop-and-pool-share-lock-4d18a84e6e27
+Please check your wallet address on polygon. In case something looks off, please send me your address and we will double check",,,0.6249
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-24 06:30:00,https://twitter.com/AutoBot_s_/status/1617574835600908290?s=20&t=hig5sFhTQmEMlolgmR2RJg,,🔥 (2),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2023-01-26 15:21:00,both active & passive rewards for last DF round can be claimed,,👨‍🌾 (1),0.765
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-01-28 00:30:00,https://twitter.com/AutoBot_s_/status/1619009349220966401?s=20&t=GsDTg18M4i_YJPme75RUHw,,"❤️ (3),🥳 (3)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-02 02:58:00,https://twitter.com/AutoBot_s_/status/1620857438877650945?s=20&t=nkYuQiNb7edqYgw7eFko-w,,"🥳 (2),❤️ (1),🔥 (1),📊 (1),🔢 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-03 21:59:00,"Hello everyone, I wanted to ask if after DF week 29, when it stops being profitable to do wash consuming, what will happen to the volume of the market? an abrupt fall is going to happen or is there a plan to make it progressive?",,,0.3939
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-03 21:59:00,I ask this because today 99% of the volume is from wash consuming if we take out that volume we only have a couple of tens of dollars of volume,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-03 22:00:00,"Maybe for those who see it from the outside, seeing an abrupt drop is a bad sign and generates distrust in new players.",,,-0.8126
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-03 22:01:00,"I don't want to generate fud, it's just a concern that's been in my head for a few weeks",,,-0.323
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],829094231132864573,degenagainst,2023-02-04 21:43:00,Is the actual volume that low ?,,,-0.2732
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-02-06 01:34:00,"Hi Nico,
+
+The volume isn't being taken out.
+It's just that wash consuming will become a net-zero action.
+
+Right now, the market rewards participants who wash consume because fees & rewards are not balanced.
+With ranking and fee adjustments, this will become even more competitive in terms of finding an edge as the gap closes.
+
+The best way to get an edge, will become building systems that consume datatokens as part of their loop to drive DCV.",,,0.908
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-02-06 01:34:00,"I don't think this is fud.
+It's a great question.",,,0.4588
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-02-06 01:38:00,"We need to push towards native adoption and usage.
+Or restructure how we think about building value around the protocol.
+
+TLDR; We're working on something... if you dig around, you might even find a keyword or two somewhere.",,,0.34
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-06 19:59:00,"Hi Idiom, First thank you for your detailed answer. I understand but if wash-consuming will become a net-zero action, Why would someone use their OCEAN to generate volume and not make any profit?",,❤️ (1),-0.3311
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-02-07 06:30:00,"We don't want (1) OCEAN to be used to generate volume with the expectation of returns. This is wash trading.
+
+Using OCEAN (2) should go towards buying access to dashboards, algorithms, data sets, or a mixture of many of these.
+
+(1) is wash consuming, (2) is fundamental reasons. There are many more things we can do in (2) and that should be the main focus.
+
+Do you expect to make any profit when you use ETH to pay for things and generate value (excluding XEC)?",,,0.5687
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-07 06:54:00,"Don’t get me wrong, I want an organic growth with real use cases (2). I know that all of these is a beta and the team is trying to adjust things to make the ecosystem more fair. 
+My concern is regarding appearances from outside (new players who they don’t know all of these changes) but maybe the volume metrics generate confusion.",,,-0.274
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-07 06:56:00,Again i’m a long term investor (already locked 75% of my portfolio for 4 years) I want the best for the project.,,,0.6705
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-02-07 19:19:00,"```My concern is regarding appearances from outside (new players who they don’t know all of these changes) but maybe the volume metrics generate confusion.```
+We also share these concerns (I think we're aligned there).
+
+Volume metrics can generate confusion both ways:
+- People think volume is 1m while it's far less than this and they get confused
+- People see volume dropping from 1m to far less than this and they get confused
+
+""fitting the curve to our narrative"" is also not a good look.
+
+From a development standpoint, we need to move past this phase and focus on the next one.",,,-0.8405
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],997213548314890281,k03t,2023-02-07 23:48:00,hello! can you stake OCEAN tokens that kept on Binance Smart Chain protocol?,,,0.4574
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-02-07 23:48:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-02-08 00:15:00,100% agree 🙌,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],651861864149680128,butterflyq,2023-02-09 14:28:00,"Hello mates,
+how to do you make decisions which allocation to set up for veOcean?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],395324706158542862,ben_datastake,2023-02-09 18:39:00,Active DF also remains slightly obscure to us but I think many posts exist on the topic 😅,,,0.2144
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],395324706158542862,ben_datastake,2023-02-09 21:13:00,"Generally, I think more could be done by data publishers to introduce, describe, justify the value of data assets
+Surely some ecosystem partners are working on ways to better promote / market them",,,0.8885
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 02:22:00,@AutoBot Is there a problem with displaying last weeks passive rewards correctly?,,,0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 02:23:00,Is should be again sth like 50 Ocean but it shows 0,https://cdn.discordapp.com/attachments/993954438790258879/1074032828326617208/Bild_11.02.23_um_19.01.jpeg?ex=65e36e84&is=65d0f984&hm=01f10d94a02dc4f8ed4b74fe0e240f6fe83b579bdd9ede6a2fb305f9f388ff9b&,,0.1901
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-12 02:24:00,Yes there was an issue with passive rewards on week 23 so it will show double next week. You would have got 0 passive rewards this week but will get double this Thursday,,,0.6956
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 02:25:00,Got you! Thanks a lot for the instant reply!,,👍 (1),0.5399
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 02:41:00,"@AutoBot Just a suggestion (bc I would just love it and I can imagine other folks might as well): Have you thought about adding an active staking recommendation and potentially even auto-allocation feature to your app? Basically an algorithm predicting what assets will perform best in the following week and based on this a suggestion, how I could allocate my veOCEAN?",,,0.9211
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 02:44:00,"Not sure about this, but I don't think current wallets allow handing over rights to change allocations (therefore signing transactions) to a smart contract, do they (this would just be a plus for additional convenience imo), right? May need to wait for wallet abstraction to enable these kinds of things",,,0.6618
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-12 03:10:00,"It is a great idea and it would be useful to have this thank you :), the allocating I think should be done by OP, although that would have also been very handy",,,0.8713
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 03:31:00,"Glad you like the idea! As we are already chatting here, I thought I just bring this up as well: I encountered a little issue when buying a monthly access token to your page about 10 days ago. After initiating my first transaction I received an error message, so I started a second purchase attempt, however, I ended up buying two monthly access tokens for your page (both the same). So just wanted to ask: Can I use the 2nd token to get access in the following month? Or if this doesn't work, would it be possible for you to reimburse the OCEAN I paid for the second token? If it's too much of a hassle nevermind, as it was just a smaller amount. But I thought I'd ask 🙂",,,0.477
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 03:31:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1074050138668007434/Bild_11.02.23_um_20.23.jpeg?ex=65e37ea3&is=65d109a3&hm=9b3f1d6cfcb5a3e3f8e61f14ca39d94e22881936f95632405f0884cfb16f357e&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 03:34:00,N/A,"https://cdn.discordapp.com/attachments/993954438790258879/1074050730421399632/Bild_11.02.23_um_20.33.jpeg?ex=65e37f31&is=65d10a31&hm=5a7c82556955c8bc5a4ecd8ae33e95ad5d86cc09b8353d10ae595126256b7307&,https://cdn.discordapp.com/attachments/993954438790258879/1074050730782113842/Bild_11.02.23_um_20.32.jpeg?ex=65e37f31&is=65d10a31&hm=f567119515bd2227bf3e0e686978f17d8b246d478ac1901843cfbba0e706a142&",,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-12 03:47:00,"I seen this when I looked at the transaction not long after you purchased yes I will happily send 1 of the payments back as this should not have happened. Thank you for the support.
+
+The purchasing is done on the Ocean market so I am also going to ping @Alex | OceanProtocol in as it’s maybe something that should be investigated.",,,0.7839
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625415196713943051,alexcos20,2023-02-12 14:51:00,"| After initiating my first transaction I received an error message, so I started a second purchase attempt
+Can you describe the error please?",,,-0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 20:47:00,"Perfect, thank you.",,,0.7351
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-12 20:48:00,Unfortunately I didn’t screenshot it and don’t remember. Sorry,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-02-13 17:34:00,"Hi 3v, we have an issue for this in the backlog and have discussed it. It's definitely something that I'd like to see implemented.
+
+Thanks for the support @AutoBot and pointing us towards this.",,,0.8689
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-14 01:13:00,"Nice, happy to hear.",,,0.7579
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-16 19:29:00,I think there's a UI bug (or I am doing sth wrong) on the Farms page of df.oceandao.org,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-16 19:29:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1075740715994333225/Bild_16.02.23_um_12.27.jpeg?ex=65e06a9c&is=65cdf59c&hm=27d22641fd66855aee2f98cda3e1e10aec93b7756a30e9d4c4d959873af1d6bc&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-16 19:31:00,"It doesn't show LastRoundAPY, always (with few exceptions) shows 0%",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-16 19:31:00,Same for volume,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-16 19:34:00,"I believe RoundAPY also isn't displayed correctly, but couldn't say for sure for this metric as I don't know current volumes - however seems implausible to me that numbers are 0% there for days as well",,,0.0534
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-02-16 19:36:00,"I received substantial rewards from Active Data Farming last week, so LastRoundAPY and RoundVolume for data where I have have allocations definitely shouldn't be 0",,,0.8519
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],431912800873349140,trizin.,2023-02-17 07:10:00,"@3vdaimoniac Hi! I apologize for the inconvenience this bug has caused. The issue has now been fixed and the last round APY data should now be displayed correctly. Round APY and volume are 0 because a new round has begun. Every Thursday, a new round starts and the numbers will be updated as the round progresses. If you have any other questions or concerns, please let me know. Thank you for bringing this to our attention!",,🙏🏻 (1),0.508
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],352282921056468993,shmoji,2023-02-18 21:34:00,will there be any issues with having tokens locked whenever things switch from DF Beta to DF Main? Just dont want to lock my tokens for years and then they become useless when beta finishes,,,-0.4628
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-02-19 03:08:00,"is there a way to tell if a dataset provider is providing data as a one time dataset, or something that gets updated routinely? If updated routinely, is there a way to verify they have to been making the updates on time?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-02-19 16:36:00,"The tokens will not become useless and beta to main here is in relation to the amount of rewards, not the tokens itself.
+The beta is about iterating on the parameters of the data consume game to find a system that stimulates the consumption and creation of high quality data assets - no need to do a liquidity swap like in V3 to V4 transition.
+
+Probably @Idiom | Ocean Protocol can confirm this as well.",,"👍 (2),✅ (1)",0.8917
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],532285610120183845,gislejohansen,2023-02-22 19:54:00,Any user manual for farming veOcean?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],519645315780050972,viper0664,2023-02-24 05:05:00,is it possible to mine Ocean coins? Is there any online help for this?,,,0.4696
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],917890972774441010,eidos__beam,2023-02-24 20:27:00,"Hi team. I have a few questions about farming rewards. 1) Passive rewards and active rewards show different totals - are my total rewards the combined figure? 2) What happens if I dont claim rewards, do the figures just accumulate over time or do I need to claim? 3) I'm not entirely sure, but it seems as if the passive reward figure has actually decreased over a couple of weeks, but for sure has not increased, why would this be please?",,,0.9399
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-24 22:32:00,"1. Active and Passive rewards are different passive you get for having veOcean. Active rewards are earned from allocating to datasets with your veOcean that has sales (consume volume)
+
+2. You can claim every week or you can let accumulate and claim at a later date.
+
+3. Passive rewards can decrease as the total amount of veOcean you have will decrease over time. There is other factors aswell, the total amount of veOcean being held by others and also the reward pool that’s being given for that week.",,🙌 (2),0.9674
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],917890972774441010,eidos__beam,2023-02-24 22:35:00,"Thanks for your help. On point 3. I understand weekly passive rewards will change based on these factors, but the total showing on the rewards page should only increase cumulatively right?",,,0.9072
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-24 22:36:00,Yes this will only increase,,,0.6124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-02-24 22:47:00,"You can have look here it should help: https://docs.oceanprotocol.com/veocean-data-farming-tutorial
+
+@viper",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],802721731378151428,jon77777,2023-02-26 00:07:00,I just locked my OCEAN tokens and have some veOCEAN to allocate. Can someone give me advice on the best way to analyze projects and where to allocate? Do I just look at current APY's & past APY's or is there more to it than that?,,,0.6767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-02-28 20:05:00,"Hello @jon77777 . You are right, now the easiest way to see If a dataset is a good quality one is to check the last rounds APY and predict that it could work well on current round as well. Beside that there could be other ways to understand the quality of the dataset:
+- Look at the content of the dataset, is it a good one, does it have good demand in the future?
+- Look at the publisher. If the dataset has been published by a trusted publisher and the publisher has other good datasets you can presume that the dataset is a good quality one and has more chances to be consumed.
+- Be aware of wash consume. Right now there is a wash consume game going on, If you try to understand or play that game, it will give you a better overview of where the rewards are going.",,,0.9843
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],802721731378151428,jon77777,2023-03-02 11:12:00,"Thanks for the guidance Norbert! Can you please explain what ""wash consume"" is?  I'm not familiar with that term.",,,0.6696
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-02 16:20:00,"@jon77777 sure, you can read more about wash consume in this Medium article: https://blog.oceanprotocol.com/ocean-protocol-data-farming-and-wash-trading-8f47dffd327b",,👍🏻 (1),0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-03-02 19:50:00,"Hello @AutoBot !  Can you lmk how I can buy a follow-up monthly subscription token for your service? Ocean Market is telling me „You bought this dataset already allowing you to use it without paying again."" but I don't have access to MyFarm anymore, since it's March now.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],802721731378151428,jon77777,2023-03-02 22:48:00,Thanks I'll check that out,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-03-03 02:39:00,"Hello sorry about that, after talking with @Alex | OceanProtocol i figured out what was wrong. You should still have an active license now?",,,-0.1779
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-03-03 03:42:00,Yup license is active again,,👍 (1),0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],352282921056468993,shmoji,2023-03-03 09:23:00,"if you joined a DF round in the middle, do you not get included in the passive rewards?",,,0.5994
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-03 16:02:00,"Yes, but the passive rewards are distributed for last round holding. For example if now it's end of Round 26, passive rewards are distributed for holding trough round 25. So if you lock in round 26 you won't get the rewards at the end of the round but at the end of round 27.",,👍 (1),0.9565
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],151962816633503744,"Oscar (✌,✌,✌)#4772",2023-03-04 09:22:00,Can you get impermanent loss data farming?,,,-0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],818242289037213708,vonderwald,2023-03-04 17:26:00,Hello ! I m planning on publish a data asset on the ocean market but im a liittle bit Lost. Can personnal audio file  (like a song i recorded) or photos be consider a data asset ?,,,0.3274
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-05 18:32:00,"@Oscar (✌,✌,✌) No, there is no impermanent loss. You are not putting your tokens inside a pool so you are not providing liquidity. You are basically locking your tokens for a period of time and then get your tokens back.",,❤️ (1),-0.6908
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-05 18:39:00,"Yes, you can publish any file type, just upload it first to one of the supported storage (Arweave, IPFS or any system that gives you an URL), and provide the identifier(Transaction ID, CID, URL) inside the File input.",,❤️ (1),0.6124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],818242289037213708,vonderwald,2023-03-05 19:40:00,Ok thanks ! I tried with a proton drive link but its doesn't seems to work. The download link directs to a blank page ..,,,0.4295
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-05 23:40:00,"I haven't tried proton, but as long as it's a valid url, it should work.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],881305463831007272,nickscavuzzo33,2023-03-07 04:57:00,Who's available for a data farming workshop tomorrow? Hoping to work through some of these issues together on voice chat ^^^,,🙌 (2),0.4215
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-07 23:04:00,We are live in Data Farming Workshop now! 🚜,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-09 16:59:00,does the 2x rewards initiative for publishers mean that wash trading is profitable again..?,,,0.7184
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-09 20:21:00,"No, it isn't because publisher rewards comes from Active Rewards amount which it's going to equal the fees payed on consume. This means 0 profit for wash consume.",,,0.6054
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-09 20:48:00,what,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-09 20:49:00,"""All the veOCEAN a publisher has allocated to an asset they’ve published (“staked”) is treated as 2x the stake for rewards calculation.""",,,0.6808
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-09 20:50:00,The publisher can consume their own data set and get 2x rewards.,,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-09 20:52:00,what am i missing?,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-09 23:17:00,"So let's say you have 2k OCEAN rewards on your published dataset by wash consume, this means you consumed it in such way in which you payed 2k OCEAN on fees to generate those rewards. For now you are basically on 0.
+Now those rewards are distributed between people that allocated to that dataset. Let's say you are the only one allocating 10k veOCEAN, but you are the publisher so you get 20k veOCEAN allocation(2x), great, but still there are 2k OCEAN rewards distributed so you will get 2k OCEAN, not 4k OCEAN.
+But, if there are multiple people allocating to your dataset, you will get a greater share of that 2k OCEAN rewards because instead of 10k veOCEAN allocation you have 20k.",,,0.978
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-10 11:28:00,"""which you payed 2k OCEAN on fees to generate those rewards.""
+
+This is where I am lacking understanding. Can you point me to a blog post that talks about the new fee rate?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-10 18:04:00,"This blogpost talks about wash consume:
+https://blog.oceanprotocol.com/data-farming-df8-completed-df9-started-32449b9a52c6
+The actual formula that it's going to be used it's not out yet, it will most likely be once DF29 goes live.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-03-10 23:08:00,"You can now see the weekly progress of locked ocean for data farming on autobotocean
+Link to tweet:
+https://twitter.com/AutoBot_s_/status/1634208310986526724?s=20",,🙌 (1),0.4215
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-11 04:51:00,"How would I go about 1 gig or so of specific game related ingame images taken on Steam for stable difussion related a.i. projects and imaging onto the Ocean Marketplace? 
+Are these types of file sizes something the market/token can support?",,,0.644
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-03-11 19:57:00,https://twitter.com/AutoBot_s_/status/1634522643197034497?s=20,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-03-12 02:25:00,"https://autobotocean.com/FarmingFAQ
+Added a simple FAQ page hope it helps people out",,🙌 (1),0.6705
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-12 16:25:00,"There are no file related restrictions since we don't store the file. 
+When publishing into marketplace you have to point to the already stored file, so the restrictions might depend on the data storage that you want to use.",,,-0.2263
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-13 02:00:00,Isn't there suppose to be some kind of integration with Filecoin for this purpose? Otherwise I have to possibly pay more to host that data myself then I would generate from any sales or staking off it?,,,-0.1926
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-13 02:01:00,THanks for your help with this BTW I just want to setup a test case scenario but at the moment do not have a server or something that can host 1+gig of file images 24/7,,,0.4497
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-13 02:02:00,I would need each img to be individually viewable and at full res too,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-13 08:30:00,@lukas85 you can have your file stored on filecoin or arweave,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-16 19:11:00,"Data Farming Main starts today!
+Don't miss the live AMA on twitter:https://twitter.com/oceanprotocol/status/1635644244760096772",,"❤️ (2),🙌 (1),👍 (1)",0.1867
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-17 03:06:00,🚜 🧑‍🌾,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-17 16:39:00,"In case you missed the live AMA, here is the blogpost for DF Main:
+https://blog.oceanprotocol.com/ocean-data-farming-main-is-here-49c99602419e",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-17 16:39:00,Pinned a message.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-18 02:07:00,"Morning, so can't seem to change my farming allocations?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],921768953154527324,НурnоJіmmу#0379,2023-03-18 05:25:00,Sorry for the inconvenience you’re experiencing please send me a DM @kbc,,,-0.128
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-19 05:44:00,"Hi, please do to click on links and DMs from others.
+
+You should be able to update your allocations at any point. Do you have a TX or something for us to look at?",,,0.6739
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-19 23:17:00,"So when i select the ""Reset Allocations"" button it just spins, never resets and i am unable to reallocation percentages  into new projects?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-19 23:32:00,"Hmmm, that doesn't sound correct. 
+
+Reset allocation should sign a TX to reset everything back to zero. You should then be able to allocate again by signing a 2nd tx.
+
+You can do it all in 1 tx, but if you have assets in purgatory or a complex distribution, you should be able reset everything and start over.",,,0.6875
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-21 02:11:00,"Still unable to change my allocations.....the update and reset buttons only spin with no update.  I have disconnect the wallet and reconnected, can",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-21 02:12:00,can't seem to get it function.?  Is there a time limit or lock period for the projects allocated to?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-21 04:01:00,"No, you should be able to change it anytime.
+@Norbert | Ocean can you maybe take a look at this when you get the chance?",,,-0.0516
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-21 05:00:00,Much appreciated let me know. Thanks,,👍 (1),0.7351
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-21 16:24:00,@kbc I'm happy to help. Can you tell me what wallet and browser combination do you use? Does the transaction appears inside your wallet?,,,0.7757
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-21 19:47:00,Morning. Trust wallet and chrome browser. The transaction does not appear in my wallet only on the ocean platform.,,,0.5106
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-21 20:36:00,Just tested it and looks fine. Could you try and updated your Trust wallet? There might be issues on that end if the transaction doesn't show up. Some users had similar issue with Ledger.,,,0.6249
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-22 22:24:00,"I did that too. Discounted, reconnect my wallet, etc. still not able to change from my initial allocation setting. Is there a lock period ??",,,0.1431
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],743896467709755595,chippo1620,2023-03-23 15:56:00,"Hi, were active rewards for data farming updated last night? Showing mostly 0% APY",,,0.7003
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-23 17:15:00,"It isn't, you should be able to update it. Could you send me your wallet address so I can inspect this in more detail?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-23 17:24:00,"Yes, both rewards were distributed. With wash consume going away, the consume volume has dropped(https://autobotocean.com/volumes), hence the low APY. You can also sort the data farming table by last round APY to see how the best assets performed.
+Also, the data consume volume resets each week when a new round starts, so it is 0 until some consume volume comes in.",,,0.8625
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],932682508275966062,kcullen,2023-03-24 05:57:00,Still not working. Others must be having a similar issue ??,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 06:27:00,I don't think ocean have figured out how to get real users to the market yet,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 06:28:00,They may never figure it out tbh.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],743896467709755595,chippo1620,2023-03-24 06:59:00,Thanks for clarifying...  So only those who allocated to these 3 datasets received active rewards in the last round? 75000 OCEAN?,https://cdn.discordapp.com/attachments/993954438790258879/1088597996981207070/ocean.png?ex=65e10c63&is=65ce9763&hm=98cd83abfcae5f32964c69e7c062e552ead7c1745bc84c71fb1565dcfcdde698&,,0.8426
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],743896467709755595,chippo1620,2023-03-24 07:03:00,Volume charts here: https://autobotocean.com/volumes dont look so good 👀,,,0.5777
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 11:35:00,I wonder at what point they call it quits on the marketplace idea . maybe 52 weeks of sub $100 consume volume. There must be a threshold where you take the hint that this isn't going to work.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 11:35:00,Not in this format anyway,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-24 16:38:00,"We are not marketplace centric, focusing only on the marketplace. As described in the roadmap for 2023(https://blog.oceanprotocol.com/ocean-protocol-update-2023-44ed14510051) we are mainly focusing on traction. We work in 3 streams to target different clients: dapp developers, data scientists, crypto enthusiasts with the main target of increasing DCV.",,,0.34
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:38:00,What would be point of token then?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:40:00,looking at the chart,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:40:00,first few weeks didnt look great either,,,-0.5096
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:40:00,only seemed to pick up around week 15-week27,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-24 16:41:00,"Yes, only those who allocated to assets that had consume volume. The amount that was distributed depends on consume volume, If the consume is low then the rewards are also low.",,,0.5106
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 16:45:00,Yes I'm aware that ocean has other and maybe better uses than the market. Its been through several iterations and is still struggling for genuine organic users outside of people either wash trading or manipulating pools as was the case in previous versions.  That's my point. Perhaps the marketplace isn't viable at all.,,,0.0772
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 16:49:00,This has always been an underlying theme with ocean. It's intentionally open source and the tech stack doesn't need the ocean token for its various use cases outside of the ocean marketplace.  It does come across as a 'token not needed' project.,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:50:00,what is a token of need,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:50:00,outside btc/eth,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:50:00,can poke holes in all of em in similar ways,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:51:00,i guess chainlink?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:51:00,what else though,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:52:00,"how are other marketplace tokens like Uniswap, Yearn FInance, Curve etc doing at the moment?",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:55:00,TBH though I don't see why the marketplace cant also compete with something like Opensea and host NFTs etc,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],563434444321587202,Maki#4920,2023-03-24 16:55:00,**@lukas85 just advanced to level 2!**,https://cdn.discordapp.com/attachments/993954438790258879/1088747809794166865/Maki-levelup.png?ex=65e197e9&is=65cf22e9&hm=7727b9d657bdbf7481360d72a8a44a8ff04d9b59bca882db83c5b186600887db&,,0.3164
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:55:00,arent data sets already NFTs in a way,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 16:55:00,"Btc doesn't count, it doesn't need to do anything apart from hold up the market lol. Eth and link are good examples of token very much needed and the rest depends on their individual tokenomics. With ocean can do everything it needs to do without the ocean token",,,0.6908
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:55:00,"seems like if anything more should be done on the marketplace similar to Opensea, work with other ai tokens/projects like AGIX, Fetch, etc and then market to broader userbase in general to drive some level of adoption",,👍 (1),0.6124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:58:00,I think market place needs a fun/silly section,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:58:00,datasets/datanfts,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:59:00,"that are just memes, pics, songs, sounds, etc",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:59:00,nothing serious like data sets,,,-0.2235
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:59:00,few $ worth in ETH nothing crazy,,,0.4471
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 16:59:00,just to get people use to the mechanics and using it,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-24 17:01:00,"right now there are some like that but nothing is really parsed according the category, data type, genre, etc etc, so there is a lot of work that can be done there as well in terms of UI presentation and sub sections/categorization",,,0.5267
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 17:59:00,Agree,,👍 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 17:59:00,It's all a bit serious which is fine but it needs something for the masses to engage and understand in a fun way,,,0.8316
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-03-24 18:00:00,Like nfts and gamified contracts on eth,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-24 18:00:00,"Good ideas, there could be various ways in which we can improve the market, but as mentioned above we are not market centric. We are rather looking for dapps developers that can fork the market and create their custom versions that serves their need(nft marketplace, spotify like music platform, streaming platform). These all have specific futures which are hard to implement in 1 app.",,,0.802
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-25 01:01:00,But is there a major limitation to Ocean itself forking something like Opensea into an open market section with all the subsections mentioned above that is just strictly buy/sell/bid style vs current staking/farming market?,,,0.1154
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-25 01:03:00,"that way there could be like a basic consumer section, i.e. the type of people that are into current a.i. apps like midjourney, chatgpt and then the current data-market would be focused more for the data scientists, companies or developers",,,0.765
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-03-25 09:05:00,did you figure this out?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],339391682120384513,d.langford,2023-03-25 13:54:00,token not needed,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-26 07:23:00,"there is usecase for it, dont think this statement is true, you could do what Ocean does on Eth smart contracts alone/Eth native currency, but the framework isn't there the way Ocean team has put it all together, otherwise you will need to know how to code on Ethereum yourself to do the same, so thus the use case for token is there since day 1 the publishing & marketplace features went live.",,👍 (1),0.4118
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-03-26 07:24:00,just needs broader awareness which = more usage = adoption = higher price = positive feedback loop that fuels itself,,,0.5574
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-03-27 00:29:00,"We haven't got any other complains, tested it, and looking at the contract peoples are reallocating, so that's why I assume that it's either something on your end probably wallet related, or an edge case bug on ours. If you want to further debug this you can send me you wallet address.",,,-0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-06 22:50:00,is there something wrong with the data farming or the reporting? nothing shows any volume or round/lastround apy?,,"☝️ (2),👀 (1)",-0.5362
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],881305463831007272,nickscavuzzo33,2023-04-07 05:32:00,hi @Ritz can you check again and see if its the same? i see rewards on mine,,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-07 08:08:00,I think this is what they are referring to -,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-07 08:08:00,"31
+30-Mar-2023
+75000 OCEAN
+0.00%
+75000 OCEAN
+0.00%",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-07 08:08:00,on the rewards page,,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-07 10:44:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1093727989759475823/image.png?ex=65e14111&is=65cecc11&hm=f5cb650cce91d460b0ec28c5054bf1f777217bdcc3924f70b9139703460bad62&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-07 10:44:00,thats  sorted by last round apy - its been like this for weeks for me,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-07 10:46:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1093728429230280755/image.png?ex=65e1417a&is=65cecc7a&hm=3f197f29f3226b8d2e3ee452fbb57237b1e142ca3fee31ee0eeece9d08afc5d8&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-07 10:46:00,and then as lukas mentioned on the rewards page,,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-07 19:12:00,seems like its been fixed/updated since,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-04-07 19:46:00,"Yes, it has been fixed recently. Thanks for raising the issue.",,Peepo_Clap (1),0.6808
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],815794092293488644,zaatar4863,2023-04-09 03:59:00,"In Jan 2021 I staked some OCEAN with DataUnion.app - Image & Annotation Vault. How do I access this today? (I get a ""Page you requested is not here"" msg when I use the URL I had recorded at the time.)",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-04-09 09:07:00,But how would that lead to increased demand for (aka higher price of) $OCEAN?,,,0.2263
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-04-10 01:54:00,@Robin | DataUnion,,🙏 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-04-10 09:58:00,"You have to go to Etherscan and swap against the pool via the smart contracts there.
+After Ocean migrated from V3 to V4, the Ocean team shutdown the V3 marketplace after a longer period of waiting and the migration airdrop.
+So there is no website anymore that allows to withdraw or swap from the old pools.",,,0.0609
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],815794092293488644,zaatar4863,2023-04-10 23:16:00,Mind if I dm you about this?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],194817764236460034,robinlehmann,2023-04-10 23:21:00,no,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-04-11 16:12:00,"Just like with other project, more the technology gets adopted the more people are willing to invest in it which will lead to increase in the price of $OCEAN. To help this more we have the Data Farming program which give different incentives for $OCEAN token holders.",,,0.8316
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-13 20:52:00,im still not seeing any data in the farms page,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-13 20:52:00,no round apy or last round apy,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-14 04:39:00,"@Ritz fixed, seems like every round they are configuring & working on it so always a bit glitchy on Wed nights/Thursdays",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],563434444321587202,Maki#4920,2023-04-14 06:14:00,**@Ritz just advanced to level 1!**,https://cdn.discordapp.com/attachments/993954438790258879/1096196657718251660/Maki-levelup.png?ex=65e101b1&is=65ce8cb1&hm=72222551e4debd3f9c59841cb50d2afa30ce23c8de3ebf85a802fb9aace34961&,,0.3164
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 06:15:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1096196925289672826/image.png?ex=65e101f1&is=65ce8cf1&hm=eeccc326c177bbb616d4044f46325790d8f52e509cde303b46e3958051383a2a&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 06:15:00,still seems to same?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 06:15:00,tried it in chrome too,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 06:15:00,"i deleted the previous SS, didnt realize how much it showed lol",,,0.4215
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1036941700544872521,disfire,2023-04-14 15:44:00,can somebody explain why allocated aktive rewards ar always 0 the last weeks??,,,0.5362
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-14 17:00:00,@DisFire no new or good data for consume/staking?,,,0.1779
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-14 17:01:00,could be issue if nothing new or major partnership/forks of ocean marketplace on the horizon,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-14 17:01:00,"like how many people into a.i. even know about ocean or use crypto? 1% Or less i would say, that is major hurdle to overcome for adoption",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],949624125272514562,laurentony15#2825,2023-04-14 22:43:00,"I got am issue
+I need assistance
+Any help team or advocate here",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 22:48:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1096446811125858424/image.png?ex=65e1eaaa&is=65cf75aa&hm=40d9e0194c79c86a72ccebc67021cd85f84abf3f36c81932c070b3f33586d164&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 22:48:00,i get this every time i try to speed up my trx - its been hanging for 36+ hours,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],400357590036381696,ritz0069,2023-04-14 22:48:00,any ideas?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-04-14 23:24:00,Nobody uses the marketplace,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],768163222095134732,lukas85#6738,2023-04-15 01:24:00,"no one knows about it is the issue, or at least no one in the mainstream outside niche demo of people already in crypto",,,-0.5267
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],822853616733782047,3vdaimoniac,2023-04-18 05:49:00,@Ocean Core Team the google slides for rf ranking study are not accessible without permission any more. requested access with my email 3vdaimoniac@gmail.com,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-04-18 15:15:00,"sure, what can i help you with?",,,0.6124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],788820414632689664,djstrikanova,2023-04-20 09:08:00,"Hey, I'm part of the Effect DAO which is part of the Effect Network, a blockchain protocol for microtasking on EOS. Effect Network can be used to build datasets with human workers who get paid for completing each tasks in EFX. We're planning a hackathon on DoraHacks with the theme this time around being about creating datasets useful for AI. 
+
+For example, I'm working on a project that collects all NFT's on EOS, downloads their images, and then uses HuggingFace models to generate a caption for them. Then I throw this all into a Search interface that uses ElasticSearch. The idea I have is if you use five different models to generate captions for NFT's you can have workers rate each model 1-10. With enough data you can figure out which models are best for captioning NFTs. You could also generate a lot of good data for potential reinforcement learning down the line for those models too. 
+
+Do you think there is any interest for some collaboration between Ocean Protocol and Effect Network for Effect's hackathon? The general idea would be that participants will build Effect Network programs that generate datasets and the datasets then would be posted to Ocean Protocol's marketplace. If there's interest, let me know who I can contact to set up a connection between them and the Effect Network team.",https://cdn.discordapp.com/attachments/993954438790258879/1098414844442587246/image.png?ex=65dfd90a&is=65cd640a&hm=5c4298c8df31b041f02b29fca0cfa4e2d78d004668dc3ebbded88f79859881a4&,,0.9531
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-04-20 19:47:00,@Andrea | Ocean Protocol @White Rider,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843831770062913568,white_rider_,2023-04-22 16:44:00,"Hello, thanks for reaching out! Please fill in this form and one of the team members will contact you https://forms.gle/pfdbeVqdkwGwhEs56",,👍 (1),0.7424
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],788820414632689664,djstrikanova,2023-04-23 11:16:00,"Thanks, I sent a message to the Effect Network team to send an enquiry",,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843831770062913568,white_rider_,2023-04-24 15:26:00,Thank you 🙏,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:03:00,"Hello, the df.oceandao.org site is showing me this message:",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:04:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1101192091381530674/image.png?ex=65e0b90d&is=65ce440d&hm=61e3d5d9ef8a62a6ab099455bc5db1f90b76dd842e82baa592de3d9e39d38c0d&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:05:00,"really don't undestand what this mean, i'm connected to the right site.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:05:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1101192417622904972/image.png?ex=65e0b95b&is=65ce445b&hm=a87d8ccc7cadbde03f8cd4a4c5bed67f4212ff063979be2cb74c36831fd01d58&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:07:00,could someone confirm if this ok or scam?,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],456226577798135808,Deleted User,2023-04-28 01:07:00,It’s a bug issue ser,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:08:00,but if a click on it its trying to publish a trx,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],405502935569530881,verahert,2023-04-28 01:10:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1101193724144390257/image.png?ex=65e0ba93&is=65ce4593&hm=f5c581c0c80589b6b6852e2aa2eef02941678ec7816923a7c79c5774a288bf12&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-04-28 17:12:00,"It's not a scam. Initially we used infinite token approval so user doesn't have to approve each time he locks or updates locked amount and save tx fees. Now we removed that feature so user has more control of the amount of approved tokens. If you approved then, you can now use the warning to remove the approval, and only approve the amount you want to lock before locking.
+There might also be cases when people approved a large amount but then locked a smaller amount and they have approve tokens left and we advice to remove approval for those for safety reasons.",,,0.9581
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],802721731378151428,jon77777,2023-05-10 20:41:00,Can someone give me some tips or refer me to a video/document that discusses how to pick the best data farms? I'm trying to figure how how to spot the best ones.,,,0.8555
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-05-10 20:41:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1051014801129742336,LCRW#0747,2023-05-20 14:07:00,"Would appreciate it if someone could help with this staking question. If one locks Ocean for veOcean for a certain period of time, what happens if one withdraws before the unlock date? Would the staker receive her/his  principal minus the rewards or perhaps it would not even be possible to withdraw before the unlock date?",,,0.8738
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-05-20 14:07:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843831770062913568,white_rider_,2023-05-22 15:10:00,Hello 👋🏻 You cannot unlock before the end of the lock time,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],651861864149680128,butterflyq,2023-05-23 00:34:00,"Hey guys, 
+I have problems on farms, to identify which is useful to stake. The new UI is hard to understand and hard to decide where to put the tokens for active rewards",,,0.6369
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],985478606283223041,bigimeyagazzz,2023-05-23 05:33:00,The team will give further assistance soon,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-05-23 15:59:00,"Hi @ButterflyQ. There are multiple metrics inside the farm table that you can follow to identify which assets to allocate to. You have consume volume, allocations, and APY tabs that offers info on how datasets performed in the last rounds. You can sort those columns and get the best results.
+You can also check the publisher and the assets description by clicking on the asset name.",,,0.8442
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],352282921056468993,shmoji,2023-05-27 21:30:00,"After a lock is finished, do you have to ""withdraw"" before you can relock? The ""update veOCEAN lock"" seems to be greyed out",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-05-27 21:30:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-05-31 15:50:00,"@Shmoji Yes, that's right. Once you lock has ended you can't update it, only of it's an active one. You first need to withdraw and then lock again.",,,0.6597
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],593514166455631912,ibrahimansar1,2023-05-31 19:06:00,"Hi, I updated my allocations last night and I can clearly see my allocations in the current allocations tab. However, it has not reflected in the round allocations tab, what can I do to fix this?",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-05-31 19:07:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-05-31 21:49:00,"@ibrahimansar1 When allocating, the allocation is gradually moving to the new asset during the round as a mechanism against users allocating in the last seconds and highly influence the outcome. Your allocations should be visible soon and gradually moving over during the round.
+Keep in mind that If you allocate after the round has started, the full allocation it's going to be moved over only in next round.
+The current allocations is made available so users can see a live state of allocations without the gradual movement, but the round allocation is used for the rewards calculation.",,,0.7096
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],796039855771615284,zupafly,2023-06-02 01:04:00,Is it me or is the APY very low atm for data farming,,,-0.3384
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],796039855771615284,zupafly,2023-06-02 01:07:00,I mean in general compared with 10 rounds ago,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-06-02 08:47:00,"What you saw was wash-trading from the beginning as part of the alpha/beta phase to get everyone playing with it.
+
+Now that we're live, we disincentived wash trading and are building tools/systems/products so we can build real volume.",,,0.2023
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],747399923674120282,bud1977,2023-06-03 12:09:00,personally i wouldn't bother locking ocean for veocean or data farm. i did it and lost out big time. still keen on the project though.,,,0.304
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],796039855771615284,zupafly,2023-06-04 21:33:00,How did you lost? You are earning while staking?,,👍 (1),-0.3939
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],881305463831007272,nickscavuzzo33,2023-06-06 03:47:00,what did you lose? there is no IL (impermanent loss) from DFing,,,-0.5994
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-06-07 18:14:00,Probably transaction fees,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-06-07 18:16:00,You trying to scam me,,,-0.5719
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-06-07 18:16:00,That's the biggest error,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],881305463831007272,nickscavuzzo33,2023-06-07 21:04:00,@dscrdnm23 you good?,,👍🏻 (2),0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],747399923674120282,bud1977,2023-06-09 15:13:00,i earned 0.09 of a token. a few cents worth. i paid $50 in gas for the privilege.,,,0.5267
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],808441136045621289,dscrdnm,2023-06-11 01:08:00,Ouch.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1060300523586207815,conman6919,2023-06-16 19:58:00,Why does round 41 passive APY say 0%?,,👀 (2),0.2023
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-06-19 00:17:00,"Small but useful update.
+You can now filter consume volume for DF Main.
+https://autobotocean.com/volumes",,🔥 (3),0.5927
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-21 17:02:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1121002303797854228/image.png?ex=65def6c0&is=65cc81c0&hm=1feb09a3054ae454df83b254e9fde687c679535c97bd60af756e938ac2b85e0a&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-21 17:03:00,Got this error today from the veOcean link,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-21 17:03:00,"@Norbert | Ocean , could you please take a look?",,,0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-06-21 17:06:00,"@zippy1979 thanks for reporting, I'm looking now",,🤝 (1),0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1101096482825830432,thomaslv,2023-06-21 18:28:00,:ocean:,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-06-21 20:32:00,"oceandao.org domain was blacklisted by phishfort, but now it's removed. @zippy1979 let me know if the issue still persists.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-21 20:32:00,Let me check this. Thanks Norbert.,,,0.5228
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-06-21 20:34:00,it might take some time for changes to propagate,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-21 20:34:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1121055574965104760/image.png?ex=65df285d&is=65ccb35d&hm=6807b645db6f55ad51e609ead662bed00a03631c6f9d61377a8c111371731b45&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-21 20:34:00,I'll wait until tomorrow,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-06-21 20:35:00,"ok, thanks. Let me know if it's fixed",,100_r (1),0.6249
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-22 02:07:00,When I last checked yes,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-22 02:07:00,But I'll look again tomorrow,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-22 02:22:00,"I'm good, I can easily bypass the error, but I prefer to wait it out. Thank you for offering help though 🫂",,,0.8225
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-06-23 15:43:00,@zippy1979 does it look good for you now?,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-23 23:17:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1121821322360660009/image.png?ex=65e1f185&is=65cf7c85&hm=3210a953991506de6365e5422957cb0bc2ab401d6153cdb81876b38bce66a1d5&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-23 23:17:00,No still errored,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],209963946432528384,zippy1979,2023-06-25 18:51:00,"@Norbert | Ocean , it's working normally now 🙂",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-06-26 15:02:00,"@Norbert | Ocean Great! Thanks for the feedback!
+It took more than expected for the change to propagate.",,,0.8217
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],841868312094834702,odin2362,2023-07-02 04:02:00,"Hi,
+Are there any projects that are doing liquid staking wrappers for veOCEAN?
+Judging from the https://df.oceandao.org/datafarming page, no one is currently really buying the data? Is that an accurate understanding and why the yields on Active Rewards have been 0.00% for the past few months?",,,0.6298
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-07-03 18:33:00,"Hello @Odin !
+The H20 team it's doing liquid staking on to op veOCEAN. You can check them out here: https://www.h2odata.xyz/psdnOCEAN-token.
+That's right, right now we have a low consume which results a very low Active Rewards APY, hence our main target to increase the consume volume.",,🙏 (2),0.6941
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],529670885557403668,dhlegit,2023-08-24 15:00:00,"Hi all, for the second week in a row, I dont get my passive rewards. Before this issue I got weekly steady rewards. I have 18.4K veOcean locked until March 2027. Could someone help me with this?",,,0.8078
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-08-24 16:00:00,"Hi @DH , could you DM me your wallet address so I can look it up?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],529670885557403668,dhlegit,2023-08-24 16:01:00,I send you a message 🙂,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],978629551754207302,Dedukeofyork#7188,2023-09-12 16:46:00,Who's up here mate ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-13 14:24:00,👋,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],978629551754207302,Dedukeofyork#7188,2023-09-14 13:23:00,@Norbert | Ocean how you doing.mate,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-15 15:25:00,I’m good mate. How are you?,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],978629551754207302,Dedukeofyork#7188,2023-09-15 16:00:00,@Norbert | Ocean can I dm you directly ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-09-15 16:00:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-15 19:27:00,"It depends. If you have DF related questions I suggest dropping them here, maybe others can relate",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843705168628285490,cesar_cripto,2023-09-16 10:37:00,"hi! i locked some ocean tokens during 1 month, now this should i delegate to my own wallet address? or how does this step work?",https://cdn.discordapp.com/attachments/993954438790258879/1152433080687132753/Captura_de_Pantalla_2023-09-15_a_las_20.36.26.png?ex=65e290f1&is=65d01bf1&hm=3d013adee50a4a4d5d170e69441100f11d7d05432b16546143e8173e807b965b&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-16 17:00:00,"Hello 👋 
+Delegating it’s only for Volume Active Rewards, and the propose of it is to let other wallet do the allocation of veOCEAN tokens to datasets with good Consume Volume.
+If you have multiple wallets and delegate to 1 of them it’s going to be easier to allocate and lower tx fees because all the allocation power is in 1 place.
+You can also delegate to a wallet that’s not yours, but be aware that they are going to receive your Volume Rewards and are in charge of sending those to you.",,,0.8765
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843705168628285490,cesar_cripto,2023-09-17 01:14:00,"Ey! Okay but what happened if I don't have any datasets created, I mean ,I just stake Ocean and that's it, now I can delegate veOcean but I'm little confused here, so can I delegate to my own wallet ?",,,0.1856
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-18 20:02:00,"You don't need to have datasets create in order to allocate, you can allocate to any dataset independent on who published them.
+You also don't have to delegate, that's optional. You can easily just allocate to datasets in the table without delegating. 
+The delegation is only useful If you want another wallet to manage your allocation, either yours ore someone elses, so you don't have to do it, or you want to do it just once for all your wallets",,,0.7906
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-09-19 20:41:00,Trying to figure out how to allocate my veOCEAN.. DCV seems to be the only metric available rn since APY is 0% for all datasets except Rocket Pool. Also there is no list for delegates currently?,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-09-19 20:41:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-19 21:32:00,"DCV is the main metric, If that is 0 than no Consume Rewards APY.
+Delegation is also based on DCV, if that is 0 is hard for someone to offer to receive delegations and try to came up with an efficient way to allocate If there is no DCV. Once we have more DCV we should have a list of delegates.",,dolphin (1),0.2732
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-09-19 21:44:00,"Ok so I should just allocate myself by DCV and maybe delegate later, got it. Does (updating) allocation cost a lot of gas btw?",,👍 (2),0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-09-19 22:17:00,I'm not sure how much it takes now,,,-0.2411
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843705168628285490,cesar_cripto,2023-09-29 04:24:00,guys! how much is the APR and APY for passive rewards??,,,0.6759
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843705168628285490,cesar_cripto,2023-09-29 04:29:00,"cause im confused, i staked around 7k ocean tokens for 1 month and i just received 0.4 tokens aah",,,-0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],578410909790240768,aikin6,2023-09-30 21:02:00,"Hello, I've had 3500 OCEAN staked for a while now that has stopped receiving passive rewards. Usually on a weekly basis I could see my rewards balance increase. But for the past month it has been stuck at the same number. Has something changed or should I still see my rewards balance increase weekly?",,,0.8674
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-10-03 00:57:00,"Hello! If your lock has not ended you are still receiving rewards. If you don't see the rewards then either they become to small or because of the long period without claiming, you might need to do a claim in order to see the rest of the rewards. 
+In case you need multiple claims for your rewards, you are going to see the rewards for the second claim only if you do the first claim.
+If you need more details or want me to inspect, feel free to DM me your wallet address.",,,0.9621
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-10-04 00:48:00,"Please make sure to read the user guide for ""How to Estimate APY""
+https://docs.oceanprotocol.com/user-guides/data-farming/how-to-estimate-apy#veocean-and-your-apy
+
+If you lock 7k ocean for 1mo, you'll receive 140 veOCEAN. (2% of OCEAN you're locking).
+
+You'll then receive rewards relative to 140/25m veOCEAN, which is roughly 0.00056% of whatever rewards are dispensed that week.",,👍 (1),0.8689
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],750866263567368293,acder24,2023-10-06 17:52:00,Hello. I understand that unclaimed rewards accumulate and can be claimed later. Do rewards that are not claimed expire or can I claim them within 3 or 4 years?,,,0.7351
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-10-06 17:52:00,N/A,,"👍 (3),👎 (1),💯 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],578410909790240768,aikin6,2023-10-08 02:52:00,Claiming rewards worked. Now I can see the reminder balance. Thanks!,,👍 (1),0.7424
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],916739648527691876,everythingcrypt,2023-10-10 05:36:00,Does the error response still persist,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1117817286238163075,cobbystardev,2023-10-10 15:32:00,"Hey there! To solve this issue, you can try a couple of things. First, make sure that the wallet address you're withdrawing to is correct and valid. Double-check the address and ensure there are no typos.
+
+If the address is correct and you're still encountering the error, you might want to update your wallet software to the latest version. Sometimes, older wallet versions can cause compatibility issues. Make sure you're using the most recent version to avoid any hiccups. @Kay",,,0.3595
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],843831770062913568,white_rider_,2023-10-10 15:57:00,@Norbert | Ocean @trizin can you look over please?,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-10-10 16:37:00,"Yes, I've been it touch with @Kay",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-10-20 15:47:00,"Silly question, can active DF affect total income negatively causing lower earnings than just passive farming?",,,0.34
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-10-20 15:47:00,N/A,,"👍 (2),👎 (2)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-10-20 16:44:00,"It will not affect your income in the sense that your passive rewards are still going to be the same. On the active rewards side on the other hand, it depends on DCV and the way you allocate towards the datasets. There might be the case that the fees that you pay for managing your allocations are higher than the rewards you earn, and then you end up with a loss.",,,0.9231
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-10-20 21:54:00,"Yeah fees came in to mind too, there's not much stable DCV yet and it makes me hesitate whether to allocate at all.. even though it's kind of a shame.",,,-0.6347
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-10-20 22:45:00,"What I can suggest for now is to keep an eye on the Predictoor assets, they doesn't have much DCV because it's a new product, but they have the most and consume volume might increase",,,0.5106
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-10-22 16:33:00,"Ok I did notice those but I'll have a second look, thanks. Those datasets concerning Kenya have currently top 5rnd DCV, but it seems to be from one sale only.",,,0.7684
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-10-22 16:35:00,"It would be neat to have the sale numbers alongside volume and DCV on the Volume-DF main menu, would make it easier to navigate.",,,0.7003
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-10-23 17:37:00,"We want to keep the focus on DCV, although other metrics could be useful in the end the DCV is what it counts.
+You also want to allocate to datasets that have a consistent DCV over multiple rounds, not only 1 round.",,,0.5423
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],450263501248790528,paranoidpurchaser,2023-10-23 18:11:00,Right I guess the multiple round DCV will be less skewed by single sells once the volume picks up.,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1114875904045371473,alexweb310,2023-10-27 20:54:00,"Hi, can anyone here help me understand something about the data farming part of the Ocean protocol?",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-10-27 20:54:00,N/A,,"👍 (2),👎 (2)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],994272939476267018,graceful.coder,2023-10-28 23:44:00,"Hi Alex! Sure, how can I help you?",,,0.6476
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1114875904045371473,alexweb310,2023-11-05 02:05:00,"I got my answer from another member, thank you! 🙂",,❤️ (1),0.4199
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],635875141250711573,faissalewac,2023-11-05 02:46:00,@Alexander   check dm please,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],917890972774441010,eidos__beam,2023-11-08 07:24:00,"hi, I have had ocean locked as veocean and gained active and passive rewards, but have not claimed due to gas fees (more than rewards!). after the lock period is over will rewards and locked ocean automatically be able to be withdrawn or will there be gas there too both in claiming and/or withdrawing? thanks!",,,0.9285
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],921505251377422446,polo8t6yu,2023-11-08 07:26:00,Do you still need a help @eidos::beam,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-08 15:49:00,"Claiming active, passive rewards and withdrawing the locked amount are 3 different transactions, each of them requiring an amount of fees to be executed.",,,0.765
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],917890972774441010,eidos__beam,2023-11-08 17:12:00,"Thanks, so even at the end of the lock period, rewards have to be claimed? Pretty frustrating if that’s the case as gas fees will be more than rewards and probably create a net loss after 12 months locked!",,,0.8588
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-08 20:21:00,"Yes, it pretty much depends on how much you lock, for how long and when are you claiming. Because the contracts are on ethereum mainnet the fees are quite high.",,,0.7096
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2023-11-09 21:08:00,"How do I point veOcean to the 18 assets?
+
+That it needs to get the allocation and then allocate to these 18 assets?",https://cdn.discordapp.com/attachments/993954438790258879/1172160746730311711/image.png?ex=65e081c3&is=65ce0cc3&hm=940692df91e4fd453806a56ead27c979c438a1e04e96f63e7d28fcdffd49a218&,,0.4137
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2023-11-09 21:08:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1172160822009671700/image.png?ex=65e081d5&is=65ce0cd5&hm=7bddb780adaeb977d8bfb8fd002d4f23cdfc8c8e36045a85fe894479a7641cd5&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2023-11-09 21:20:00,@graceful-coder,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-09 21:38:00,"@KreigDk 🔥 Yes, you should first have an active veOCEAN lock, then you are going to get some allocation powar and allocate those veOCEAN towards as many datasets as you want",,❤️ (1),0.6908
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2023-11-09 21:40:00,Thanks!,,👍 (1),0.4926
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],959052060471488533,hitarayo_,2023-11-14 14:08:00,"Hey, how can I stake on predictoor?
+I understand for 3 Ocean I buy a prediction for the time, right? but it's a little unclear how to stake the amount more",,,-0.3443
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-11-14 14:08:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-14 15:30:00,"Hi! To stake on predictoor assets you have to go to the data farming dapp, lock some OCEAN tokens to receive veOCEAN and then allocate the veOCEAN to the assets within the Volume-DF page table",,,0.4003
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2023-11-16 19:18:00,Hi! have rewards been distributed yet?,,,0.5255
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-11-16 19:18:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-16 20:41:00,"Hi! The Passive rewards were distributed recently, and the Active ones will be distributed soon",,❤️ (1),0.784
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2023-11-20 20:26:00,Hi! Can you please tell me if there is any way I can view my rewards history in Data farming?,,,0.69
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-11-20 20:26:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-20 21:21:00,"Hi! We don't have it displayed on the UI, but we have the data available trough an API if that works for you. It is a good idea to also have it inside the Data Farming History table",,,0.63
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],780159213049479179,idiom_bytes,2023-11-21 23:53:00,"**[Predictoor DF & Volume DF]**
+Will share this again for all the data farmers on here...
+
+If you want to get some rewards from Active Rewards / Volume DF, go allocate your veOCEAN on predictoor data assets:
+=> Predictoor data assets now have consume volume
+=> Allocating veOCEAN on Predictoor assets inside Volume DF, should provide you with some basic yield (until it becomes a crowded trade)
+
+https://df.oceandao.org/volume-df",,👍 (1),0.926
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],912088230386614272,shuyc,2023-11-22 22:00:00,"Hello. How to use oceanprotocol/pdr-backend docker image? If I run container without settings I get ""No module specified."" error. Thanks.",,,0.2705
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-11-23 16:27:00,"Hi! Could you please move Predictoor related issues to the predictoor channel? 
+I'm sure there is going to be more people there that can help you.",,,0.7644
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],399357108446953482,mr.metaverse,2023-12-03 06:34:00,Is it possible to stake also on polygon?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],399357108446953482,mr.metaverse,2023-12-03 06:37:00,"I tried, but it was not selectable for me. How do you do it?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-03 16:39:00,"No, only on ethereum mainnet",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],625970462920409107,0xbossanova_whitewhalle,2023-12-16 08:35:00,"It’s working perfectly well, haven’t you done that earlier @Mr. Metaverse",,,0.743
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1187205095310504077,xanxus_18559,2023-12-21 09:38:00,"Hi, I am quite confused. My active rewards are much lower than expected this week. I received more in active rewards last week despite the APY of the dataset I allocated being lower. So I have a greater APY this week but less in rewards?",,,0.8445
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-12-21 09:38:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1187205095310504077,xanxus_18559,2023-12-21 09:42:00,I allocated to a predictoor dataset so the revenue is the same each week. Which is why Im confused as to why my actual rewards are lower this week. I had allocated to 2 datasets last week but consolidated to 1 with  higher total APY for this week.,,,-0.0516
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],908724562793988207,Daniel W#5160,2023-12-21 20:54:00,"I allocated a similar veOcean amount with two different accounts to the same datasets and get complete different rewards. One is locked until 2026, the other until end of 2024. Plays this also into the APY?",,,0.6249
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2023-12-21 20:55:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],908724562793988207,Daniel W#5160,2023-12-21 20:57:00,wow Ocean is the only team who has already a bot for my stupid question 😄,,,0.1027
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],663364310059188234,kearins,2023-12-22 08:37:00,"Hi, is there an API for autobot?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-12-22 18:29:00,Currently there is not but what info do you require via api?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],987075873565982740,maindanz,2023-12-22 19:18:00,@Norbert | Ocean Can you help me? How can I view the star rating of a dataset on the Ocean Market?,,,0.4696
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],663364310059188234,kearins,2023-12-22 19:47:00,I'd like to see current accuracy value,,,0.5994
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-22 19:49:00,"Hi! There is no start rating inside the Marketplace, but I guess you are referring to good quality assets. In the marketplace there are 2 sections, one for highest veOCEAN allocations and one for Most sales, you can look in there for good quality assets.( be aware that this doesn't include the Predictoor assets which are on Oasis network )
+An easier way to identify good quality assets is to go to data farming app and inside the Volume-DF page there is a table with assets you can allocate to, and you can identify good quality assets by sorting on high consume volume and APY and make sure this numbers are consistent over multiple rounds.",,,0.9834
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],987075873565982740,maindanz,2023-12-22 19:52:00,"Thanks, then I think you should change the article in the documentation a bit)
+https://docs.oceanprotocol.com/user-guides/buy-data-nfts",https://cdn.discordapp.com/attachments/993954438790258879/1187724362988658730/image.png?ex=65e1c182&is=65cf4c82&hm=fbd0d84fae182185b82f7b760480e94d42bb6327bcd805cf23a1edd540ee6dbc&,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],987075873565982740,maindanz,2023-12-22 19:53:00,I also have a question if there have already been rewards for the last round of Predictoor df,,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-22 19:57:00,"Sure, thanks for pointing it out, will do!",,,0.6696
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-22 19:58:00,"Yes, since Predictoor DF has been launched",,,0.4939
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],663364310059188234,kearins,2023-12-22 20:02:00,I have the same question as @MainDanz about rewards for the *last* round of Predictoor-DF. The value of 'last round accuracy' is still 0.,,,0.6705
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-22 20:15:00,That metric represent your accuracy and should be displayed If you have your wallet connected and submitted predictions in the last round.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],663364310059188234,kearins,2023-12-22 20:20:00,"yes, I connected the wallet and submitted predictions in the last round. I see the stats in autobot. It seems that 'dftool calc' runs manually, but when?",,,0.2144
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-22 20:22:00,"ok, I see, it seems to be something on our side then, will check.",,,0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],294623609786204160,AutoBot#1760,2023-12-22 22:56:00,For each pair as a hole? or for your own address,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],663364310059188234,kearins,2023-12-22 23:05:00,"got answer in tg, rewards will be available by Monday, thanks",,,0.7184
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],747440479653724300,jb1908,2023-12-29 21:24:00,N/A,https://cdn.discordapp.com/attachments/993954438790258879/1190284320221433917/remix-fc6a2bd2-693b-47f9-b24b-d2388e03e8ef.png?ex=65e1d728&is=65cf6228&hm=42358b5327bc5e268db9dc94026147b7542e518e0a5dad950ee0fb5865935344&,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],747440479653724300,jb1908,2023-12-29 21:26:00,How could be only the passive rewards 35M ocean? 35M/52weeks ~ 700k ocean weekly while the rewards are currently capped at 150k weekly (highest this year),,,0.7906
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],747440479653724300,jb1908,2023-12-29 21:26:00,And ofc this is not considering the active rewards,,,0.2124
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],747440479653724300,jb1908,2023-12-30 17:13:00,@Norbert | Ocean any thought on that?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2023-12-30 17:53:00,"You are right, there is an extra 0 there, it should be **3,525,000** (37,500 x 10   +  75,000 x 42).
+Thanks for noticing, I'll forward it to the team and fix it.",,👍 (1),0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2024-01-02 16:25:00,Happy New Year! 🎆,,🚀 (1),0.6114
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1138390763823169628,xiscor,2024-01-05 18:34:00,Hello,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],1138390763823169628,xiscor,2024-01-05 18:35:00,Yeah.,,,0.296
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],593514166455631912,ibrahimansar1,2024-01-18 07:50:00,Anyone know why the DCV for the predictoor assets bumped up to 8k?,,,0.1779
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],593514166455631912,ibrahimansar1,2024-01-18 07:50:00,It's always been in the $800-$1000 range each week,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],593514166455631912,ibrahimansar1,2024-01-18 09:43:00,"Lol even though DCV was 10x and my allocations had the same amount allocated, my active rewards are half of last weeks 😂",,,0.8225
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],593514166455631912,ibrahimansar1,2024-01-18 09:43:00,"Sometimes data farming makes me laugh, I will never understand this system. Anyone think they can explain this?",,,0.5574
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2024-01-18 23:42:00,"Hello, the bump in the DCV for the predictor assets was caused by an RPC bug that affected the date range used in the DCV calculation. The bug has been fixed, and the DCVs are now accurate.",,,0.0258
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],531778411975147535,himas.,2024-01-27 04:11:00,"hi , Can i write question about Data Chalenge here?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2024-01-27 04:11:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2024-01-27 18:23:00,"Hello!
+
+What's your question?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],531778411975147535,himas.,2024-01-27 18:27:00,Is it absolutely necessary to use artificial intelligence to implement the report ?,,,0.4767
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2024-01-27 19:38:00,"If I understand you correctly. No, it is not absolutely necessary to use AI to implement the report Data challenge. Participants may be tasked with building a report that combines data visualization and written explanations for a dataset, which can be done without the use of AI.",,,-0.2263
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],531778411975147535,himas.,2024-01-27 20:10:00,"Thanks , and please send me the site for conditional staking OCEAN",,,0.6369
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2024-01-27 21:06:00,https://df.oceandao.org/,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],739132787499597824,kreigdk,2024-01-27 21:06:00,Glad to help,,,0.6908
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],531778411975147535,himas.,2024-01-28 01:31:00,thanks,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],593514166455631912,ibrahimansar1,2024-02-11 00:21:00,How long does it take for current allocation to be updated onto round allocation?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],955744627481255976,awesomeQA#0813,2024-02-11 00:21:00,N/A,,,0.0
+Ocean Protocol - ECOSYSTEM - 🚜︱data-farming [993954438790258879],804400713123102741,Norbert | Ocean#7805,2024-02-13 16:07:00,It will be fully updated when the next round starts,,,0.0

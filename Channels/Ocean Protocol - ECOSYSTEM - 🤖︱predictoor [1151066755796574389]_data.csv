@@ -1,0 +1,1006 @@
+Channel,AuthorID,Author,Date,Content,Attachments,Reactions,sentiment
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1023969691548528700,wanderclyffex,2023-09-13 12:16:00,"Print ("" Hello Predictoor"")",,❤️ (2),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],725258139942912032,cakethy.,2023-09-13 14:13:00,Hello Predictoor,,ocean (2),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],922766984247136266,chif_odey,2023-09-13 20:54:00,Hello,,ocean (2),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],285872460060950530,qazim,2023-09-14 17:01:00,test,,ocean (2),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],725258139942912032,cakethy.,2023-09-15 13:59:00,is it possible to predict without using bot,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-09-15 15:25:00,"Sure, but there is no interface for it. You have to interact with the contract.",,,-0.2846
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],725258139942912032,cakethy.,2023-09-15 16:00:00,"i have no idea how to do it, can u advise me briefly",,❤️ (1),-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1023969691548528700,wanderclyffex,2023-09-15 17:19:00,"Hey @Cakethy , great question ! 
+
+This readme contains the details about how you can build your own agents.
+
+1) Trader bot readme -  https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/trader.md
+
+2) Predictoor agent readme - https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/predictoor.md
+
+
+Blog post explaining predictoor - https://blog.oceanprotocol.com/meet-predictoor-accountable-accurate-prediction-feeds-8b104d26a5d9#3f3a
+
+
+Thank you 😊",,,0.784
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-09-16 17:03:00,"It might get complicated. I’m trying to understand what you want to receive.
+Using the bot should be the easiest way If you are not technical.
+Are you looking for more control over the prediction submission?",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],329222408672247808,feno1486,2023-09-21 14:45:00,"Hello! Maybe here can be info about how many predictoors is participate on this prediction? Becose this quanity can be changed after 5 mins and trader will dont know about it. I mean that if the amount of money in the stake has increased, then without knowing how many participants it is impossible to understand what this means. The trader will think that this prediction has great confidence, but in fact the number of participants may have increased and that’s all.",https://cdn.discordapp.com/attachments/1151066755796574389/1154307429127946331/Screenshot_4.jpg?ex=65e02811&is=65cdb311&hm=6feaea63f1fbf40d0b16087886a0a6870d8c4d6f2b392349284a99f7814f03f7&,👍 (2),0.8244
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-09-22 16:27:00,"Hello! Thank you for your feedback, that's a great suggestion! Definitely with a great staked amount is useful to know from how many predictoors does that amount comes from.
+I noted it and we are going to have it implemented soon.",,👍 (2),0.9508
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-09-25 15:20:00,"We have been discussing this proposal, and although it sound good at first and can be helpful if used correctly, unfortunately it can be easily exploited using sybil attacks, in which case the metric is no longer trustable. Due to this, we are not going to add it to the website. We don't want to be exposed to any manipulation so we are planning to only show the metrics that are trustable.",,✅ (1),0.3565
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],329222408672247808,feno1486,2023-09-25 16:05:00,"Ok, got it",,👍 (2),0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],905745114620645406,itadori9047,2023-09-25 20:50:00,https://discord.com/channels/612953348487905282/971047506857300020/1155114376488026182,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],905745114620645406,itadori9047,2023-09-25 20:50:00,@Norbert | Ocean,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-09-25 21:35:00,"@itadori could you give some more info around the issue(wallet, browser, anything else), maybe retry again to make sure it's not some network issue?",,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804604311015129089,doteth,2023-09-27 23:31:00,"@🤖 Predictoor 
+
+The 1st Predictoor workshop is now LIVE 🚀 
+
+Join here: https://x.com/oceanprotocol/status/1707051139525701908?s=46&t=qbN2Bsv6sYEAnM5oD4owIA",,"👍 (2),🔥 (1)",0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-10-04 23:28:00,"**[Buying predictoor subscriptions while in testnet]**
+Hi @itadori, you can buy the subscription using testnet OCEAN.
+You can get testnet OCEAN for free here => https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/testnet-faucet.md
+You can then buy the subscription from the app => https://test.predictoor.ai/",,🤖 (1),0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],268733992520384512,iamnazar,2023-10-05 23:20:00,"It would be cool to add sorting in descending and ascending order, for example, sorting by % of correct predictions",https://cdn.discordapp.com/attachments/1151066755796574389/1159510525277913259/image.png?ex=65e0a0d3&is=65ce2bd3&hm=85b727d8c278398367a64bff7548c1e5e46c60c1c8b8ea44105d6b6364c5328a&,👍 (3),0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-06 14:21:00,"Deffinetly, good suggestion. Right now there are only 10 Assets on 1 page, and it's quite easy to figure out which one has the highest accuracy.
+Once we are going to have move assets and there would be a need to scroll to see all the assets than sorting it's going to be a must.",,👍 (1),0.8479
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],994272939476267018,graceful.coder,2023-10-10 21:09:00,Started a thread.,,🚀 (3),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:00:00,hi predictoor on sapphire loads nothing,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:01:00,or am i doing somethign wrong? 😄,,,-0.4767
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-11 22:13:00,Looking good on my end. The app is not loading for you?,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:13:00,cant share screenshot,,,-0.2235
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:13:00,soooo,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:14:00,i msgd you,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:17:00,not only me,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-11 22:57:00,https://tenor.com/view/shrug-gif-25269231,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-12 00:46:00,is it brave browser? idk,,,0.4588
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-12 00:46:00,other dapps work,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],359806241045741568,bolonyokte,2023-10-12 03:12:00,predictor is only 5m or 1h?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-12 04:09:00,its because im american^^,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-12 04:09:00,change vpn and it loads,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],240988635531313152,eenniiggmmaa,2023-10-12 04:09:00,YAY,,,0.5267
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-12 19:02:00,"yes, for now only assets for 5m and 1h timeframes are deployed",,,0.5267
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],489914064919855114,zcstarr,2023-10-13 00:47:00,"any suggestion on how to get pricing feed data  if your'e in the us , I would use my binance.us account but I'm afraid that hte data won't match what I'd get back from binance.com",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],489914064919855114,zcstarr,2023-10-13 00:53:00,well haven't confirmed it rather that the feeds are the same 😁,,,0.2732
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-10-13 08:52:00,"Unfortunately, if you use tools like ccxt, you'll need an API key.
+Fortunately, you can call the API directly.
+https://docs.binance.us/#general-rest-api-information
+
+Try:
+```curl 'https://api.binance.us/api/v3/ping'```",,👍 (1),0.0258
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],489914064919855114,zcstarr,2023-10-13 13:22:00,thanks :party_keanu:,,🙌 (1),0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],994272939476267018,graceful.coder,2023-10-17 21:11:00,"Sup guys! Don't forget that we have a Predictoor workshop tomorrow on Zoom! ⏰ 3PM UTC | 5 PM CEST | 11 AM EST | 8 AM PST
+
+Join us using the link here: https://us02web.zoom.us/j/89913910217
+
+Would love to see some of you guys there 🥹",,🙌 (1),0.8248
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],776621646235959359,dogerton,2023-10-18 04:41:00,do any Dexs on Oasis have Ocean? Need to find a way to get ocean on Oasis to use predicotoor (celer bridge not an option),,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],702141233505632298,anicet0,2023-10-18 19:15:00,"interesting product, we have a prediction game on Pancakeswap and we are expanding it to different chains. How easy will be to integrate predictor in a dapp like PCS? what will be the benefits of it?",,,0.8767
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-10-18 19:15:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-18 20:18:00,for now the only way to get OCEAN tokens on Oasis is by using the Celer bridge,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-18 20:33:00,"One possibility would be to use Pancakeswap interface to submit predictions into Predictoor contracts. This way either Pancakeswap itself it's going to become a Predictoor or enable the users to become Predictoors. In terms of difficulties we need to better understand the system, but should be fairly easy if PCS moves to Sapphire and uses OCEAN token for staking.",,👍🏻 (1),0.6369
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-10-23 06:02:00,"Good evening guys. I have a quick question about time periods using in Predictoor. 
+We should give predictions for the period t+1 before starting of the period t, correct? 
+For example, for 5m timeframes let's say I use lags 7:00, 7:05, ..., 7:55, start my prediction loop at 7:59 according to default parameters, and the model give predictions for 8:05 with the condition that this transaction should be submitted before 8:00.",,👍 (2),0.1027
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-10-23 06:03:00,N/A,,"👍 (5),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],489914064919855114,zcstarr,2023-10-23 07:38:00,"Curious about this what price are we predicting are we predicting the next periods opening price, just to confirm ?",,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-10-23 07:38:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],489914064919855114,zcstarr,2023-10-23 08:26:00,actually tracked it down it's close price to close price I think,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-23 17:40:00,"yes, that's right. Predictoor works with close prices.",,👍 (1),0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-10-23 17:42:00,That's right.,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],972357688283525121,sheloandre,2023-10-30 15:44:00,From which exchange can I buy Ocean token,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],952364736639557672,team001,2023-10-30 15:46:00,"@shelo Andre Uphold, Paybis, Kraken or Kucoin",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],994272939476267018,graceful.coder,2023-10-30 18:57:00,"Hi Shelo! You can purchase OCEAN from the major exchanges like Binance, Coinbase, Kraken, and many other smaller exchanges. We list the exchanges on our website here: https://oceanprotocol.com/about-us/ocean-token",,,0.4199
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-10-31 17:30:00,"Hi guys! Are there any updates on the ETHMiami https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/ethmiami.md, was it held? How much submitted wallets and their scores?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],994272939476267018,graceful.coder,2023-11-01 22:00:00,"Hi Andrey, this year we found most people were interested in developing on Ocean.js at the hackathon. That said, we're pretty confident that the incentive structure will stimulate some good entrants into the Predictoor ecosystem - give it a little time 🙂",,👍 (1),0.9399
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2023-11-06 15:06:00,"Hello!)
+Is there a way to see how many 24h subscriptions are being bought on predictoor?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-06 16:16:00,"Hi!
+Not on the UI, but you can get the data from the Subgraph.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2023-11-06 16:20:00,how to get data from subgraph?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2023-11-06 16:21:00,Thanks for answer,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-06 16:40:00,"You can get the info form pdr-backend subgraph.md readme:
+https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/subgraph.md
+Tere you have the  Sapphire mainnet subgraph link and also a query example at 'Typical query' section with most of the information that you can use to query just the information you want, for example subscriptions.",,,0.0772
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2023-11-06 16:45:00,Thank you! You've been very helpful),,👍 (1),0.4199
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-11-07 02:33:00,"hello 🙂
+for the trader bot on test net, can i use my metamask account? it seems i was unable to get ocean test coin using the provided faucet",,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],952364736639557672,team001,2023-11-07 02:33:00,Yes you can @Amaya,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1104555088078458980,general20_20,2023-11-07 02:34:00,Do you have any issues??,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-11-07 02:37:00,"it showed 0, but i think there was a mistake from my part. I also imported OCEAN and it's shows 0, but now i noticet that i also have TST. Thank you for your quick answer. I'm already loving the community here 🙂",,"👍 (1),❤️ (1)",0.7579
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-11-07 02:40:00,"thank you, but i think it was a mistake on my side, i was just looking at ocean, but i think the token got saved as TST, and i can see it now im my wallet. Thank you again",,✅ (4),0.6808
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],994272939476267018,graceful.coder,2023-11-09 18:49:00,"Hey everybody!
+
+✨   Introducing Predictoor Data Farming  ✨  
+
+Predictoor DF **amplifies rewards** 🤑 to predictoors making AI-powered predictions to Ocean Predictoor!
+ 
+We're rewarding $OCEAN & more ≈ $21K USD weekly
+
+Predictoor runs on @OasisProtocol Sapphire confidential EVM 👪❤️
+
+You can bookmark our X thread on Predictoor DF here: https://twitter.com/oceanprotocol/status/1722561862003224919
+
+You can read all the details in our blogpost here: https://blog.oceanprotocol.com/introducing-predictoor-data-farming-ad4c95f4a9aa",,"🤖 (1),👍 (1)",0.6103
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],994272939476267018,graceful.coder,2023-11-09 18:49:00,N/A,https://cdn.discordapp.com/attachments/1151066755796574389/1172125814201012316/1.png?ex=65e0613b&is=65cdec3b&hm=1a02a00799d3ffa5f8914d4ae90e06bf758d3a0aab8e4179992f7a0949ef2d9f&,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-11-11 17:27:00,What kind OP team member can help me with getting Rose and Ocean setup for the bot. I have some ROSE on Oasis wallet and I have some Ocean Oasis on metamask,,,0.7269
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-11 23:48:00,Hey everybody! I'm also in need for somehelp regarding setting up the Predictoor because I'm running into the insufficient balance to pay fees error even though I have the fake ROSE and fake OCEAN tokens in my wallet,,,-0.8622
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1104555088078458980,general20_20,2023-11-13 10:34:00,"Hey 
+Have you gotten any help regarding your issues??",,,0.4696
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1104555088078458980,general20_20,2023-11-13 10:35:00,"Hey 
+Have you gotten any help regarding your issues??",,,0.4696
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],961181510357123092,abdulmazid_,2023-11-13 12:12:00,Hi,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],961181510357123092,abdulmazid_,2023-11-13 12:12:00,H,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-13 15:25:00,"Hi! Looks like you have OCEAN tokens on Sapphire and just need to transfer ROSE tokens from Oasis wallet to Metamask. To transfer the ROSE tokens, inside the Oasis wallet go to ParaTimes menu, then click on To ParaTime button from the Sapphire section, then insert the Metamask account address where you want to send the tokens and the amount",,,0.4753
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-13 15:27:00,"Hey! Could you provide some more info, maybe the tx or wallet address so I can check?",,,0.4199
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-11-13 21:31:00,"I have it working now thank you.
+I have used a different metamask address than the address i use for my locked Ocean. Should i have used the same address?",,👍 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-13 21:46:00,"No, that doesn't really help beside just having to manage less wallets",,,-0.5683
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-11-13 21:56:00,So running your own predictor bot has no relation to your ve Ocean allocations?,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-13 22:05:00,"Yes, that's right",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],856302991355281449,mhiztavoice,2023-11-14 21:40:00,This is massive from Data farming,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],856302991355281449,mhiztavoice,2023-11-14 21:40:00,I just wish I'll be able to engage,,,0.6249
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],856302991355281449,mhiztavoice,2023-11-14 21:42:00,"I've known Oasis sapphire, and this is a great collab",,,0.6249
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-15 01:14:00,"Hey @mhiztavoice , good to see you onboard!",,,0.4926
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-15 04:10:00,"Hey! Thanks, yeah I got it working now on my desktop at least. Still don't know the issue but I think ill work with this for now. It's the same wallet so something else might be happening",,,-0.3489
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-11-15 08:40:00,"```A special “DF buyer” bot purchases Predictoor feeds. It starts operating on Nov 9. Every day, it spends 1/7 of the weekly Predictoor OCEAN budget for another 24h subscription. It spends an equal amount per feed. (Currently there are feeds: 10 x 5min, 10 x 1h.)```
+
+Is there rewards given at the end of each week to those running Predictoor bots or is it already spread out over the week, when you run payout you get rewards?",,,0.836
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-15 18:36:00,"As mentioned in the text, the rewards are spread out during the week by buying 1/7 of DF-Predictoor rewards worth of subscriptions each day. So rewards should be already distributed by the DF Round ends.",,,0.8807
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2023-11-16 02:40:00,@Norbert | Ocean could potentially get a way to stake on a smart contract/bot that trades on a Dex based on predictoor feeds?,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 10:32:00,"Hey all 👋  One quick question about predictor backend https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/predictoor.md#run-predictoor-bot-on-sapphire-mainnet
+
+I'm running the predictor … and I see
+
+```
+      -> Predict result: predval=True, stake=1.0
+      Submit predict tx chain...
+Error while approving the contract to spend tokens: {'code': -32000, 'message': 'client: transaction check failed: runtime error: module: core code: 5 message: insufficient balance to pay fees'}
+```
+
+Which tokens do I need on which chain to use this correctly? My rose private keys (from Oasis Wallet) look like base64 encoded strings , when I send those as an env var the predictor errors out",,,-0.7579
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 10:33:00,Oh maybe this is exactly what I need,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 10:36:00,☝️ Might be useful to add this to the readme,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 10:41:00,"```
+Get historical data, across many exchanges & pairs: done.
+      -> Predict result: predval=False, stake=1.0
+      Submit predict tx chain...
+Pending nonce: 5
+SuggestGasPrice: 100000000000
+Encrypted transaction status code: 0
+Submitted prediction, txhash: 0x34543be5cd299ac2a0d66f338fc3a1535bb3c8c467e3e4fbb45f226ec2720e2a
+```
+Looks good",,🙌 (1),0.6597
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-16 14:20:00,@ililic2084 There already is a section inside the 'Get rose on Sapphire' section called 'Transfer Rose from Emerald to Sapphire'. Maybe it just isn't clear enough.,,,-0.2924
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 20:14:00,"I guess my initial thinking was something along the lines of:
+```
+≥ Okay cool! I have ROSE on Oasis Wallet, and I have OCEAN on my Metamask…
+≥ Let's get the predictor running
+≥ Oh, looks like I need a private key to post predictions to chain
+≥ Hmmm, I doubt this requires my Eth Main net wallet, that would be way too expensive in gas to make predictions this frequently, they must be asking for my ROSE private key
+≥ I'll export the private key from the ROSE on my Oasis Wallet, looks like its this base64 encoded thing
+≥ Oh, the predictor pukes that up, looks like it *is* looking for an ETH style private key… hmmm…
+```",,,0.68
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 20:17:00,"… followed by ""Let me log into discord to solve the problem""",,,-0.5574
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-16 20:25:00,"Yeah, I see what you mean. Thanks for sharing the details. We are going to update the readme so it's more clear that the tokens should be inside an Eth account wallet",,🙌 (1),0.8766
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 20:29:00,"Cool, I'll be sure the come back with more annoying questions as I try to figure out how my performance is 😉",,,0.1548
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-16 20:30:00,"Sure, feel free to raise any issue you find 🙂",,,0.6808
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 20:38:00,You know that the Binance API doesn't allow IPs from USA?,,,-0.1695
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-16 20:39:00,It is restricted by Binance for USA,,,-0.3818
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-16 20:39:00,Yep 👍,,,0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-11-16 21:55:00,Hi guys! A quick question regarding ROSE payouts: it's not implemented yet?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-16 23:26:00,"Hey! There are some updates released recently on our docs and pdr-backend project to make this more clear. The ROSE rewards are going to be distributed each Monday. This is to offer time to the predictoors to call the payout for OCEAN rewards after the DF round ends, so all the predictions from the DF round could be accountable for ROSE rewards calculation. In short terms the Predictoor predictions are visible only after rewards are claimed.",,👍 (1),0.9391
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-11-17 00:11:00,I will take a look. Thank you!,,,0.4199
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-17 08:53:00,"Hey guys, question - In the predictoor agent 3 why is curprice set to y_train[-1] rather than y_test[-1] ? Because it's creating a model for X_test",,,0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-17 21:22:00,"There is no y_test, the way that we've configured it. The appropriate thing is y_train[-1].
+If you think we're wrong, tell us, and show what you think would be right. No one is perfect:)",,,-0.7579
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-17 21:39:00,"Of course!I was just wondering to see whether I have the wrong interpretation. But from what I understand is that if you want to predict a value with X_test, we could need to predict the price based on the most recent price y[-1] right? Which is right now y_train[-1] but to my understanding this price happened earlier on",,,0.4199
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-18 21:52:00,I've been running agent 3 for a couple of days and run payout and roseclaim here and there but there's never anything to claim - is this normal or am I doing something wrong?,,,-0.631
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-18 22:07:00,"Is there a way to check the accuracies of your predictoor on testnet?
+
+Also is there a way to get the amount of the payout?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],217624115824164864,biba,2023-11-19 02:48:00,Hello I was wondering what the cost is to run 1 predictoor bot for a week,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-19 02:53:00,You could do it from your computer for free 😉 (minus token payments for posting predictions),,,0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],217624115824164864,biba,2023-11-19 02:55:00,How much would 1 prediction cost?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],217624115824164864,biba,2023-11-19 02:55:00,"Have the bot ready with my customized model, just wondering about cost",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-19 03:15:00,https://www.oasisscan.com/paratimes/transactions/0x407d0fe150074244f17f40e1e1318775776bebbeb7a0fc50be9b5040b0def36c?runtime=000000000000000000000000000000000000000000000000f80306c9858e7279 hmmm looked up my transaction hashes looks like my calls are failing ; any way to debug?,,,-0.2869
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],476334381276069889,jayster2100,2023-11-19 05:45:00,is there anywhere you can check history on how successful the predictions have been? im trying to figure out if its worth me investing time in setting this all up,,,0.6908
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],476334381276069889,jayster2100,2023-11-19 07:30:00,when trying to bridge ocean from ethereum to oasis it wont let me change the destination address so i can send it to the oasis wallet. binance doesnt let you withdraw ocean to oasis directly either. if i try and send from metamask oasis saphire network it says the address is incorrect? is there another bridge that lets me change the to address when bridging?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],959409185156661288,undisputedjeff,2023-11-19 07:41:00,"Good day friends. Happy weekend Some words for the day:
+1. ""Success is not the key to motivation. Motivation is the key to success. Keep pushing forward and never lose sight of your goals.""
+2. ""Remember that every small step counts. Even the tiniest progress is still progress. Keep going!""
+3. ""Challenges are just opportunities in disguise. Embrace them, learn from them, and use them to grow.""
+4. ""Teamwork makes the dream work. Together, we can achieve greatness and overcome any obstacle.""
+5. ""Rise above the negativity and believe in the power of positivity. A positive mindset can drive you towards success.""
+6. ""Failure is not the end, it's just a stepping stone towards success. Learn from your mistakes and keep pushing forward.""
+7. ""Believe in yourself and your abilities. You are capable of more than you can imagine. Trust in your potential.""
+8. ""Stay focused, stay determined, and never give up. Your hard work will pay off, and your dreams will become a reality.""
+9. ""Take pride in the work you do. Your effort and dedication make a difference, and your contributions matter.""
+10. ""Always strive for improvement. Be better than you were yesterday, and let your progress inspire others.""
+11. ""Be patient and persistent, make every step count. That way, you'll have converted those stepping stones into staircases to reach your milestone.""
+#Cudonians #Positivity #Success #Greatness",,,0.9961
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],476334381276069889,jayster2100,2023-11-19 12:29:00,so im guessing we are not seeing predictions as no one is using it yet so we only get historical columns? i tried buying a couple on test net and mainent with no luck. so really instead of trying to setup a trading bot and testing it i should be playing with a predictoor bot so we also get the farming rewards?,,,0.594
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-11-19 12:29:00,N/A,,"👍 (2),👎 (2)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],758214352095674408,turbon1troso3,2023-11-19 23:38:00,Is that a script that we can paste on tradingview.com ??,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],964708366284890154,Gru (Matt Wilson)#3202,2023-11-20 05:21:00,any chance some one has altered the runtrade.py script to use coinbase instead of binance?  For us US users?  Or maybe Mexc?,,,0.3695
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],964708366284890154,Gru (Matt Wilson)#3202,2023-11-20 05:24:00,Or maybe a vpn will suffice.  I'll try that first,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-20 06:01:00,VPN worked for me also using a ec2 instance in a non USA region works,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],964708366284890154,Gru (Matt Wilson)#3202,2023-11-20 06:30:00,"I set up a vpn server in helsinki with hetzner cloud and it worked great.  $4 a month. However, lots of losses on first run 😂😂😂.  This is gonna be fun.",,,0.6908
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],964708366284890154,Gru (Matt Wilson)#3202,2023-11-20 12:09:00,If I'm running main.py 3 on testnet does that earn rewards or not until I'm running on mainnet?  Thanks.,,,0.7184
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],730058197544468611,_moonsicle,2023-11-20 13:06:00,he guys,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],730058197544468611,_moonsicle,2023-11-20 13:06:00,how much ocean do i need on saphire to buy a predictor?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 16:46:00,"I'm not sure what's the issue you encountered, maybe there were some issues on sending the predictions, otherwise you should have slots to claim. Also make sure you are claiming the payout from the same network you sent the prediction on and for the right wallet address.",,,-0.4449
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 16:47:00,In the pdr-backend repo's predictoor readme there is a section called  Check performance. There you should find what you are looking for.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 16:56:00,"Looking at the tx fees right now it costs around 0.011-0.013 ROSE to submit a prediction.
+You also have to stake some OCEAN tokens when submitting predictions and this cost depends on how much you want to stake, but If you are accurate you get your OCEAN tokens back + some profit.
+Then depending on where you are running your bot there might be some costs, for example if you are running it on a cloud you might have to pay the could provider.",,👍 (1),0.631
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 16:57:00,Go to predictoor website where you can find the accuracy column. There you have a summary on how accurate the predictions were.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 17:11:00,"You have to use an Ethereum account to submit predictions, not Oasis Wallet account.
+Using the Celer bridge as specified in the readmes you should be able to bridge from Ethereum to Sapphire for the same Ethereum account.
+On Binance you should be able to withdraw ROSE tokens to your Oasis wallet and from there send the tokens to the Ethereum address on the Sapphire Paratime.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 17:12:00,there isn't,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 17:14:00,"If you are referring to buying access to prediction signals, then as you can see on the website, the price of a 24h subscription is 3 OCEAN tokens",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-20 17:24:00,"Try to use the following explorer, it describes the issue better:
+https://explorer.oasis.io/mainnet/sapphire/tx/0x407d0fe150074244f17f40e1e1318775776bebbeb7a0fc50be9b5040b0def36c
+It says: too late to submit. You are trying to submit the predictions to late.
+Also checking you transactions you have multiple failing with the message: transfer amount exceeds balance, which means you don't have the amount of  OCEAN  tokens you want to stake.",,,-0.0258
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-20 23:06:00,I just need Ocean in the wallet? Or I need to stake those first?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-11-20 23:06:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],613749597248159745,ililic2084,2023-11-21 00:23:00,"Okay great so I started getting more green transactions through; thanks for the help.
+
+`reverted: too late to submit (error code 8)` is interesting ; I'm just running agent 3 on auto pilot, I'll dig in to see how I can try to optimize it",,👍 (1),0.9477
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-21 16:20:00,you just need to have OCEAN token in your wallet,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],531778411975147535,himas.,2023-11-21 22:51:00,what are the forecasts for $ocean?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-22 15:30:00,up only  😁,,😁 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-11-22 17:41:00,"Hey, @Norbert | Ocean. Is everything working well now? 
+I'm asking because today I see almost all errors from my submissions: Encrypted transaction status code: -6",,,-0.0056
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-22 17:51:00,Hey. There are some issues on the Oasis side after they released a network update yesterday and it's causing all tx to fail. They are working on it and hopefully everything is going to be fixed soon. I'll keep you updated.,,,0.1779
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-11-22 17:55:00,Got it. Thank you!,,,0.4199
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-23 04:10:00,Oasis network issue is fixed! Txs should work fine now.,,👍 (1),0.4926
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],912088230386614272,shuyc,2023-11-23 16:44:00,"Hello, are there any instructions on how to use the Docker image?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-23 18:08:00,Hi! I see there are some info inside the remotebot.md file inside pdr-backend,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-11-24 05:49:00,"```On ROSE rewards in Predictoor DF
+Duration: Runs 4 DF rounds - DF62, DF63, DF64, DF65. Limited time!```
+
+Is this the last week for ROSE rewards?",,,0.68
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-11-24 07:26:00,"I think we're ending our second week.
+Two more weeks to go!",,😁 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-11-25 05:37:00,"Hi, I have been claiming several times on the same address and doenst do the payput, always shows the same amount of slots. wondering if everything is fine? it has been working flawlessly since the beggining",,,0.3818
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-11-25 05:37:00,i was trying to hceck if maybe after the change of DF the addrese changed,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-11-25 06:21:00,My rewards from 8-9 hours ago are stuck; I can't claim them.,,,0.2732
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],578680943926050826,probert_,2023-11-25 06:24:00,"how does it work, https://www.predictoor.ai/ where can i see the prediction for the crypto? Thanks",,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-11-25 06:25:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-11-25 08:06:00,@Nick | Ocean Protocol,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-25 18:03:00,We are inspecting the issue and will announce as soon as it's fixed,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-25 18:04:00,"You can only see the prediction for BTC-USDT pair for free, for the other pairs you have to purchase a subscription in order to see the prediction",,,0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-11-25 18:24:00,"hi, should we stop the predictions until the issue is solved? are you going to pause the rewards?",,,0.5204
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-25 18:37:00,"No, everything it's working fine, you should continue sending predictions. 
+There was a problem on our end submitting the trueVal for the past few slots but it's up again and as soon as values are sent for the past slots where they were messing you should be able to get your payouts. It should take around 2h.",,✅ (1),0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-26 18:36:00,"Hey guys, do i need to transfer OCEAN to sapphire mainnet via celer? Or can i keep them in my metamask if i want to use mainnet",,,0.0772
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-11-26 18:37:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-11-26 20:23:00,"if my stake is higher, do we get higher rewards if our predictions are accurate?",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-27 15:54:00,You can use Celer to bridge OCEAN tokens from Ethereum main network to Sapphire main network and the other way around,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-27 15:56:00,"Yes, the rewards from slashed prediction stakes and purchases are distributed to the right predictions based on staked amounts, higher the stake the more rewards you should receive",,,0.7906
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-11-29 20:26:00,"It seems that there are problems with Sapphire Mainnet right now...
+@Norbert | Ocean Could you please approve that the issue is not on my side?",,,-0.1027
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-11-29 20:29:00,Yes. There is the Eden upgrade taking place on the Sapphire network right now and the network is going to be down for a few hours,,👍 (1),0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-01 01:09:00,"subgraph seems out of sync for a few hours, did you guys change the address of the subgraph or something?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-01 01:45:00,I'm encountering the same error.,,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-01 07:46:00,"While running on mainnet, im paying gas in ROSE for my transactions but my OCEAN is not decreasing. My transactions appear to submit correctly. I have a stake of 0.1 - Any reason why?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1080208073580359792,ba777offical,2023-12-01 14:08:00,Hello do you need help on that?,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-12-01 16:02:00,"I'm also observing the error when try to do payouts since yesterday: Subgraph is out of sync, trying again in 5 seconds.
+I think it's also a reason why on the main page showing so small overall stakes.",,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-01 16:24:00,"now the subgraph is synced but again the slots are not being payed out, probably another trueVal submitting problem?",,,-0.5499
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1080208073580359792,ba777offical,2023-12-01 16:52:00,Hello,,👋 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-12-01 16:54:00,"Yes, the same for me.. subgraph synced, payouts made without interruption and successfully according to the sapphire explorer but without the real payments, so when I try to run it again I see the same (or more if predicted) number of slots for payouts.",,,0.3478
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-01 17:12:00,Subgraph is now up to date but df-trueval has to catch up and submit the true value for the slots where subgraph was out of sync,,✅ (3),0.7783
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-01 19:01:00,"it worked for a around 1 hour and a half and now its back to syncing , also when i query get_predictoor_info to see some historical payputs it returns an empty list, which was working fine before",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-01 19:01:00,maybe its indexing again?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-01 19:28:00,Out of sync again,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-01 19:31:00,There is a new fix released for Subgraph to fix the trueval issue and it needs to reindex the events. It should take a few hours to sync again and hopefully this will fix the trueval issues.,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-01 23:43:00,subgraph should be in sync in about 10-15 mins.  and then trueval is going to catch up slowly,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-01 23:49:00,it just synced like one second ago,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-02 00:03:00,"yes, it's synced now",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-02 00:05:00,do you mind if I dm you to ask you a few questions=,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-02 00:05:00,"no, go ahead",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],712297521891770418,florez_alberto,2023-12-02 00:05:00,thanks,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2023-12-02 01:03:00,"Judging by the fact that I received payments for ADA/USDT pair and looking at the overall stakes on predictor.ai I think now everything working correctly for this pair only. 
+It is first in alphabetically sorting so I think we should wait some time and everything will be working. Maybe BNB/USDT is the next)",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-02 04:24:00,"Synced, but still can’t claim rewards,",,,0.631
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-02 04:25:00,Is the difficulty in claiming rewards related to subgraph syncing or other issues?,,,0.1779
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-02 15:07:00,It was related to pdr-trueval which submits the true value to each slot so it can be determined who predicted right and who not. By now all values should be submitted and you should be able to claim your rewards,,👍 (1),0.9081
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-03 08:46:00,Anyone knows what I can do about light block verification failed: epoch number mismatch?,,,-0.7096
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-12-03 19:12:00,I am also getting this often,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-04 17:46:00,"Is this on the contract side, are you seeing it inside the block explorer?",,,-0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-04 17:58:00,How do i see that?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-04 18:06:00,you can look at the Oasis Sapphire block explorer and search for you wallet address and look at the tx history,,,-0.1027
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-04 18:08:00,i get this error Error: (Awaiting internal transactions for reason),,,-0.6597
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-04 18:26:00,"Could you check this explorer, should give you more information:
+https://explorer.oasis.io/mainnet/sapphire",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-04 18:27:00,"Aha, thank you so much it says it was too late to submit",,👍 (3),0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-05 09:18:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-05 21:08:00,"Hello Predictors, Good news! 
+You can now swap OCEAN and ROSE tokens on Sapphire using Lizard exchange.
+Check out the latest tweet for more informations: https://x.com/oceanprotocol/status/1732019903878607349?s=20",,❤️ (1),0.4926
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-06 02:02:00,"Hey guys, if i create predictions today, do i need to wait a day in order to evaluate them?",,,0.2732
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-06 16:22:00,"Hey, what do you more specifically mean by evaluating them?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-06 16:27:00,"Hey, I mean running the script get_predictoor_info, it gives me no predictions found even though I have made predictions on the blockchain",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-06 16:37:00,"Ah, got it! Only the data for the slots that you already claimed your rewards from are available. So If you don't claim for 1 day, the data for that day is not going to be visible.",,,0.5255
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-06 16:39:00,"Ah interesting, so I need to do roseclaim every day?",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-06 16:40:00,"no, not `roseclaim`, you have to call the `payout` method",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-06 16:44:00,"Okay perfect, thank you! And if I miss a day my payout will be lost or can i still claim payouts from last week for instance",,,0.6696
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-06 16:55:00,"They won't be lost, but in order to have you activity visible for calculating for example your rose rewards, or other data we recomand to claim more often than weekly 🙂",,,0.6839
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-06 19:13:00,"Okay awesome thank you! Also, right now i keep getting subgraph is out of sync do I just wait or is there a misconfiguration?",,,0.8313
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-06 19:40:00,"there is an issues on the subgraph side, just wait for that to get synched again",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-06 20:00:00,it will be back online in about 20 mins.   trueval is already catching up,,👍 (2),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-06 20:28:00,all good now,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-06 22:13:00,"Awesome thanks! By the way, is the profit basically payout-stake?",,,0.8805
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-06 22:48:00,"Yes, the script doesn't show the profit but you can basically get that from the displayed payout - stake values. Obviously tx fees are not included in that.",,,0.7874
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-07 21:25:00,"Thank you so much - also,  with regards to the challenge how does this work with rewards? I suppose I need to use roseclaim command but when i run it im getting ""AttributeError: 'Web3Config' object has no attribute 'eth'""",,,0.0387
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-07 21:26:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-07 23:14:00,what challenge are you referring to?,,,0.0772
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-07 23:45:00,"The data challenge for predictoor, but I saw you guys made a blog post today. Do you know about this roseclaim error that I mentioned?",,,-0.5267
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-08 00:29:00,"Yes, Challenge-DF has ended, as mentioned in the Weekly DF blogpost.
+Are you running the command on macOS? I might have encountered that before on that operating system.",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-08 00:32:00,Yes im running it on macos indeed - Challenge-DF has ended? Oh i thought it was extended too till january 4,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-08 00:38:00,"I think you are referring to ROSE rewards, those were extended till January 4",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-08 02:54:00,"Yesss I meant those, so until then 100k in ROSE is still distributed correct or not? And all this for making predictions using Predictoor?",,"✅ (1),👍 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-12-08 03:06:00,"Hello, 
+I found a link in the documentation on how to run bots that is not working",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1023969691548528700,wanderclyffex,2023-12-08 11:56:00,"Hello @Amaya 👋🏻
+
+Can you please put that broken link here ?",,👋 (1),-0.2023
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-12-08 15:09:00,https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/install.md,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-08 15:59:00,Could you tell where exactly do you found this in our documentation? I was trying to identify it but couldn't.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-12-08 16:04:00,https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/remotebot.md#install-bot,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-08 16:14:00,"Ok, I see. That should just link to the Install Bot section from within the same readme, so you can just manually scroll down to that for now. I will create an issues for this.",,❤️ (1),0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-12-08 16:16:00,thank you,,👍 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-08 16:29:00,thanks for pointing this out!,,❤️ (1),0.4926
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1063861683371647077,.phucson,2023-12-09 11:22:00,"Error: client: transaction check failed: runtime error: module: core code: 4 message: invalid nonce, what is this error? i cant buy a predictoor",,,-0.886
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-09 14:05:00,try again after a couple of minutes. it's usually a sapphire rpc issue,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],585812741202116608,denkcryptoo12,2023-12-09 16:56:00,"Proposal by Oceaner in telegram chat : 
+We were just now wtalking in unoffocial about the increase in consume volume on the Ocean Market from the predictoor feeds. Most of this is obviously coming from the Ocean Automated Buyer/farming reward function, but we were wondering if there is a way to track ""real"" buyers. If that number increases it would mean that using predictoor at current accuracy is profitable. This, I think, would be a very useful metric",,,0.9116
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-09 20:16:00,"With the Dockerfile, do we need to fill in everything ourselves? Because it seems the entrypoint can not recognize the pdr_backend",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-10 04:48:00,Any insights into why the subgraph has been frequently out of sync recently?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-10 04:48:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-10 13:38:00,rpc issues 😦,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],796305119611322388,harripicks,2023-12-10 16:47:00,I’m a complete newbie… where should I start?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-11 02:17:00,I suggest starting with the blogpost and docs and then follow the steps from pdr-backend project on how to run your own predictoor bot,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-11 14:30:00,I'm wanting to take the Predictoor journey. Is it worth it? 🤔,,,0.2263
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-11 14:31:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-11 16:09:00,"I think that's what all of us want to make it, in the end it is a team effort 😀",,,0.0772
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-11 16:38:00,"Yes that could be calculated, but the number of people buying the feed it isn't a metric that clearly reflects profitability. In theory if you have accuracy over 50% you should be profitable, but there are a lot of variables when trading(fees, liquidity, volatility etc). There might be people that buy the same feed but some can make it profitable and others can't.
+In the end 1 people being profitable is enough to demonstrate the profitability, others just have to apply the same strategy.",,,0.9457
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],691179216703717385,ultraviolet4453,2023-12-11 19:46:00,"I agree with this, however couldnt it be argued that an increase in feed buyers would be an indirect measurement of profitability, because if you arent profitable, you dont keep buying feeds?
+The accuracy above 50% doesn't take into account two things: 1: trading fees, 2: if the trading bot itself will have an impact on the market that negatively is related to profitability. Say the fact that you buy BTC for 2000$ triggers another bot to sell 3000$ BTC, making your trade negative after the 5 minute mark. @Norbert | Ocean",,,0.4596
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-11 20:09:00,"Sure, in the end for Predictoor to be sustainable by it's own we need buys because those are the main factor that makes the Predictoors profitable.
+My point was that If you don't see buys it doesn't really mean that the trading is not profitable, but maybe people did not find the right strategy yet, or didn't even search.
+I agree there are a lot of factors on the trading end that the accuracy doesn't take in consideration, but those are strictly related to your trading strategy.",,,0.2228
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],691179216703717385,ultraviolet4453,2023-12-11 20:51:00,"Yes, lack of buys wouldn't mean that trading wasn't profitable, but it would mean that no-one was profiting from trading. That is the end point I think is interesting to follow. Do you think that it would be a useful metric?  With regards to trading strategy: the fact the there are return customers would mean that there are profitable strategies in a live environment, which in my opinion, is a stronger end point than the theoretical profitability you can calculate from accuracy, trading fees and starting capital.",,👍 (1),0.9222
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],691179216703717385,ultraviolet4453,2023-12-11 20:53:00,"If we can say that month 1 had 10 predictions feed buys, month 2 had 20, month 3 had 100 buys etc, that would help show how useful the whole predictoor.ai platform is. This is my thinking anyway.",,,0.6808
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-11 22:43:00,"Yes, I agree with you that the metric can be useful both for seeing that trading the prediction feed is profitable and that the system is gaining traction.",,❤️ (1),0.9153
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-13 23:40:00,"Hey!
+I have been working a bit on the pdr-backend package to make predictions and I have a question about prediction at t+1 (let's say 1h to make the question clearer). From what I see, the data_factory.py creates a csv file where the last row is my coin data at t-1 (h-1). As I need to predict t+1 60 sec ahead of t, should I modify the file to pull data at t-60sec and extrapolate the data of my coin at t from the data I pulled a few secs ago? 
+Just want to make sure my logic is correct 🙂",,👀 (1),0.6114
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-14 18:45:00,Are we paying OCEAN fees? Because I thought it was only ROSE. Since my payout > stake but i seem to lose money,,,-0.5499
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2023-12-14 20:15:00,"@Norbert | Ocean, Hello! Does the team plan to add new feeds to the predictoor? )",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-14 20:15:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-14 20:17:00,"No, just ROSE tokens",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-14 20:18:00,"More feeds could be added if needed, but we don't have anything planned in the close future",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-14 20:22:00,"Hmm okay, since my payout > stake, could it be that I need to wait for predictions to process in the subgraph or something? And that there are some payments on hold?",,,0.3094
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-14 20:34:00,Does the payout script tells you that there are unclaimed slots?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-14 20:39:00,No it doesn't,,🤔 (1),-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-14 23:39:00,Started a thread.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-15 00:33:00,"Hi Damien,
+
+Our base models are currently simple. Only using linear regression, and a single timeframe that you specify... such as 1h timeframe.
+
+**[Overview of how slots/epochs work]**
+In this case, we're trying to predict the price at t+1, our dataframe/xY will look like this (1 hour slots/epochs).
+```
+timestamp  price
+00:00:00  1000
+00:01:00  1005.?? < this is happening now, so the 1h candle hasn't closed yet
+00:02:00  t+1 < what we're predicting for
+```
+
+This means that 5m, 15m, and 30m data is not included in the model building.
+**This also means that we can't wait for 00:01:00 to close, because we need to submit the prediction for 00:02:00 before the candle closes.**
+
+The best thing you could do here without a lot of work, is to submit predictions for t+1 right before the candle closes, using the current (00:01:00) price.
+
+**predictoor_agent3.py is already implemented to do this.** => https://discord.com/channels/612953348487905282/1184520151912165496/1184895704196468888",,,0.7941
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-15 18:03:00,"Tx @Idiom | Ocean Protocol for the reply. Actually my question is more: is the current price before the candle closes added to hist_df? I am not sure this is the case. I have just run the main.py file to inspect hist_df variable with a 5mn timeframe (to reach the end of the epoch faster). 
+
+Here is the message for the end of the epoch: 
+```Take_step() begin.
+  block_number=3937933, prev=3937932
+  Got new block. Timestamp=1702633144
+    Process [Feed 0xda1e3 BTC/USDT|binance|5m] at epoch=5675443
+      56 s left in epoch (predict if <= 60 s left)
+      Predict for time slot = 1702633500...```
+It's 9h39 and I want to predict 9h45. 
+
+When I inspect hist_df, the last available timestamp  is `1702632900000` (9h35)
+which means that the data_factory.py doesn't fetch the current value at 9h39 unless I am wrong? But maybe this is what you meant and that you suggested to modify the data_factory.py file to add the current price right before the candle closes. Can you confirm please? Thx upfront for the clarification 🙏
+EDIT: I assumed the last timestamp in hist_df corresponded to the closing time of the candle. But this is wrong... This is why I got confused 🙂 The close column of the last row gives me the current price then 👍",,,0.4514
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-17 02:55:00,"Hey guys, If i make a prediction that is too late for submission do i lose the stake?",,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-17 02:55:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-17 02:58:00,Are there other ways to lose OCEAN besides losing predictions? Because I have been thinking and figuring out but i should be in profit even though my balance is only decreasing,,,0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1178432057010040865,smartvic771,2023-12-17 07:51:00,@dusty have you get this solved?,,,0.3346
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-17 13:19:00,"Hi Damien, we're in the middle of re-writing a bunch of stuff, pardon me.
+
+I think you're right that the current price is not included in hist_df because the candle hasn't closed yet, so it will not be included.
+
+If you wanted to inject more granular candle data, (but this adds a lot of records, and increases the number of dimensions of your model making it more costly to train/etc...) is to create a dataframe that is composed of 1m + 5m data... whether this improves the performance of the model significantly or not... well, that's part of the exploratory work.
+
+To exemplify this, here is a pseudo df where your implementation would consist of 11 columns:
+- 1 for timestamp
+- 5 for ohlcv 1m
+- 5 for ohlcv 5m
+
+this way, you can a more complete representation of price in a dataframe
+```
+ts | ohlcv_1m_btc_binance | ohlcv_5m_btc_binance
+1 | 1000 | 1000
+2 | 1001 | 1000
+3 | 1002 | 1000
+4 | 1001 | 1000
+5 | 1001 | 1000 << 5m candle closes here
+6 | 1002 | 1001 << 5m columns would then start using the last 5m ohlcv candle, while 1m columns continue using historical 1m ohlcv candles
+```
+
+You are now in the realm of improving model performance, and there are 100 things you can work towards to improving it. Rather than us guessing, there is a lot of literature on the subject. One of the best resources on it today is the book: ""Advances in Financial Machine Learning 1st Edition by Marcos Lopez de Prado"". I also recommend searching the web as there are many resources and libraries that build upon it.
+
+LMK if you have more questions.",,🙏 (1),0.9621
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-17 13:26:00,"Consider the following 5m epochs
+```
+t0 < we are here
+t1 < next epoch
+t2 < epoch we're predicting for
+```
+
+Your submissions will be made for epoch t2.
+Once t0 closes, you will be unable to submit predictions for t2, as you'll now be submitting a prediction for t3.
+
+```
+Are there other ways to lose OCEAN besides losing predictions? Because I have been thinking and figuring out but i should be in profit even though my balance is only decreasing
+```
+
+Not quite... but it's important to understand the details... (as laid out in the docs/blogpost linked  by AwesomeQA)
+
+If you predict with 0.5 OCEAN, while others are predicting with 0.1 OCEAN, if you lose, you lose your whole stake... not 0.1.
+So, it's important to get a measure for how others are staking such that you're taking the right amount of risk.
+
+We're working towards building more tooling around this such that it's easier for predictoors to monitor and improve their stake. TBD.",,,0.5267
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-17 17:54:00,"Actually, I think it is (as per my edit at the end of my previous message). The close column of the last row in hist_df corresponds to the current. I realized it after calling ccxt api multiple times in a row: the close and volume columns got updated everytime with the live data. 
+
+As the rest of your post, I don't necessarily want to inject more granular data at this point. Instead, I want to make sure I get the best approximation of the coin price at t. I have already trained a deep learning model that I would like to leverage on this project.
+
+I also have two additional questions in the implementation process: 
+- at the moment, the base_predictoor_agent.py run several predictions within the last 60 sec. I slightly modified  the prediction_agent3.py to load my trained model from the cloud instead of doing a full training. This goes much faster. The downside is it triggers the predictions several times... Correct me if I am wrong but I guess I should adjust the base_predictoor_agent.py to avoid this scenario as I don't want to stake several times.
+- It looks like my predictions are not properly saved on my wallet (`total_predictions`  is always 0 when executing the get_predictoor_info.py file). My arguments seem correct though. Do you have any clue on how to troubleshooti it? 
+Thanks again for your help!",,,0.5406
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-17 22:47:00,"1. Good, the latest prices are included.
+2. The model/system we're building is designed to re-train/build/predict on the fly. Please be mindful of this as training/deploying something on the cloud (or even locally) will change the behavior we're designing for.
+
+This will evolve in the future... I.e. build/cache/re-use model for 10 epochs.
+
+As you probably know, trained models can drift in performance, and managing ML models is a practice on its own.
+
+3. The predictor agent has been designed to make multiple submissions in the last 60s.
+
+Why?
+- each prediction will have different data as p1 will have the latest_price up to the last 60s. Then p2 will be up to the last 30s. Finally p3 might have most of the last candle data, up-to-the very end of the epoch.
+
+Look at pdr_trader for how to cache/check if you've already submitted a prediction for an epoch if you only want to submit once... Again, please be mindful of the example I gave above as to why we do this as the default behavior.
+
+4. Make sure that your bot submitted something first, then run the script against the right network and that your start/end times look good.
+
+If you are still having issues, try running this subgraph query in our sapphire subgraph directly to see if you can find any of the predictions you have submitted for in the past: https://github.com/oceanprotocol/pdr-backend/blob/5c1a67796c680c610111cd238005f639d298d5f3/pdr_backend/util/subgraph_predictions.py#L23
+
+Again, double check that you are running the query against the right subgraph (testnet vs. mainnet)",,,0.9001
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-18 06:34:00,"1. tx for confirming 👍 
+
+2. yes, I am aware of what it involves. I have trained a deep learning model and training it can take some time (+ 60 sec). Thus, I prefer managing the retraining process separately from the prediction. 
+
+3. Great! I don't change anything to the curent logic then. Thx for the clarification 🙏 
+
+4. It is strange... The bot shows a success message as attached. However, I can't find any projection when querying the subgraph. Here are the arguments I passed to my function: 
+`fetch_filtered_predictions(1700236113, 1702831718, [""0x085431d3316c8FBBe2491136b0e3c7842cC32166""], ""testnet"", FilterMode.CONTRACT)`
+I assume I do something wrong when submitting prediction but I don't see what... :/",https://cdn.discordapp.com/attachments/1151066755796574389/1186073927890509864/image.png?ex=65e4faec&is=65d285ec&hm=44aa6c9b1e8b9a0f7e037306cc22abe53b2ddc22ad8915da8ff58ac5c5451a18&,,0.8018
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-18 09:14:00,"4. You're almost there...
+
+The problem is that function fetch_filtered_predictions has multiple filter types.
+ FilterMode.CONTRACT ==> pass in the [contract, addresses] to find the predictions broken down by contract (i.e. BTC-5m)
+FilterMode.PREDICTOOR ==> pass in the wallet id [wallet1, wallet2] to find the predictions broken down by address
+
+So, just change the last parameter and I think it will work.",,,-0.8242
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-18 17:23:00,"Great, now the query works! Thanks 😉 
+The `payout` column is always None though :/ Any idea why?",,,0.8529
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-18 21:22:00,Subgraph out of sync?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-18 21:22:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-18 21:23:00,Any idea?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-18 22:31:00,"Pinged internally, I'm on my day off... Will update when I know more.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-18 22:32:00,Payouts show up when you get the prediction right AND you claim it.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1186303573978529922,korizhave,2023-12-18 22:35:00,hi,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1186303573978529922,korizhave,2023-12-18 22:35:00,any one there?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1186303573978529922,korizhave,2023-12-18 22:36:00,@blockchainlugano  please ban this fake id,,,-0.6597
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1186303573978529922,korizhave,2023-12-18 22:36:00,why you fdelete?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1186303573978529922,korizhave,2023-12-18 22:37:00,scammers,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],717363377269244015,blockchainlugano,2023-12-18 22:57:00,"didn't see it, don't have reference, maybe was kicked but thanks!",,👍 (1),0.63
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-18 23:18:00,Fixed! I was able to successfully call the get_predictoor_info function as well 💪 . Thanks for the assistance 🙏,,🙌 (1),0.8172
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-19 00:53:00,Awesome! LMK if you have any more questions.,,🙏 (1),0.6588
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-19 02:59:00,"**[Subgraph Stability]**
+Hi EM, ubgraph hasn't been the most stable due to a range of issues that we're actively iterating and monitoring.
+When this happens, it should come back up in a short period of time (I.e 1-3 mins).",,,0.5849
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-19 03:53:00,"Thank you! One more question 
+Raise exception (“couldn’t get block”) from e exception: couldn’t get block
+
+What does this mean?",,,-0.1759
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-19 03:53:00,How can I fix this?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1182101629202354266,brayn0767,2023-12-19 04:59:00,You try refresh on your node dapps?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-19 05:01:00,"I think this exception is being thrown due to sapphire RPC... I'll reach out to them about this.
+
+If you want your system to keep running rather than throw an exception, you'd hve to change the `raise Exceiption(""couldnt get block"")` to be handled in such a way that the code keeps running.
+
+I'll look at the answer and see how to approach this, perhaps there is a better way for us to handle this.",,,0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-19 05:07:00,"@EM There should be an error message right before seeing this exception:
+```print(f""An error occured while getting block, error: {e}"")```
+
+1. Could you please get this error message, and take a screen shot or copy + paste the output in here? This information could prove useful.",,,-0.8176
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-19 09:34:00,"Hey guys, i noticed I am losing OCEAN for some reason even though i havent touched my bots. My ocean is being pulled into the some address of OCEAN protocol. https://explorer.sapphire.oasis.io/tx/0x46835ecd6716d3b9cb5f162d12d31d3151c0c33c6310d3ac668efa76cb75b875/token-transfers Can someone look at this? Otherwise it seems quite unreliable
+
+This is the address that is receiving OCEAN for some reason - 0x6Cc4Fe9Ba145AbBc43227b3D4860FA31AFD225CB
+Please if someone could look into it maybe there's something wrong, it seems like this is the address for the websocket but why is there sudden ""TRANSFERs"" happening?",,😋 (1),-0.2047
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-19 09:35:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-19 12:24:00,"I'd like to understand your issue a bit better dusty.
+
+Can you start by providing us with one of your bot/addresses so we can take a look?",,,0.6597
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1178432057010040865,smartvic771,2023-12-19 15:12:00,@dusty I encountered a comparable issue and managed to resolve it by exploring online resources. Inbox me if you'd like to know how I solved it.,,,0.7351
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 15:33:00,spam ^,,,-0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-12-19 17:19:00,"Hello predictoors 🤖
+
+https://autobotocean.com/predictoor
+
+Hope everyone finds this useful and if you have any feedback let us know",,🚀 (2),0.7411
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-19 17:45:00,Good job! I'm sure people are going to find this useful,,,0.8346
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],294623609786204160,AutoBot#1760,2023-12-19 18:02:00,Thank you for helping 🙏,,👍 (1),0.5719
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-19 18:57:00,"Definitely, this is the address 0xCf21a162F8Ff1dc337415e21492340d7C991993D and its basically about these tranfer transactions",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1173318317419794553,brentmarionpsj1473,2023-12-19 19:00:00,Did you got an assistant about this from the group admin yet?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1173318317419794553,brentmarionpsj1473,2023-12-19 19:00:00,@dusty,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-19 19:10:00,"Hi, are you saying that your tokens are getting transferred to that address without your permission?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-19 19:10:00,Exactly that is what i mean,,👀 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1173318317419794553,brentmarionpsj1473,2023-12-19 19:11:00,Perfect 👍,,,0.5719
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-19 19:38:00,Like you have no idea? This transfer is going to the OCEAN websocket which is that address,,,0.0772
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-19 19:38:00,It keeps recurring,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:02:00,pls stop running top-up.py,,,-0.2263
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:02:00,why are you running that script?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:03:00,@dusty ^,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:10:00,"that script is designed to send tokens to a list of predefined addresses, when their balance is under a threshold.   We (OPF) are using it to keep up our predictoors loaded with Ocean and Rose",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:10:00,"but since you are running it as well, every time websocket balance drops under 20, and you are running the script before us,  will send 20 tokens to websocket",,,0.3919
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:11:00,(and ROSE if needed),,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-19 20:44:00,No way 😂 ahh omg thanks for letting me know,,👍 (1),0.1779
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 20:58:00,"I will try to get a list with all transfers and reimburse you later today... I think it's 40 OCEAN so far, right ?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-19 21:01:00,"looks like only:
+ - https://explorer.sapphire.oasis.io/tx/0xf273e02b575317c01b1ce0f4bead38068d0c1750d0dde8776ef02f33edbee5ba/token-transfers
+ - https://explorer.sapphire.oasis.io/tx/0x46835ecd6716d3b9cb5f162d12d31d3151c0c33c6310d3ac668efa76cb75b875/token-transfers",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],228526662176866304,dusty2791,2023-12-20 08:32:00,That would be amazing! Yes its only those,,,0.7777
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-20 16:21:00,"Hello, 
+
+I am trying to deploy my bot on a cloud run service. I managed to start the predictoor agent and I can see the logs running properly. However, after a few minutes (there is a 240s timeout actually), the service crashes and I get the following: 
+`Default STARTUP TCP probe failed 1 time consecutively for container ""pdr-backend-my-predictooratest-1"" on port 8080. The instance was not started.`
+
+Is it something you have already encountered? I am not really familiar with probe's settings in cloud run...
+
+**EDIT: ** Fixed. I was blocked by the constraint of having a http server with Cloud Run Services. Since Nov 23 and the release of Cloud Run Jobs, it seems it's now possible to run background worker without the need of  a http server. 
+
+**Issue with running local image with M1: **
+I was not able to run the image locally on my mac (M1) because I get the following error when installing sapphire.py and loading the wrapper
+```File ""/usr/local/lib/python3.8/site-packages/sapphirepy/wrapper.py"", line 32, in <module>
+raise Exception(f""Unsupported architecture: {architecture}"")
+Exception: Unsupported architecture: aarch64```
+
+Isn't it weird as arm64 and aarch64 are the same thing? I am wondering if there is not a condition missing here in the wrapper file? 🤔 
+`elif architecture == ""arm64""`",,,-0.8374
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-20 23:32:00,"The job crashed because Binance is restricted in my geo 😦 
+I guess the fact that my cloud run instance is in EU is not sufficient?",,,-0.3818
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-21 00:04:00,"Hi Damien, I believe i was using GCP `europe-west4` and it was working
+So yes, your GEO may impact what you can access.
+
+I can't recommend one thing over another, you need to decide for yourself.",,,0.2223
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-21 00:09:00,"The sapphire.py package lives here => https://github.com/oceanprotocol/sapphire.py
+Here is what you're after => https://github.com/oceanprotocol/sapphire.py/blob/main/sapphirepy/wrapper.py
+
+At some point, you might be outside of happy-path, or into oasis-sapphire country.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-21 00:19:00,Thanks! My repo + cloud run locations  was in  `europe-west1`. Let me try `europe-west4` then.,,,0.4926
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-21 00:27:00,"This issue was not correlated to the Cloud run deployment but more when I tried to run the image locally on my M1. In the wrapper.py, in my case, architecture=aarch64 (which is the same thing as arm64 unless I am wrong)? But as aarch64 is not used in the conditions, this triggers the error. I was just wondering if there was a reason not to include aarch64 in the conditions.  
+
+This is not blocking as I am intending to run the bot remotely through Cloud Run 😉",,,-0.196
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-21 01:17:00,"Just tried `europe-west4` and got the same restriction error message 😢 . Which workaround do you usually use in this case?
+Were you using GCP as well?",,,-0.4696
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-21 03:47:00,"I might have just used binance-us API to predict binance (or vice versa).
+
+I haven't touched it in a couple of weeks and took down my infra. It's possible that I was on a different AZ... I honestly don't remember the solution I had employed.
+
+But... a VPN would work. There are other hosting solutions I know work. There are other AZs that I imagine would work too.
+
+However, I can't recommend that you use something that break a ToS.",,,0.1601
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-21 03:58:00,"I didn't implement that part and I'm not familiar with how the sapphire go/c libs are being compiled... So I don't know where things will go wrong...
+
+But, if arm64 is the happy path and I can easily modify the architecture, I typically follow the happy path.
+
+You can always play with the drivers after having things up and running, and once you have figured out how to isolate sapphirepy component/hook into the stack.",,,0.9442
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 12:40:00,"Hey everyone 
+
+Wanting to start learning predictoor. I am on Ocean Protocol you tube channel right now looking at the ocean predictoor  playlist.
+
+Is this the best way to learn to operate predictoor?",,,0.6369
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-21 12:41:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 12:43:00,@awesomeQA link please ?,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-21 12:43:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 12:44:00,@awesomeQA can you provide the Predictoor GitHub url ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-21 12:44:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 12:48:00,@awesomeQA  what's the difference between predictoor Bot vs dynamic model predictoor on github ?,,,0.3818
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-21 12:48:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 12:54:00,"@awesomeQA  okay, so predictoor bot is for those looking to predict prices and dynamic model predictoor is for trading ?",,,0.5423
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-21 12:54:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 13:10:00,"Hey team,  I'm really going to need some kickstart help at the basic level from install pdr-backend ... run local network (barge)",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 14:19:00,"Install docker engine 
+
+Install docker desktop on Linux 
+
+Platform Ubuntu",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-21 14:42:00,Anyone looking for paid work to help set this up?,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-21 16:11:00,"I found out a solution with a VPC network. (the full solution architecture is a bit more complex and described in the link below if that can interest others). 
+But, the cloud run job doesn't fit here as it's done for finite jobs only. If I want to keep using GCP (and cloud run services), looks like I have to add an API server so my service handles http requests.    
+- https://github.com/GoogleCloudPlatform/community/blob/master/archived/serverless-static-ip/index.md",,,0.6525
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2023-12-21 18:50:00,"Hello, good to have you onboard!
+I suggest starting from our docs, then going trough blogposts and finally run the bot following the steps from within pdr-backend repo.
+https://docs.oceanprotocol.com/predictoor",,✌🏽 (1),0.4926
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2023-12-22 05:18:00,I'm good👍,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2023-12-22 06:03:00,this is spam ^,,,-0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1159297572259770388,sat_1009,2023-12-23 00:00:00,"hi @Alex | OceanProtocol 
+would you check my dm?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],961181510357123092,abdulmazid_,2023-12-23 09:56:00,@awesomeQA  how to use predicator?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-23 09:56:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 01:17:00,"Why do I keep getting so many errors, and is there a way to fix it?
+
+Error: (Awaiting internal transactions for reason)",,,-0.6573
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 01:18:00,"At times, I encounter four or five errors in a row.",,,-0.34
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 01:19:00,Scammer @pencil911,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 01:46:00,"Hi EM,
+
+Based on the description it sounds related to the Oasis RPC when trying to sign a TX to submit a prediction.
+
+Does the bot keep running and eventually resumes submitting predictions?",,,0.4995
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 01:48:00,"Damien, it sounds like you were able to resolve your architecture and get it running?
+
+If this is the case, awesome work!",,,0.8588
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 01:49:00,"I appreciate your response, It occurs more frequently when the bot predicts multiple pairs; only one of them successfully submits, while the others return the error.",,,0.4939
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 02:03:00,"You are probably trying to run multiple predictoors with the same wallet address.
+
+This will cause a conflict as they race to sign txs.
+
+We provided an example of how to run predictoor bots using PM2.
+
+This enables you to configure different wallet addresses for each pair,  such that they don't overlap each other and avoids these problems.",,,-0.5574
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 02:06:00,"I use PM2, and I do it like this:
+Pair_filter:”BTC/USDT,ETH/USDT…”",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 02:06:00,"Instead... Use pm2, but multiple entries...",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 02:06:00,1 sec...,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 02:07:00,This is not right?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 02:08:00,"module.exports = {
+  apps : [{
+    name   : ""pm2-mainnet-btc-5m"",
+    script : ""./pdr_backend/predictoor/main.py"",
+    args : ""3"",
+    env: {
+      PRIVATE_KEY : ""<YOUR_PRIVATE_KEY_1>"",
+      ADDRESS_FILE : ""${HOME}/.ocean/ocean-contracts/artifacts/address.json"",
+      PAIR_FILTER : ""BTC/USDT"",
+      TIMEFRAME_FILTER : ""5m"",
+      SOURCE_FILTER : ""binance"",
+      RPC_URL : ""https://sapphire.oasis.io"",
+      SUBGRAPH_URL : ""https://v4.subgraph.sapphire-mainnet.oceanprotocol.com/subgraphs/name/oceanprotocol/ocean-subgraph"",
+      STAKE_TOKEN : ""0x39d22B78A7651A76Ffbde2aaAB5FD92666Aca520"",
+      OWNER_ADDRS : ""0x4ac2e51f9b1b0ca9e000dfe6032b24639b172703""
+    }
+  },
+  {
+    name   : ""pm2-mainnet-eth-1h"",
+    script : ""./pdr_backend/predictoor/main.py"",
+    args : ""3"",
+    env: {
+      PRIVATE_KEY : ""<YOUR_PRIVATE_KEY_2>"",
+      ADDRESS_FILE : ""${HOME}/.ocean/ocean-contracts/artifacts/address.json"",
+      PAIR_FILTER : ""ETH/USDT"",
+      TIMEFRAME_FILTER : ""1h"",
+      SOURCE_FILTER : ""binance"",
+      RPC_URL : ""https://sapphire.oasis.io"",
+      SUBGRAPH_URL : ""https://v4.subgraph.sapphire-mainnet.oceanprotocol.com/subgraphs/name/oceanprotocol/ocean-subgraph"",
+      STAKE_TOKEN : ""0x39d22B78A7651A76Ffbde2aaAB5FD92666Aca520"",
+      OWNER_ADDRS : ""0x4ac2e51f9b1b0ca9e000dfe6032b24639b172703""
+    }
+  }]
+}",,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 02:09:00,"rather than have 1 app w/ 10 predictoors,
+have 10 apps, each one running against 1 feed",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 02:11:00,"You can also do what you're doing, but the bot will...
+1st, try to submit a prediction for BTC
+2nd, try to submit a prediction for ETH
+3rd, try to submit a prediction for DOGE
+
+Because the bot starts submitting predictions 60s before the deadline, by the 4th prediction (example... ADA/USDT), you'll run out of time and won't be able to submit to other feeds",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 02:13:00,"Thank you for your help, I’ll try it 🙂",,,0.6369
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-25 02:15:00,Will it work if I predict only two pairs? I assume predicting two pairs should be possible within the 60-second timeframe.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-25 05:36:00,It should. I think you'll also need to be predicting the same timeframe. (I.e. 5m),,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-25 22:37:00,"Hi @Idiom | Ocean Protocol 
+No, unfortunately 😢 . But tx for following up 😉 
+I am still stuck with the deployment to Cloud Run and the start-up probe issue. I created an endpoint to satisfy the need to listen to a port (when called the endpoint triggers the main.py file). With this solution the start-up probe issue is solved but I don't manage to run the main.py file inside my endpoint. I don't get why because the solution works locally... I am not a devops guy but I don't know if cloud run is a suitable solution to deploy the docker image - not sure the cloud run service is designed for an endless background job. When I have time I will explore other architecture solutions (other than cloud run).
+If you have another workaround in mind, feel free to share! As main part of the doc refers to Azure, I may consider it if I can't deploy on GCP.",,,0.9778
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-26 05:12:00,"Thanks, btw, Is there an extension planned for the Rose reward?
+As far as I'm aware, it's scheduled to run until January 4th.",,,0.765
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-26 05:13:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-26 06:49:00,"I got some bots up and running yesterday with our latest code and was preparing a video.
+
+I'll share something soon.",,🔥 (3),0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-26 07:06:00,"I don't actually know.
+
+We always provide announcements following the dates. Please keep an eye out for updates.",,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2023-12-26 09:15:00,"All of a sudden, my bots are causing losses, and I'm puzzled about how this is happening. I'm consistently losing on all the predictions. Am I doing anything wrong?",,,-0.8442
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2023-12-26 22:34:00,That would be awesome! Thx upfront,,,0.784
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1135591643983138947,kazami9029.,2023-12-27 04:30:00,🤣,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955954616749658162,anti_devil,2023-12-27 04:31:00,Can I send a screenshot here,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],960581948735115314,nimcy_123,2023-12-27 04:32:00,Yes,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1135591643983138947,kazami9029.,2023-12-27 04:33:00,Yes,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955954616749658162,anti_devil,2023-12-27 04:33:00,Ohhh thanks,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2023-12-27 06:34:00,"P.s. I'm on holidays and travelling around. When I say soon, I mean when I get a chance. 😅
+
+Easiest way forward for most is to just read the docs.",,,0.7506
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],776621646235959359,dogerton,2023-12-28 23:23:00,do we need full release of oasis saphire in order to get ocean on that chain?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-12-30 00:56:00,"hello,
+what do you mean by full release of oasis sapphire?
+Lizard Exchange has an OCEAN-ROSE pool : https://sapphire.lizard.exchange/swap",,❤️ (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2023-12-30 00:56:00,and you can exchange your rose there for ocean,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2023-12-30 00:56:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1182788082391593012,nftsworld3.0.,2024-01-01 03:42:00,Were you able to figure it out @Amaya,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-02 16:25:00,Happy New Year Predictoors! 🎆,,🎇 (1),0.6114
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2024-01-02 22:01:00,No rush 🙂 I am off / away from my Mac for a few days. Enjoy! (And tx again for helping me on this topic!),,,0.7418
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-03 16:08:00,"Hello, 
+Yes, i was just answering @doger on how to get ocean  on Oasis Sapphire",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-03 16:08:00,Happy new year,,🎆 (2),0.5719
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],776621646235959359,dogerton,2024-01-04 04:52:00,never got ocean on saphire,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-04 04:53:00,do you have rose on sapphire?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-04 15:16:00,"GM Predictoors! This stats are a great way to start the year, good job everyone! 🚀
+https://twitter.com/trentmc0/status/1742705296655757503",,🔥 (5),0.8217
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],723901465487343628,malte3934,2024-01-05 01:16:00,is there a bot for predictoor to connect with binance or uniswap?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 01:36:00,"No, not yet",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 01:44:00,"The good news continues! ROSE rewards are extended until the end of the year with a 20k/week rate thanks to Oasis team generous support 🎉 
+https://twitter.com/oceanprotocol/status/1742940544857460871",,"👍 (2),🔥 (1)",0.9348
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],723901465487343628,malte3934,2024-01-05 17:25:00,what a pitz #,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],723901465487343628,malte3934,2024-01-05 17:25:00,pity 😦,,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 18:09:00,"well, i understand you, but please take into consideration, that the project is quite new and they are constantly working on improving predictoors. 
+and maybe more, i know about the predictoors bots , because i was trying to run one without any technical background and i was constantly watcing their workshops and reading their docs",,,0.802
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 18:10:00,it is really cool though that rose rewards are extended 🔥,,,0.6901
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 18:12:00,even though i'm having some issues claiming my rose 😭,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 18:14:00,it says 'Web3Config' object has no attribute 'eth',,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1138390763823169628,xiscor,2024-01-05 18:34:00,Hello.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 18:45:00,Hi,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 19:23:00,What is the command you are running?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 19:41:00,python3 pdr_backend/predictoor/main.py roseclaim,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 19:41:00,while i have venv active,,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 19:42:00,"and i have claimed before, and my predictoor makes predictions for ETH/USDT 5 min",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 19:46:00,Could you make sure you have all the ENV variables set?,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 20:16:00,"yes, just checked it now and the're all set",,,0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 20:54:00,"does it only happens on claiming rose rewards, or it  occurs on claiming OCEAN rewards as well?",,,0.8074
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 20:56:00,when i run simple payout it works fine,,,0.2023
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:00:00,"Config:
+PredictoorConfig3={N_test=20, Nt=20, max_N_train=5000, model_ss=LIN, private_key=*my private key* rpc_url=https://sapphire.oasis.io, s_until_epoch_end=60, st_timestamp=1643587200000, stake_amount=0.1, subgraph_url=https://v4.subgraph.sapphire-mainnet.oceanprotocol.com/subgraphs/name/oceanprotocol/ocean-subgraph, _abc_impl=<_abc._abc_data object at 0x7f4cd7ad6e00>, owner_addresses=['0x4ac2e51f9b1b0ca9e000dfe6032b24639b172703'], pair_filters=['ETH/USDT'], signals=['close'], source_filter=['binance'], timeframe_filter=['5m'], web3_config=<pdr_backend.util.web3_config.Web3Config object at 0x7f4cfab92fe0> /PredictoorConfig3}
+
+................................................................................
+Feeds (detailed):
+  Feed={address=0x30f1c55e72fe105e4a1fbecdff3145fc14177695, base=ETH, name=ETH/USDT, owner=0x4ac2e51f9b1b0ca9e000dfe6032b24639b172703, pair=ETH/USDT, quote=USDT, seconds_per_epoch=300, seconds_per_subscription=86400, source=binance, symbol=ETH/USDT, timeframe=5m, trueval_submit_timeout=259200 /Feed}",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 21:25:00,Have you changed something in the code? You could try getting the latest changes and reinstall the libraries,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:38:00,"just a few variables like tN_test=20, Nt=20 and the start date",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:39:00,i think i'll start fresh and than try again next week 🙂,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:40:00,"tbh i didn't have any technical knowledge, and setting up the bot was an interesting experience and i learned a lot, but i still have a lot to learn",,,0.2144
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 21:40:00,"It could be some web3 library issue inside you venv then, probably starting a new venv it's going to solve it",,❤️ (1),0.2023
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:41:00,i'll try that. thank you,,👍 (1),0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 21:42:00,let me know if the issue persists,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:59:00,so i set up my venv again and got the same result,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 21:59:00,"(venv) anca@tuf:~/pdr-backend$ python3 pdr_backend/predictoor/main.py roseclaim
+Traceback (most recent call last):
+  File ""/home/anca/pdr-backend/pdr_backend/predictoor/main.py"", line 67, in <module>
+    do_main()
+  File ""/home/anca/pdr-backend/venv/lib/python3.10/site-packages/enforce_typing/decorator.py"", line 29, in wrapper
+    return func(*args, **kwargs)
+  File ""/home/anca/pdr-backend/pdr_backend/predictoor/main.py"", line 57, in do_main
+    do_rose_payout()
+  File ""/home/anca/pdr-backend/pdr_backend/predictoor/payout.py"", line 64, in do_rose_payout
+    if config.web3_config.eth.chain_id != 23294:
+AttributeError: 'Web3Config' object has no attribute 'eth'",,,-0.3595
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-05 22:57:00,could you type  'pip list'  comand in you terminal and check the web3 package version?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 23:34:00,web3                      6.13.0,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 23:34:00,this is what i get,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-05 23:36:00,and for pdr-backend i have this : pdr-backend               0.0.14          /home/anca/pdr-backend,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-06 18:11:00,"that looks fine, I'm not sure at this point what's the issue on your end",,,-0.0418
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-06 18:31:00,should i just start from scratch with cloning the repo  and everything and just keep the oredictions ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-06 18:46:00,"i mean if i do this will i be able to claim rose for this week? it's fine either way, i am just curious",,,0.4767
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-06 18:46:00,ohh and i ment to ask is there any way to set up the gas fee? or it's automatic,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2024-01-06 18:46:00,N/A,,"👍 (2),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],961181510357123092,abdulmazid_,2024-01-06 21:26:00,How to use ocean pridicator? @awesomeQA,,💯 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2024-01-06 21:27:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-01-07 06:13:00,"Hey @AbdulMazid 
+Sorry for delay 
+
+To use Ocean Predictoor, follow these steps:
+
+1.Play with predictoor.ai: Visit predictoor.ai to build intuition: observe the free feed, perhaps buy a few feeds, and watch them change over time.
+
+2.Run a predictoor bot: Follow the steps in the Predictoor README https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/predictoor.md . Start by running simulations with AI-powered predictions. Then run a predictoor bot on a remote testnet staking fake OCEAN. Finally, do it on the mainnet staking real OCEAN.
+
+3.Optimize the bot: Improve the model prediction accuracy with more data and better algorithms. Extend to predict more than one prediction feed. Wash, rinse, repeat.
+
+Here is the intro to predictoor. 
+
+https://blog.oceanprotocol.com/meet-predictoor-accountable-accurate-prediction-feeds-8b104d26a5d9",,,0.6557
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-08 16:12:00,"-If you reset your project your rewards are not going to be lost so you could start from scratch
+-Gas fee now is calculated automatically based on network usage, but you can also set it manually. Usually you set it manually to a higher value when you want your tx to be executed fasted, but I don't think you would want this now, the network it's not that busy",,❤️ (1),0.8248
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-01-08 17:25:00,thank you so much for your help 🙂,,🙌 (1),0.6369
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-01-15 20:40:00,Fantastic result from Ocean Predictoor. Gaining strength! 🌊✨,https://cdn.discordapp.com/attachments/1151066755796574389/1196433745901785218/image.png?ex=65e5c141&is=65d34c41&hm=e203c3dd37de39f068045b9b7d2bbe1d140e9e8b077440cdc202b46940289a0e&,"🙌 (2),👍 (1)",0.8718
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],827222261266251846,amirtds,2024-01-18 22:01:00,"Hi
+Does anyone know how we are loading the data to feed the model ? I want to see the raw data, I want to add my own data as well since I gather some and trained my model with sklearn as well",,,0.5859
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-19 00:55:00,"Hello
+The data is loaded from **Binance** using the default configuration. The main configuration file is the `ppss.yaml` and in there you should look at the `lake_ss` field if you want to change it. You can also opt for **Kraken** data.
+If you want to check the code you can find it inside the `lake` folder, more specifically look at the `ohlcv_data` related code.",,,0.1531
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],827222261266251846,amirtds,2024-01-19 01:40:00,"Thanks @Norbert | Ocean I take a look at the ppss configs and lake_ss by any change do you know what Binance data we are using is it only candle data ? is there a way to add more data to model training ? also I think Binance only provides 3 month of data via API is predictoor using API or downloaded data ?
+I have done something similar before with sklearn, trained a model with multiple Binance data (fetch them with their websocket, recorded in my db) and trained a model with it that has around 70% of accuracy but it predicts weekly price action. I was curious If i can bring this model to predictoor",,,0.6641
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],699330463906398318,abessalov,2024-01-21 05:43:00,Hey! It seems that payouts are not working now...,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 07:12:00,So it says that we need to enter our private Key. Isn t really dangerous to share our private Key ? 🤔,,,-0.2333
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1186481415248941160,beeluhdh,2024-01-21 07:12:00,where ?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 07:15:00,To run the bot,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 07:15:00,copy & paste your private key as an envvar. In console:,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 07:15:00,I m still wondering about this private Key,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 07:18:00,That s whats written on github's instructions,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-01-21 15:20:00,"Hello! We don’t have tickets support!
+
+You talked to a scammer.",,,0.508
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-01-21 15:20:00,Please be careful,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 17:27:00,Yeah i know thanks 👍,,,0.6249
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 17:28:00,I m still wondering about this private Key,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 17:29:00,On github's instructions it says to enter this command PRIVATE_KEY=<YOUR_PRIVATE_KEY> before running the predictor,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],979094638721892422,beeffree,2024-01-21 17:30:00,Wallet private Key ??,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1179363673337241604,hertz_btc,2024-01-21 21:25:00,try going on  coin nodes mate,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],938443480949194852,emi419,2024-01-22 22:48:00,"You haven’t updated pm2 config file, it still uses main.py which doesn’t exist anymore",,👀 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-01-29 20:42:00,"Hi @EM, thank you for raising this issue!
+I forwarded it to the team and there will be a fix and update to the README comping up soon, meanwhile If you still want to use PM2 you can checkout to version v0.1.3",,,0.4753
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-01-31 01:04:00,Today 690k volume!,https://cdn.discordapp.com/attachments/1151066755796574389/1201935980286713877/image.png?ex=65de161c&is=65cba11c&hm=b5ef98192e4ba9a5867feb7675dceccbeb2609c3e24f679526198a59a1f76972&,"🚀 (2),🥰 (1),🎉 (1),💯 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-01-31 01:04:00,:ocean:,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1030758063872954398,stratego.eth,2024-02-01 15:44:00,"I so badly want to get predictoor going but the setup goes over my head.. 
+
+Any kind people wish to help out?",,,0.8955
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2024-02-01 15:45:00,N/A,,"👍 (1),👎 (1)",0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-02-01 15:47:00,"Hi @Stratego.eth , sure let's figure it out!",,,0.3802
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2024-02-02 16:37:00,"Hi @Idiom | Ocean Protocol , 
+I would like to try to deploy my bot to cloud run again since I have some time next week. By chance, can you share with me the steps you recorded please? This would help me a lot 🙂 Thanks  🙏 🙏 🙏",,,0.9118
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],805905952905494538,roddog5761,2024-02-03 15:50:00,"@KregDkhello, are you able to delegate your ocean to some else to predic for you? Thanks",,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2024-02-03 17:18:00,"not for predicts.  of course, you can have an OTC transaction, but you need to trust the other person to share the profits.",,,0.9022
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],805905952905494538,roddog5761,2024-02-03 19:23:00,OK thanks,,,0.7034
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],805905952905494538,roddog5761,2024-02-03 19:29:00,@Alex | OceanProtocol  so I can't just buy one with a high percentage and stake? Thanks,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2024-02-03 21:10:00,"no, you have to run your own",,,-0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],805905952905494538,roddog5761,2024-02-03 21:17:00,👌 thansk,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],843831770062913568,white_rider_,2024-02-06 01:38:00,Hi @Ocean Core Dev   👋🏻 The predictoor seems to be down,https://cdn.discordapp.com/attachments/1151066755796574389/1204118779475394600/Screenshot_2024-02-05_at_19.26.01.png?ex=65e60700&is=65d39200&hm=cc5c186e593c873ce790f2ee8169a8f93ae5e3f5fe1903199b15c2a1fcc6f0a8&,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-02-06 01:52:00,"Hello! Thank you, I've passed this information to the team. I think everything will be working soon!",,,0.4738
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625415196713943051,alexcos20,2024-02-06 14:23:00,was a temporary glitch from one nginx lb,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],780159213049479179,idiom_bytes,2024-02-08 02:30:00,"Hi Damien, I've had my head down in some other areas and haven't touched my bots in a bit.
+
+We're in the process of getting some new tools that will help you deploy bots.
+If you dig into github, you can even follow our progress. 🖖
+
+We'll share an update when they are out so you can give it a try.",,,0.7717
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2024-02-11 16:09:00,"Hi @Idiom | Ocean Protocol , 
+Tx for the follow-up! I finally managed to deploy my bot on a GCP VM 💪 (instead of cloud run). From what I understood, Cloud Run better fits apps receiving API calls (so it is only billed when it is called). Anyway, it looks to work fine!
+
+Now I want to check the performance of my bot on testnet: when calling `pdr get_predictions_info`, I get a parquet file including predictions from my wallet address but `trueval` and `prediction` columns are empty for all address's predictions, not only mine. Is it because I am on testnet?",,,0.3887
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 21:18:00,"Hi, trying to run my first bot. I'm not able to add ocean token to saphire mainnet. If any from India is running bots here, how to get ROSE tokens. binance coinbase both not operating now.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:19:00,"hello, 
+you can also purchase Rose from the official wallet",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:20:00,this is a scammer,,💩 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 21:27:00,"Is ""https://wallet.oasis.io"" the official wallet?",,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 21:28:00,getting this message while buying from official wallet,https://cdn.discordapp.com/attachments/1151066755796574389/1207317492838694932/transak.png?ex=65df3509&is=65ccc009&hm=f9f5325f547c605bed80531850337c88ab76647d4f0f888a3fdce0b95ce7da24&,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:31:00,"hmmm, same for me. to be honest i didn't buy using Transak  i used binance",,,0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:31:00,i only know it is an option,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:32:00,"but yeah, that's the official wallet and i do have roses there",,,0.4215
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:33:00,omg these scammers,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 21:33:00,"So, you are running a bot from a wallet like this? I started with this wallet couldn't fund the test tokens as address is not valid eth address.",,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:34:00,"ohh, that's the consensus. you would have to transfer to sapphire",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:34:00,for testnet there are faucets,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:35:00,wait a sec,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:35:00,for rose : https://faucet.testnet.oasis.dev/,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:35:00,make sure to select Sapphire,,,0.3182
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 21:36:00,for ocean : https://faucet.sapphire.oceanprotocol.com/,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 21:45:00,"This is what I did to run on testnet:
+1. Added oasis( mainnet and testnet ) to metamask
+2. Got test tokens( rose and oceans) from the faucets
+3. used the private key of metamask wallet to run the bot on testnet.
+
+Problem I'm facing:
+1. I'm based in India, so binance and coinbase can't be used for buying ROSE. I've ocean tokens on Eth network.
+
+
+Can you or anyone suggest step by step to go about it?",,,-0.4019
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 22:07:00,as i said. unfortunately i used binance and only know about Transak  for now. but if i find another way to buy rose i'll let you know,,,-0.1779
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 22:09:00,i think you can also buy on kucoin,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 22:11:00,kucoin is also not operating. The only one is wazirX and for ROSE it is not allowing deposit and withdrawal.,,,0.0258
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 22:16:00,"ohh, you can exchange ocean for rose on lizard",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 22:16:00,https://sapphire.lizard.exchange/swap,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-14 22:18:00,if you have ocean,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],548511512650579988,vishleshak,2024-02-14 22:38:00,"I've ocean in Ethereum mainnet not on saphire network,",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 18:31:00,Hey Amaya!,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 18:31:00,I am here too! I need to figure this out,,❤️ (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-15 18:32:00,hello ❤️,,🫂 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-02-15 19:36:00,"Hello! OCEAN tokens can be bridged from ETH to Sapphire using the Celer bridge. Unfortunately for swapping that to ROSE you need ROSE tokens to pay the gas.. so you need to find a way to get ROSE from some exchange to the Sapphire network.
+
+If you can't use any exchange you might want to look into some solutions that allows you to buy crypto directly using your credit card such as Transak:
+https://transak.com/buy/rose",,,0.2714
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-15 19:49:00,for gas there is a faucet that can be used: https://rose.supply/,,👍 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-02-15 19:56:00,"Oh nice, yeah good point!",,❤️ (1),0.8016
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 20:44:00,Amaya is amazing,,❤️ (1),0.5859
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 20:45:00,OK so I have Rose on Sapphire but I also need Eth? so I will need eth both for the bridge and gas to get to Sapphire?,,,0.324
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-02-15 20:55:00,you only need Eth on Eth network for bridging tokens to Sapphire,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 20:58:00,oh so once they are there I don't need the eth anymore.,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-02-15 21:04:00,"that's right, just make sure you always have some ROSE to pay for the tx fees",,🌹 (1),0.5267
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 21:04:00,thank you!!,,🫡 (1),0.4738
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-15 21:14:00,but why is ETH needed 🤔 ? i never needed eth. only ocean and rose,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2024-02-15 21:15:00,N/A,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],804400713123102741,Norbert | Ocean#7805,2024-02-15 21:24:00,"depends on your actions, but if you are using Celer bridge then you are right, the bridge tx fee is going to be paid in OCEAN",,,0.5023
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],619225267650428928,danelleoasiscommunitymod,2024-02-15 21:28:00,"I guess my next question is, and forgive me for not poking around more (I only did predictoor testnet) can I swap my Rose for Ocean? or do I have to acquire Ocean another way?",,,0.3527
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-15 21:41:00,you can use lizard exchange,,👍 (2),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-15 21:41:00,https://sapphire.lizard.exchange/swap,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2024-02-16 23:36:00,"Hello, 
+I need some help to understand the performance of my bot that is running on testnet: when calling pdr `get_predictions_info`, I get a parquet file including predictions from my wallet address but `trueval` and `prediction`  columns are empty for all address's predictions, not only mine. Is it because I am on testnet? Thanks 🙏",,,0.5423
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],625970462920409107,0xbossanova_whitewhalle,2024-02-17 08:20:00,"@DamienQ It sounds like you're having trouble getting the full information about the predictions of your bot on the testnet. It's possible that the issue is related to being on the testnet, as some data may not be available or fully implemented on the testnet. You could try reaching out to the customer support team of the platform you're using for more information. Have you tried looking at the documentation for more information about this issue?",,,0.5106
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],916979355429777428,damien_q,2024-02-17 16:40:00,"The doc only says:
+
+The CLI has a tool to track performance. Type pdr get_predictoor_info -h for details.",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],632629512441692160,napoleone_79,2024-02-18 20:04:00,Where can I find info how to run an predictor bot?,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-02-18 20:59:00,"Hey
+We have a tutorial on how to run a Predictoor bot. 😉
+
+Here is the link: https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/predictoor.md",,🫡 (1),0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-19 04:11:00,"hello,
+is it not possible to run multiple predictoor bots with the same wallet?",,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1147537632302202910,ndubss,2024-02-19 04:12:00,Scam !,,,-0.6114
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-19 04:12:00,thank you,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1147537632302202910,ndubss,2024-02-19 04:16:00,"Running multiple predictoor bots in Ocean Protocol involves some limitations and complexities, but there are potential workarounds depending on your needs and risk tolerance. Here's what you need to know:
+
+ Challenges and Limitations:
+
+Security: Using multiple bots with the same wallet increases your attack surface, as each bot needs access to private keys and could potentially drain funds. This is the biggest concern.
+API Key Restrictions: Depending on the platform you use to connect your bots, API key limitations might hinder running multiple bots simultaneously.
+Exchange Restrictions: Some cryptocurrency exchanges impose limitations on the number of bots or API keys allowed per account.
+Complexity: Managing and coordinating multiple bots with different strategies can be challenging and susceptible to unintended consequences.
+ Potential Workarounds:
+
+Multiple Wallets: This is the safest option, requiring separate wallets for each bot with unique private keys. However, managing multiple wallets effectively adds complexity and requires strong security practices.
+Single Bot with Strategy Switching: Develop a single bot capable of switching between different prediction strategies based on defined parameters. This offers flexibility while maintaining control in one place.
+Testnets and Simulations: Utilize platforms like Ocean Testnet or other simulations to test your bots and strategies without risking real funds. This is recommended before deploying bots on the mainnet.
+Cloud Providers and Virtual Machines: Explore advanced setups using cloud providers like AWS or Azure to create isolated virtual machines for each bot, potentially improving security but requiring technical expertise.
+ Disclaimer:
+
+Due to the inherent security risks, running multiple bots on the same wallet is generally not recommended.
+Carefully consider the risks and legal implications in your region before using bots for trading.
+Thoroughly research and understand the limitations and complexity involved before attempting any workaround.
+Never share your private keys or seed phrases with any bot or program.",,❤️ (1),0.9895
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1147537632302202910,ndubss,2024-02-19 04:17:00,@Amaya welcome,,❤️ (1),0.4588
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-19 04:18:00,and thank you for your comprehensive answer,,,0.5423
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1147537632302202910,ndubss,2024-02-19 04:20:00,"You’re welcome, what you’re trying to do is risky",,❤️ (1),0.296
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1147537632302202910,ndubss,2024-02-19 04:21:00,But if you really want to run it make sure you use the revoke first to keep your wallet safe,,,0.8266
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],330671265566425089,ancarizan,2024-02-19 04:22:00,i think i'll stick to one for now. thank you so much,,,0.3612
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1147537632302202910,ndubss,2024-02-19 04:24:00,I’d suggest that! Anytime,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1201948872579240000,kdbabe1,2024-02-19 07:35:00,N/A,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],502033888000999425,quandinhhh,2024-02-19 12:51:00,"Hello, I have a question. What if my prediction is wrong? Will I lose all my stake?",,,-0.7319
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],955744627481255976,awesomeQA#0813,2024-02-19 12:52:00,N/A,,,0.0
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],1209145432631156766,franco_23621,2024-02-19 22:38:00,hi guys is it a good tome to purchase ocean protocol and xrp?,,,0.4404
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-02-20 00:10:00,Hi! please don't discuss the price and buying tokens here),,,0.3802
+Ocean Protocol - ECOSYSTEM - 🤖︱predictoor [1151066755796574389],739132787499597824,kreigdk,2024-02-20 00:11:00,"Hello! The bot has already given you an answer and I hope it helps you 🙂
+If you have any further questions, feel free to ask.👀",,👍 (1),0.8439

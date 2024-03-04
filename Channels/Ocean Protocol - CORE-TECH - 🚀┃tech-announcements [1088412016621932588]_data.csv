@@ -1,0 +1,147 @@
+Channel,AuthorID,Author,Date,Content,Attachments,Reactions,sentiment
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],804604311015129089,doteth,2023-03-24 13:00:00,"@💻Developer 
+
+Join our first Developer Relations Workshop today on Discord at 1PM UTC
+
+https://discord.com/events/612953348487905282/1086204775319732294
+
+Get the inside scoop on Ocean engineering updates & join other developers working with Ocean Protocol #opensource tools ⚒️",,"💪 (4),🚀 (3)",0.3182
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843787928622989322,cassette38,2023-03-24 21:58:00,"🎉🎉🎉 We have some awesome technology updates, packed with cool new features that will make your Ocean experience even better.
+
+This announcement is for: **MULTICHAIN PROVIDER**
+
+**NOTE: It has been released but it is NOT yet in production. We are currently testing it.**
+
+Here’s what you can expect from this update:
+● Provider to serve all chains
+● Reduces devops
+● Eases deployment/maintenance
+● Reduces monitoring and debugging
+● Run c2d jobs with assets from different chains (with constraints - not available in the market)
+● It is backwards compatible
+● Major provider version: 2.0.0 released and available in barge
+● Ocean.js 2.7.0 includes multichain provider support
+● Ocean.py 2.2.0 includes multichain provider support.
+
+We can’t wait for you to try out the new features and see how they help you achieve your goals with Ocean Protocol. We’re always working hard to improve our technology, and we’d love to hear your feedback.
+
+Don’t worry if you run into any glitches, our developers are on standby to help you out and fix them in a flash.
+
+Thank you for being part of our amazing community. 🎉🎉🎉",,"Oceancopy (9),🚀 (7),🙌 (4)",0.9899
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843787928622989322,cassette38,2023-04-03 18:06:00,"📣 Ahoy, Oceaners! We’ve got some exciting news to share with you! The MULTICHAIN PROVIDER update is now available in production version 2.0.1, so be sure to check it out at https://github.com/oceanprotocol/provider/releases/tag/v2.0.1.
+
+You can also find:
+
+●Ocean.js with multichain provider released and available here 2.7.0: https://www.npmjs.com/package/@oceanprotocol/lib and
+●Ocean.py with multichain provider released and available here 2.2.0: https://pypi.org/project/ocean-lib/
+●Ocean Market with multichain provider at https://market.oceanprotocol.com/
+
+As always, our developers are on standby to help you out if you encounter any blockers.
+
+We cannot wait for you to try it out and share your feedback with us! 🎉",,"🍻 (1),🔥 (4),🎉 (1)",0.9145
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-04-05 18:24:00,"@everyone Greetings, oceaners 🌊! 
+
+We have some thrilling news to share with you. Ocean has teamed up with Orbis to introduce end-to-end encrypted messaging, and it's now live. Check out the details in our latest blog post: https://blog.oceanprotocol.com/ocean-protocol-partners-with-orbis-to-launch-end-to-end-encrypted-messaging-on-ocean-market-ed481d470dad.
+
+🎊 Private messaging is now available on the Ocean Market 🎊. This feature allows you to communicate directly with data sellers and buyers, establish trust, and enhance the quality of datasets and algorithms. Head to the Ocean Market https://market.oceanprotocol.com/ to start texting and collaborating! :Oceancopy:
+
+As always, our developers are on standby to help you out if you encounter any issues",,"Oceancopy (36),👏 (27),🏆 (12),🧜‍♀️ (7),🚀 (12),ceramic (2),pepecool (2)",0.9285
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-05-09 22:48:00,"@everyone Hello oceaners 🌊 ! 
+
+I'm happy to share great news with you all! Our team has been diving deep into the ocean depths of Ocean.js and the Ocean Market, and we are preparing for new releases. 
+
+The upcoming **ocean.js 3.0.0** https://github.com/oceanprotocol/ocean.js/releases/tag/v3.0.0-next.3 will come with some ⚠️ breaking changes  and 🎉 exciting features, including a complete refactoring of the library to use ethers.js instead of web3.js, as well as improvements to the jsDocs and the addition of typeDoc. 🐠
+
+On the **Ocean Market** https://market-git-feature-wagmi-oceanprotocol.vercel.app/, we have added support for WalletConnect 2.0 by refactoring wallet interactions to use wagmi and ethers instead of web3Modal, and have updated the code to use the upcoming ocean.js 3.0.0. 🚀
+
+As we approach the finish line of our testing phase, we'd love your help in validating these changes. So it would be great if you’d come dive with us and test them yourself, as your feedback always ranks high with us 🙏🏻 
+
+While we don’t yet have a confirmed date for the release, be sure that we’ll make a splash when it’s ready to launch. So stay tuned for more updates and announcements! ❤️‍🔥 :ocean:",,"🔥 (25),ocean (17),octopus (4),dolphin (4)",0.9896
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],776809690734395433,swish24_08,2023-05-09 22:50:00,N/A,https://cdn.discordapp.com/attachments/1088412016621932588/1105507198492225689/image0.gif?ex=65ddf6cf&is=65cb81cf&hm=38ecf34149aaba72da85a9a0e74c9600cdbc767ea28afa5c4146bb5df1c99a26&,🙌🏻 (6),0.0
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],881305463831007272,nickscavuzzo33,2023-05-29 20:57:00,"⚡️Great news on our stack @everyone! 
+
+Updates have been completed on both Ocean.js and Ocean Market…
+
+ Ocean.js 3.0.0 release (https://www.npmjs.com/package/@oceanprotocol/lib),  introduces a number of updates:. Including a complete refactoring of the library to utilize ethers.js instead of web3.js, along with enhanced js Docs and the addition of typeDoc.
+
+🛠️ Market? On the Ocean Market (https://market.oceanprotocol.com), we've integrated support for WalletConnect 2.0, & revamped wallet interactions to utilize wagmi and ethers, bidding farewell to web3Modal 👋🏼
+
+Questions on using these new features? Please drop them in relevant channels here on discord.",,,0.2851
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],881305463831007272,nickscavuzzo33,2023-05-30 01:11:00,"Many community members are asking potential implications of recent token actions, and Ocean revoking control over the token contract. For clarity, attached is a recording of an AMA the team held last week that describes what & how this means for the token. The AMA  did not introduce any new information. It's all in the blog posts published earlier in the week (links below). And the info there is simply executing on of a policy that we've communicated since the earliest days of Ocean. All of the tokens minted will go to the community, mostly vested over decades.
+The ama was 9.30pm in Japan/Korea, 2.30pm in Berlin, and earlier in the morning in North America.
+Here are the blog posts 🤝 please refer to #💭︱general-chat  for questions, comments, and feedback 📲
+https://blog.oceanprotocol.com/control-over-the-ocean-contract-to-be-revoked-soon-overview-6c5b15be2db
+https://blog.oceanprotocol.com/control-over-the-ocean-contract-to-be-revoked-soon-technical-77cb8923171",https://cdn.discordapp.com/attachments/1088412016621932588/1112790253980360734/OCEAN_Token_AMA.mp3?ex=65e600af&is=65d38baf&hm=566691f49b7be0006a7c00400eb2a3be533e12adecf24572e1b65ce2b0d7f52f&,,0.6808
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-05-30 22:34:00,"Hey, everyone! 👋 We're encountering a few hiccups with the Polygon network at the moment. But don't worry, our awesome engineers are on the case and working hard to debug and fix the  issues. We'll make sure to keep you in the loop and provide updates along the way. Thanks for your patience!",,,0.6654
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-06-01 19:31:00,"@everyone Hey there, oceaners! 👋
+
+We're in search of an exceptional individual to join our team, and we want to ensure we find the perfect fit. If you possess the following skills and share our passion for building innovative solutions and shaping the future of data, we'd love to hear from you! Here are the specific skills we're looking for:
+
+1. Software Experience: Have 10 or more years of overall software development experience👨‍💻
+
+2. Python: We're seeking someone with a minimum of 5 years of experience in Python. Strong proficiency in Python programming and a deep understanding of its ecosystem is fantastic 🐍
+
+3. Web3: If you have at least 1 year of experience with Web3 and a solid understanding of interacting with smart contracts, you'll be a great asset to our team. We need someone who can navigate the Web3 landscape with ease 🔗
+
+4. Docker: Experience using Docker is a must. We'd like someone with at least 1 year of practical knowledge in Docker, as we heavily rely on containerisation 🐳
+
+5. JavaScript: While we primarily focus on Python, having a minimum of 1 year of experience with JavaScript is valuable. Familiarity with reading and understanding JavaScript code will come in handy when collaborating on projects involving both Python and JavaScript 🌐
+
+If you meet these skill requirements and are genuinely excited about building things and shaping the future of data, we're eager to hear from you! Please send an email to **devjobs@oceanprotocol.com**, including the following:
+
+- Your cover letter: We'd love to hear why you're enthusiastic about joining our team and how your skills align with our goals. ✉️
+
+- Your CV: Share your professional background, highlighting your relevant experience. 📃
+
+- Code samples (e.g., GitHub profile): Show us some of your remarkable work and projects you've contributed to. 🚀
+
+We can't wait to learn more about you and potentially welcome you aboard our talented team! 🌊",,"🫂 (13),981739813688471612 (8),💻 (4)",0.9973
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-07-17 17:34:00,"@everyone 🌊 Hi Oceaners! 🌊
+
+We have some incredible news to share with you today. We've been listening closely to your feedback, and our dedicated team has been working hard to revamp our documentation and bring it to a whole new level! 🚀📚
+
+We are absolutely thrilled to announce that the brand-new Ocean Protocol documentation is now live and ready for you to explore. We've added a wealth of new content that delves deeper into Ocean Protocol, the ecosystem, technical details about the components, and so much more. With redesigned visuals and a fresh tone, our aim is to provide you with an enhanced understanding of the Ocean Protocol mission, vision, and the tools at your disposal. 🌟💡
+
+🔗 You can access the new documentation right here: https://docs.oceanprotocol.com/
+
+Happy exploring, and don't forget to share your thoughts with us! 💬✨",,"ocean (32),😎 (17),🇳🇿 (3),🥱 (2),OPAPShield (4),👍 (4),🙌🏻 (3),🚀 (4),dolphin (4)",0.9733
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],780159213049479179,idiom_bytes,2023-07-19 01:04:00,"Hey @everyone
+
+We just shipped a pretty awesome framework to build Ocean-powered,  tokengated, AI apps.
+
+We're live right now at ECC hacking away on it.
+
+Come show your support and give it some love.
+
+https://twitter.com/oceanprotocol/status/1681187882726490113?s=19",,"❤️ (15),ocean (12),😄 (6),🙌🏻 (2)",0.9349
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-07-20 22:03:00,"@everyone Dear Oceaners 🌊 
+
+We're excited to announce that the Sepolia test network is now supported across the entire stack! 🎉 Feel free to dive in.
+
+As we continue to fine-tune, your valuable feedback plays a crucial role. If you come across any issues or have suggestions for enhancements, please let us know. Your input is greatly appreciated!
+
+Happy testing!",,"❤️ (20),lfg (5),ocean (8),👍 (4)",0.9762
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],491398040729681930,carmina19,2023-09-04 16:45:00,"@everyone 🚀 Exciting News Oceaners! 🚀
+We're happy to announce the release and deployment of the latest `Provider` and `C2D` infrastructure on `GCP` (Google Cloud Platform). These updates address and fix all reported issues regarding C2D.
+
+Happy coding!",,"🙌🏻 (29),eyesShaking (8),🚀 (12),ocean (11),❤️ (6),dolphin (5),🔥 (1)",0.9039
+Ocean Protocol - CORE-TECH - 🚀┃tech-announcements [1088412016621932588],843831770062913568,white_rider_,2023-09-28 22:18:00,"@everyone 🚀 Introducing the Ocean Protocol CLI! 🌊
+
+We are thrilled to announce a significant milestone in our journey. Today, we're unveiling the **Ocean CLI**, a powerful tool designed to enhance your Ocean experience.
+
+🌐 **Key Features**
+The CLI leverages the robust ocean.js library and offers a range of functionalities that put you in control:
+
+1. **Publish Data Services:** Easily share downloadable files or enable compute-to-data services to the world.
+2. **Edit Existing Assets:** Manage and update your assets with user-friendly commands.
+3. **Consume Data Services:** Access data services, order datatokens, and download data effortlessly.
+4. **Compute to Data:** Dive into public datasets and apply published algorithms to harness the full potential of data-driven insights.
+
+🤖 Whether you're a developer, data enthusiast, or explorer of the digital ocean, the CLI empowers you to interact with Ocean Protocol.
+
+🔗 **Get Started:**
+To start using the CLI and unlock these incredible features, visit the GitHub repository: https://github.com/oceanprotocol/ocean-cli.
+
+💡 **Stay Tuned:**
+We're committed to continuous improvement, and your feedback is invaluable. Please share your thoughts, suggestions, and any issues you encounter on the GitHub repository: https://github.com/oceanprotocol/ocean-cli.
+Thank you 🙏",,"dolphin (41),👀 (26),🚀 (24),💯 (19),ocean (19),🎉 (17),OPAPShield (13)",0.9778
