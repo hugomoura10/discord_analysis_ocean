@@ -34,3 +34,4 @@ plt.xlabel('Month-Year')
 plt.ylabel('New Users Count')
 plt.xticks(rotation='vertical')
 plt.show()
+
