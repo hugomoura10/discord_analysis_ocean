@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load your Discord dataset
+# Load dataset
 df = pd.read_csv('Datasets/Ocean Discord Data Challenge Dataset.csv')
 
 df['Content'].fillna('N/A', inplace=True)
@@ -19,7 +19,7 @@ new_users_df['MonthYear'] = new_users_df['MonthYear'].dt.to_timestamp()
 new_users_count_per_month = new_users_df.groupby('MonthYear').size().reset_index(name='NewUsersCount')
 
 new_users_count_per_month.to_csv('new_users_count_per_month.csv', index=False)
-# Print the result
+
 print(new_users_count_per_month)
 
 total_new_users_count = new_users_count_per_month['NewUsersCount'].sum()

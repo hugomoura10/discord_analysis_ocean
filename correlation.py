@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Load the message count dataset
+# Load dataset
 message_count_df = pd.read_csv('Datasets/Monthly_Message_Count.csv')
 message_count_df['Date'] = pd.to_datetime(message_count_df['Date'], format='%Y-%m-%d')
 
@@ -15,7 +15,7 @@ price_df['Date'] = pd.to_datetime(price_df['Date'], format='%m/%d/%Y')  # Adjust
 new_users_df = pd.read_csv('Datasets/Monthly_New_Users.csv')
 new_users_df['Date'] = pd.to_datetime(new_users_df['Date'], format='%Y-%m-%d')  # Adjust the format accordingly
 
-# Merge datasets on 'Date'
+# Merging on 'Date'
 merged_df = pd.merge(message_count_df, sentiment_df, on='Date', how='inner')
 merged_df = pd.merge(merged_df, price_df, on='Date', how='inner')
 merged_df = pd.merge(merged_df, new_users_df, on='Date', how='inner')
