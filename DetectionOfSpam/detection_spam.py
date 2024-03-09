@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 # Load the spam training data
-spam_data = pd.read_csv('Datasets/spam_ham.csv', encoding='latin-1')
+spam_data = pd.read_csv('DetectionOfSpam/spam_ham.csv', encoding='latin-1')
 # Use only the relevant columns
 spam_data = spam_data[['v1', 'v2']]
 # Rename columns for clarity
@@ -40,13 +40,13 @@ actual_data_vectorized = vectorizer.transform(actual_data['Content'])
 actual_data['IsSpam'] = naive_bayes_classifier.predict(actual_data_vectorized)
 
 # Save the results to a new CSV file
-actual_data.to_csv('Datasets/spam_detection_results_with_authors.csv', index=False)
+actual_data.to_csv('DetectionOfSpam/spam_detection_results_with_authors.csv', index=False)
 
 # Filter out messages classified as spam
 spam_messages = actual_data[actual_data['IsSpam'] == 1]
 
 # Save the spam messages to a new CSV file
-spam_messages.to_csv('Datasets/spam_messages.csv', index=False)
+spam_messages.to_csv('DetectionOfSpam/spam_messages.csv', index=False)
 
 # Display the first few rows of the spam messages
 print('\nSpam Messages:')
