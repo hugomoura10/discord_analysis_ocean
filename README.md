@@ -1,4 +1,4 @@
-# discord_analysis_ocean
+# Ocean Discord Community Dynamics analysis - Hugo Moura
 
 $Ocean Discord channel sentiment and trends analysis
 
