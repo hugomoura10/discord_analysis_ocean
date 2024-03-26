@@ -9,8 +9,6 @@ spam_data = pd.read_csv('DetectionOfSpam/spam_ham.csv', encoding='latin-1')# tra
 
 spam_data = spam_data[['v1', 'v2']]
 spam_data.columns = ['Label', 'Content']
-
-# Map 'ham' to 0 (not spam) and 'spam' to 1 (spam)
 spam_data['Label'] = spam_data['Label'].map({'ham': 0, 'spam': 1})
 
 X_train, X_test, y_train, y_test = train_test_split(spam_data['Content'], spam_data['Label'], test_size=0.2, random_state=42)
@@ -22,8 +20,6 @@ X_test_vectorized = vectorizer.transform(X_test)
 # Train 
 naive_bayes_classifier = MultinomialNB()
 naive_bayes_classifier.fit(X_train_vectorized, y_train)
-
-# Load the actual CSV
 actual_data = pd.read_csv('Datasets/Ocean Discord Data Challenge Dataset.csv')
 
 actual_data['Content'].fillna('', inplace=True)
@@ -60,7 +56,7 @@ def get_most_common_words(data, top_n=40):
 
     return most_common_words_spam
 
-# Get the 20 most common words in spam messages and plot the Word Cloud
+# Get the 20 most common words
 most_common_words_spam = get_most_common_words(spam_messages['Content'], top_n=40)
 
 plt.figure(figsize=(10, 6))
