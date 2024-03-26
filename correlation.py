@@ -19,8 +19,6 @@ merged_df = pd.merge(message_count_df, sentiment_df, on='Date', how='inner')
 merged_df = pd.merge(merged_df, price_df, on='Date', how='inner')
 merged_df = pd.merge(merged_df, new_users_df, on='Date', how='inner')
 
-
-# Calculate correlation between diff. variables
 correlation_price_message = merged_df['MessageCount'].corr(merged_df['Price'])
 correlation_price_sentiment = merged_df['mean'].corr(merged_df['Price'])
 correlation_price_new_users = merged_df['NewUsersCount'].corr(merged_df['Price'])
