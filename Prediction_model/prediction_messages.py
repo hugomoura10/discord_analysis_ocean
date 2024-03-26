@@ -14,7 +14,6 @@ data.columns = ['ds', 'y']
 fig, ax = plt.subplots()
 ax.plot(data['ds'], data['y'], label='actual', color='g')
 
-# Set the locator for the x-axis to show years
 ax.xaxis.set_major_locator(YearLocator())
 
 # Format the date labels to display only the years
@@ -44,12 +43,8 @@ plt.show()
 model.plot_components(forecast)
 mae_historical = mean_absolute_error(actual_prediction['y'], actual_prediction['yhat1'])
 print(f"Mean Absolute Error on Historical Data: {mae_historical}")
-
-# Check the lengths of actual and forecast for future predictions
 print("Length of Actual Data:", len(data['y']))
 print("Length of Forecast Data:", len(forecast['yhat1']))
-
-# Calculate MAE for future predictions if lengths match
 if len(data['y']) == len(forecast['yhat1']):
     mae_future = mean_absolute_error(data['y'], forecast['yhat1'])
     print(f"Mean Absolute Error on Future Data: {mae_future}")

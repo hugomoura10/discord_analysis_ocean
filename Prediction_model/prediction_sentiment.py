@@ -15,10 +15,8 @@ sent.columns = ['ds', 'y']
 fig, ax = plt.subplots()
 ax.plot(sent['ds'], sent['y'], label='actual', color='g')
 
-# Set the locator for the x-axis to show years
 ax.xaxis.set_major_locator(YearLocator())
 
-# Format the date labels to display only the years
 plt.xticks(rotation=45, ha='right')
 
 plt.legend()
@@ -50,7 +48,6 @@ print(f"Mean Absolute Error on Historical Data: {mae_historical}")
 print("Length of Sentiment Data:", len(sent['y']))
 print("Length of Forecast Data:", len(forecast['yhat1']))
 
-# Ensure that the lengths match before calculating MAE
 if len(sent['y']) == len(forecast['yhat1']):
     mae_future = mean_absolute_error(sent['y'], forecast['yhat1'][:len(sent['y'])])
     print(f"Mean Absolute Error on Future Data: {mae_future}")
