@@ -1,5 +1,5 @@
 # Ocean Discord Community Dynamics analysis - Hugo Moura
 
-$Ocean Discord channel sentiment and trends analysis
+$Ocean Discord channel sentiment, trends/patterns analysis and prediction.
 
-Code with datasets and code for filtering and data analysis
+Code with datasets, filtering, analysis and prediction forecasting.
